@@ -34,11 +34,23 @@
       "sourceUrl": "https://files.catbox.moe/gqpoq2.jpg",
       "url": "https://mira-storage.vercel.app/api/u/jtru19ggrg.jpg",
       "createdAt": 1774777314427
+    },
+    "le935jgj3x": {
+      "id": "le935jgj3x",
+      "originalName": "gqpoq2.jpg",
+      "storedName": "le935jgj3x.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 189683,
+      "expiresAt": 1775149928892,
+      "sourceUrl": "https://files.catbox.moe/gqpoq2.jpg",
+      "url": "https://mira-storage.vercel.app/api/u/le935jgj3x.jpg",
+      "createdAt": 1774793528892
     }
   },
   "stats": {
-    "uploads": 3,
+    "uploads": 4,
     "deleted": 0,
-    "totalBytes": 518229
+    "totalBytes": 707912
   }
 }
