@@ -1,0 +1,20 @@
+{
+  "files": {
+    "agadbq6nqd": {
+      "id": "agadbq6nqd",
+      "originalName": "IMG-20260329-WA0080.jpg",
+      "storedName": "agadbq6nqd.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 138863,
+      "expiresAt": null,
+      "url": "https://mira-storage.vercel.app/api/u/agadbq6nqd.jpg",
+      "createdAt": 1774776295543
+    }
+  },
+  "stats": {
+    "uploads": 1,
+    "deleted": 0,
+    "totalBytes": 138863
+  }
+}
