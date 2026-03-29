@@ -1,17 +1,5 @@
 {
   "files": {
-    "gai31hhv1r": {
-      "id": "gai31hhv1r",
-      "originalName": "gqpoq2.jpg",
-      "storedName": "gai31hhv1r.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 189683,
-      "expiresAt": 1774863699301,
-      "sourceUrl": "https://files.catbox.moe/gqpoq2.jpg",
-      "url": "https://mira-storage.vercel.app/api/u/gai31hhv1r.jpg",
-      "createdAt": 1774777299301
-    },
     "le935jgj3x": {
       "id": "le935jgj3x",
       "originalName": "gqpoq2.jpg",
@@ -27,7 +15,7 @@
   },
   "stats": {
     "uploads": 5,
-    "deleted": 3,
-    "totalBytes": 379366
+    "deleted": 4,
+    "totalBytes": 189683
   }
 }
