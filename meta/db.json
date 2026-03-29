@@ -12,18 +12,6 @@
       "url": "https://mira-storage.vercel.app/api/u/gai31hhv1r.jpg",
       "createdAt": 1774777299301
     },
-    "jtru19ggrg": {
-      "id": "jtru19ggrg",
-      "originalName": "gqpoq2.jpg",
-      "storedName": "jtru19ggrg.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 189683,
-      "expiresAt": 1774863714427,
-      "sourceUrl": "https://files.catbox.moe/gqpoq2.jpg",
-      "url": "https://mira-storage.vercel.app/api/u/jtru19ggrg.jpg",
-      "createdAt": 1774777314427
-    },
     "le935jgj3x": {
       "id": "le935jgj3x",
       "originalName": "gqpoq2.jpg",
@@ -51,7 +39,7 @@
   },
   "stats": {
     "uploads": 5,
-    "deleted": 1,
-    "totalBytes": 758732
+    "deleted": 2,
+    "totalBytes": 569049
   }
 }
