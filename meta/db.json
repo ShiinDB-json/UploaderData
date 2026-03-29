@@ -46,11 +46,23 @@
       "sourceUrl": "https://files.catbox.moe/gqpoq2.jpg",
       "url": "https://mira-storage.vercel.app/api/u/le935jgj3x.jpg",
       "createdAt": 1774793528892
+    },
+    "ty8a7tfszw": {
+      "id": "ty8a7tfszw",
+      "originalName": "gqpoq2.jpg",
+      "storedName": "ty8a7tfszw.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 189683,
+      "expiresAt": null,
+      "sourceUrl": "https://files.catbox.moe/gqpoq2.jpg",
+      "url": "https://mira-storage.vercel.app/api/u/ty8a7tfszw.jpg",
+      "createdAt": 1774793607372
     }
   },
   "stats": {
-    "uploads": 4,
+    "uploads": 5,
     "deleted": 0,
-    "totalBytes": 707912
+    "totalBytes": 897595
   }
 }
