@@ -1,21 +1,8 @@
 {
-  "files": {
-    "le935jgj3x": {
-      "id": "le935jgj3x",
-      "originalName": "gqpoq2.jpg",
-      "storedName": "le935jgj3x.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 189683,
-      "expiresAt": 1775149928892,
-      "sourceUrl": "https://files.catbox.moe/gqpoq2.jpg",
-      "url": "https://mira-storage.vercel.app/api/u/le935jgj3x.jpg",
-      "createdAt": 1774793528892
-    }
-  },
+  "files": {},
   "stats": {
     "uploads": 5,
-    "deleted": 4,
-    "totalBytes": 189683
+    "deleted": 5,
+    "totalBytes": 0
   }
 }
