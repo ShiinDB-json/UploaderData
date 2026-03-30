@@ -10,11 +10,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/qusrqe0k7k.jpg",
       "createdAt": 1774891693378
+    },
+    "flt0ftrrw8": {
+      "id": "flt0ftrrw8",
+      "originalName": "IMG-20260330-WA0058.jpg",
+      "storedName": "flt0ftrrw8.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 79396,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/flt0ftrrw8.jpg",
+      "createdAt": 1774891723451
     }
   },
   "stats": {
-    "uploads": 6,
+    "uploads": 7,
     "deleted": 5,
-    "totalBytes": 288274
+    "totalBytes": 367670
   }
 }
