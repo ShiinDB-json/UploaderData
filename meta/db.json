@@ -1,8 +1,20 @@
 {
-  "files": {},
+  "files": {
+    "qusrqe0k7k": {
+      "id": "qusrqe0k7k",
+      "originalName": "IMG-20260330-WA0140.jpg",
+      "storedName": "qusrqe0k7k.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 288274,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/qusrqe0k7k.jpg",
+      "createdAt": 1774891693378
+    }
+  },
   "stats": {
-    "uploads": 5,
+    "uploads": 6,
     "deleted": 5,
-    "totalBytes": 0
+    "totalBytes": 288274
   }
 }
