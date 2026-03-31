@@ -197,11 +197,22 @@
       "expiresAt": 1774963501970,
       "url": "https://cdn.miranight.me/api/u/olqke9vcov.webp",
       "createdAt": 1774959901970
+    },
+    "h65pthvbdv": {
+      "id": "h65pthvbdv",
+      "originalName": "file.mp4",
+      "storedName": "h65pthvbdv.mp4",
+      "folder": "video",
+      "mimeType": "video/mp4",
+      "size": 1859350,
+      "expiresAt": 1774963837742,
+      "url": "https://cdn.miranight.me/api/u/h65pthvbdv.mp4",
+      "createdAt": 1774960237742
     }
   },
   "stats": {
-    "uploads": 23,
+    "uploads": 24,
     "deleted": 5,
-    "totalBytes": 12179925
+    "totalBytes": 14039275
   }
 }
