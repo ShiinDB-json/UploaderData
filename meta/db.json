@@ -76,11 +76,22 @@
       "expiresAt": 1774928576551,
       "url": "https://cdn.miranight.me/api/u/j5s6p4ualb.jpeg",
       "createdAt": 1774924976551
+    },
+    "6r07bre58l": {
+      "id": "6r07bre58l",
+      "originalName": "file.txt",
+      "storedName": "6r07bre58l.txt",
+      "folder": "text",
+      "mimeType": "text/plain",
+      "size": 290012,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/6r07bre58l.txt",
+      "createdAt": 1774925105791
     }
   },
   "stats": {
-    "uploads": 12,
+    "uploads": 13,
     "deleted": 5,
-    "totalBytes": 8955590
+    "totalBytes": 9245602
   }
 }
