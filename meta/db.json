@@ -32,11 +32,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/aiu8n2bpq5",
       "createdAt": 1774924135886
+    },
+    "8h2qu3075t": {
+      "id": "8h2qu3075t",
+      "originalName": "file",
+      "storedName": "8h2qu3075t",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 310012,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/8h2qu3075t",
+      "createdAt": 1774924280230
     }
   },
   "stats": {
-    "uploads": 8,
+    "uploads": 9,
     "deleted": 5,
-    "totalBytes": 677682
+    "totalBytes": 987694
   }
 }
