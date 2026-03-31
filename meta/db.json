@@ -131,11 +131,22 @@
       "expiresAt": 1774977607873,
       "url": "https://cdn.miranight.me/api/u/aan7ln0p63.jpeg",
       "createdAt": 1774952407873
+    },
+    "63vef15kje": {
+      "id": "63vef15kje",
+      "originalName": "file.mp4",
+      "storedName": "63vef15kje.mp4",
+      "folder": "video",
+      "mimeType": "video/mp4",
+      "size": 266148,
+      "expiresAt": 1774977613152,
+      "url": "https://cdn.miranight.me/api/u/63vef15kje.mp4",
+      "createdAt": 1774952413152
     }
   },
   "stats": {
-    "uploads": 17,
+    "uploads": 18,
     "deleted": 5,
-    "totalBytes": 9405289
+    "totalBytes": 9671437
   }
 }
