@@ -54,11 +54,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/etkyz6dcv5",
       "createdAt": 1774924366613
+    },
+    "kowvmgnbd3": {
+      "id": "kowvmgnbd3",
+      "originalName": "file.mp4",
+      "storedName": "kowvmgnbd3.mp4",
+      "folder": "video",
+      "mimeType": "video/mp4",
+      "size": 3968911,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/kowvmgnbd3.mp4",
+      "createdAt": 1774924618219
     }
   },
   "stats": {
-    "uploads": 10,
+    "uploads": 11,
     "deleted": 5,
-    "totalBytes": 4956605
+    "totalBytes": 8925516
   }
 }
