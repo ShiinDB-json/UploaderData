@@ -98,11 +98,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/5322zct3pd.webp",
       "createdAt": 1774925288608
+    },
+    "qndskxxyi5": {
+      "id": "qndskxxyi5",
+      "originalName": "file.jpeg",
+      "storedName": "qndskxxyi5.jpeg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 44547,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/qndskxxyi5.jpeg",
+      "createdAt": 1774941108833
     }
   },
   "stats": {
-    "uploads": 14,
+    "uploads": 15,
     "deleted": 5,
-    "totalBytes": 9266278
+    "totalBytes": 9310825
   }
 }
