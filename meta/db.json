@@ -21,11 +21,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/flt0ftrrw8.jpg",
       "createdAt": 1774891723451
+    },
+    "aiu8n2bpq5": {
+      "id": "aiu8n2bpq5",
+      "originalName": "file",
+      "storedName": "aiu8n2bpq5",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 310012,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/aiu8n2bpq5",
+      "createdAt": 1774924135886
     }
   },
   "stats": {
-    "uploads": 7,
+    "uploads": 8,
     "deleted": 5,
-    "totalBytes": 367670
+    "totalBytes": 677682
   }
 }
