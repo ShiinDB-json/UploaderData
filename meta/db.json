@@ -65,11 +65,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/kowvmgnbd3.mp4",
       "createdAt": 1774924618219
+    },
+    "j5s6p4ualb": {
+      "id": "j5s6p4ualb",
+      "originalName": "file.jpeg",
+      "storedName": "j5s6p4ualb.jpeg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 30074,
+      "expiresAt": 1774928576551,
+      "url": "https://cdn.miranight.me/api/u/j5s6p4ualb.jpeg",
+      "createdAt": 1774924976551
     }
   },
   "stats": {
-    "uploads": 11,
+    "uploads": 12,
     "deleted": 5,
-    "totalBytes": 8925516
+    "totalBytes": 8955590
   }
 }
