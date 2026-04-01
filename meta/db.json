@@ -120,11 +120,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/h8z4ibzybj.webp",
       "createdAt": 1774958420115
+    },
+    "trvk9ody0r": {
+      "id": "trvk9ody0r",
+      "originalName": "file.mp4",
+      "storedName": "trvk9ody0r.mp4",
+      "folder": "video",
+      "mimeType": "video/mp4",
+      "size": 222936,
+      "expiresAt": 1775009474640,
+      "url": "https://cdn.miranight.me/api/u/trvk9ody0r.mp4",
+      "createdAt": 1775005874640
     }
   },
   "stats": {
-    "uploads": 27,
+    "uploads": 28,
     "deleted": 16,
-    "totalBytes": 14952494
+    "totalBytes": 15175430
   }
 }
