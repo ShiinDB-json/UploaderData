@@ -66,17 +66,6 @@
       "url": "https://cdn.miranight.me/api/u/kowvmgnbd3.mp4",
       "createdAt": 1774924618219
     },
-    "j5s6p4ualb": {
-      "id": "j5s6p4ualb",
-      "originalName": "file.jpeg",
-      "storedName": "j5s6p4ualb.jpeg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 30074,
-      "expiresAt": 1774928576551,
-      "url": "https://cdn.miranight.me/api/u/j5s6p4ualb.jpeg",
-      "createdAt": 1774924976551
-    },
     "6r07bre58l": {
       "id": "6r07bre58l",
       "originalName": "file.txt",
@@ -110,39 +99,6 @@
       "url": "https://cdn.miranight.me/api/u/qndskxxyi5.jpeg",
       "createdAt": 1774941108833
     },
-    "3f7moua9n2": {
-      "id": "3f7moua9n2",
-      "originalName": "file.jpeg",
-      "storedName": "3f7moua9n2.jpeg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 47232,
-      "expiresAt": 1774977600414,
-      "url": "https://cdn.miranight.me/api/u/3f7moua9n2.jpeg",
-      "createdAt": 1774952400414
-    },
-    "aan7ln0p63": {
-      "id": "aan7ln0p63",
-      "originalName": "file.jpeg",
-      "storedName": "aan7ln0p63.jpeg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 47232,
-      "expiresAt": 1774977607873,
-      "url": "https://cdn.miranight.me/api/u/aan7ln0p63.jpeg",
-      "createdAt": 1774952407873
-    },
-    "63vef15kje": {
-      "id": "63vef15kje",
-      "originalName": "file.mp4",
-      "storedName": "63vef15kje.mp4",
-      "folder": "video",
-      "mimeType": "video/mp4",
-      "size": 266148,
-      "expiresAt": 1774977613152,
-      "url": "https://cdn.miranight.me/api/u/63vef15kje.mp4",
-      "createdAt": 1774952413152
-    },
     "ah0lng814y": {
       "id": "ah0lng814y",
       "originalName": "file.webp",
@@ -164,88 +120,11 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/h8z4ibzybj.webp",
       "createdAt": 1774958420115
-    },
-    "r5gjnxcs0j": {
-      "id": "r5gjnxcs0j",
-      "originalName": "file.webp",
-      "storedName": "r5gjnxcs0j.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 665806,
-      "expiresAt": 1774963344380,
-      "url": "https://cdn.miranight.me/api/u/r5gjnxcs0j.webp",
-      "createdAt": 1774959744380
-    },
-    "0jobi8d9vg": {
-      "id": "0jobi8d9vg",
-      "originalName": "file.jpg",
-      "storedName": "0jobi8d9vg.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 40742,
-      "expiresAt": 1774963366443,
-      "url": "https://cdn.miranight.me/api/u/0jobi8d9vg.jpg",
-      "createdAt": 1774959766443
-    },
-    "olqke9vcov": {
-      "id": "olqke9vcov",
-      "originalName": "file.webp",
-      "storedName": "olqke9vcov.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 799908,
-      "expiresAt": 1774963501970,
-      "url": "https://cdn.miranight.me/api/u/olqke9vcov.webp",
-      "createdAt": 1774959901970
-    },
-    "h65pthvbdv": {
-      "id": "h65pthvbdv",
-      "originalName": "file.mp4",
-      "storedName": "h65pthvbdv.mp4",
-      "folder": "video",
-      "mimeType": "video/mp4",
-      "size": 1859350,
-      "expiresAt": 1774963837742,
-      "url": "https://cdn.miranight.me/api/u/h65pthvbdv.mp4",
-      "createdAt": 1774960237742
-    },
-    "cg3gg7h2uc": {
-      "id": "cg3gg7h2uc",
-      "originalName": "file.webp",
-      "storedName": "cg3gg7h2uc.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 471256,
-      "expiresAt": 1774964840081,
-      "url": "https://cdn.miranight.me/api/u/cg3gg7h2uc.webp",
-      "createdAt": 1774961240081
-    },
-    "ocn3uu49ox": {
-      "id": "ocn3uu49ox",
-      "originalName": "file.mp4",
-      "storedName": "ocn3uu49ox.mp4",
-      "folder": "video",
-      "mimeType": "video/mp4",
-      "size": 394342,
-      "expiresAt": 1774964917961,
-      "url": "https://cdn.miranight.me/api/u/ocn3uu49ox.mp4",
-      "createdAt": 1774961317961
-    },
-    "blyfxvrwtt": {
-      "id": "blyfxvrwtt",
-      "originalName": "file.jpg",
-      "storedName": "blyfxvrwtt.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 47621,
-      "expiresAt": 1774964936016,
-      "url": "https://cdn.miranight.me/api/u/blyfxvrwtt.jpg",
-      "createdAt": 1774961336016
     }
   },
   "stats": {
     "uploads": 27,
-    "deleted": 5,
+    "deleted": 16,
     "totalBytes": 14952494
   }
 }
