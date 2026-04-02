@@ -131,11 +131,22 @@
       "expiresAt": 1775103205079,
       "url": "https://cdn.miranight.me/api/u/eojf6423nq.webp",
       "createdAt": 1775099605079
+    },
+    "s556p729i6": {
+      "id": "s556p729i6",
+      "originalName": "file.jpg",
+      "storedName": "s556p729i6.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 123172,
+      "expiresAt": 1775146787059,
+      "url": "https://cdn.miranight.me/api/u/s556p729i6.jpg",
+      "createdAt": 1775143187059
     }
   },
   "stats": {
-    "uploads": 33,
+    "uploads": 34,
     "deleted": 21,
-    "totalBytes": 16568797
+    "totalBytes": 16691969
   }
 }
