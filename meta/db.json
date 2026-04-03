@@ -329,11 +329,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/asvyobbube.jpeg",
       "createdAt": 1775234948404
+    },
+    "ks6jynuomy": {
+      "id": "ks6jynuomy",
+      "originalName": "file.jpeg",
+      "storedName": "ks6jynuomy.jpeg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 304592,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/ks6jynuomy.jpeg",
+      "createdAt": 1775234959004
     }
   },
   "stats": {
-    "uploads": 53,
+    "uploads": 54,
     "deleted": 23,
-    "totalBytes": 18898778
+    "totalBytes": 19203370
   }
 }
