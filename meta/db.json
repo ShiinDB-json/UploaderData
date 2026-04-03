@@ -175,11 +175,22 @@
       "expiresAt": 1775187087812,
       "url": "https://cdn.miranight.me/api/u/m64hcou1n4.png",
       "createdAt": 1775183487812
+    },
+    "plceqnribz": {
+      "id": "plceqnribz",
+      "originalName": "file.jpg",
+      "storedName": "plceqnribz.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 123172,
+      "expiresAt": 1775187671628,
+      "url": "https://cdn.miranight.me/api/u/plceqnribz.jpg",
+      "createdAt": 1775184071628
     }
   },
   "stats": {
-    "uploads": 39,
+    "uploads": 40,
     "deleted": 23,
-    "totalBytes": 17436894
+    "totalBytes": 17560066
   }
 }
