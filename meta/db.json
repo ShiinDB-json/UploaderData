@@ -285,11 +285,22 @@
       "expiresAt": 1775228519250,
       "url": "https://cdn.miranight.me/api/u/hvkdut5yjn.jpg",
       "createdAt": 1775224919250
+    },
+    "8ezomditvf": {
+      "id": "8ezomditvf",
+      "originalName": "file.webp",
+      "storedName": "8ezomditvf.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 15290,
+      "expiresAt": 1775234800712,
+      "url": "https://cdn.miranight.me/api/u/8ezomditvf.webp",
+      "createdAt": 1775231200712
     }
   },
   "stats": {
-    "uploads": 49,
+    "uploads": 50,
     "deleted": 23,
-    "totalBytes": 18763923
+    "totalBytes": 18779213
   }
 }
