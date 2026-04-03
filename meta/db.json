@@ -252,11 +252,22 @@
       "expiresAt": 1775221394946,
       "url": "https://cdn.miranight.me/api/u/ie8ous9rnd.webp",
       "createdAt": 1775217794946
+    },
+    "y1o581sge4": {
+      "id": "y1o581sge4",
+      "originalName": "file.webp",
+      "storedName": "y1o581sge4.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 12498,
+      "expiresAt": 1775221399738,
+      "url": "https://cdn.miranight.me/api/u/y1o581sge4.webp",
+      "createdAt": 1775217799738
     }
   },
   "stats": {
-    "uploads": 46,
+    "uploads": 47,
     "deleted": 23,
-    "totalBytes": 18643375
+    "totalBytes": 18655873
   }
 }
