@@ -219,11 +219,22 @@
       "expiresAt": 1775202174239,
       "url": "https://cdn.miranight.me/api/u/rrotu8db43.jpg",
       "createdAt": 1775198574239
+    },
+    "bh48jnkd1b": {
+      "id": "bh48jnkd1b",
+      "originalName": "file.jpg",
+      "storedName": "bh48jnkd1b.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 62183,
+      "expiresAt": 1775214238081,
+      "url": "https://cdn.miranight.me/api/u/bh48jnkd1b.jpg",
+      "createdAt": 1775210638081
     }
   },
   "stats": {
-    "uploads": 43,
+    "uploads": 44,
     "deleted": 23,
-    "totalBytes": 18538870
+    "totalBytes": 18601053
   }
 }
