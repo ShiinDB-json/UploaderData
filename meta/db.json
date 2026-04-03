@@ -340,11 +340,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/ks6jynuomy.jpeg",
       "createdAt": 1775234959004
+    },
+    "tirm3itq0f": {
+      "id": "tirm3itq0f",
+      "originalName": "file.jpeg",
+      "storedName": "tirm3itq0f.jpeg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 207940,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/tirm3itq0f.jpeg",
+      "createdAt": 1775234968934
     }
   },
   "stats": {
-    "uploads": 54,
+    "uploads": 55,
     "deleted": 23,
-    "totalBytes": 19203370
+    "totalBytes": 19411310
   }
 }
