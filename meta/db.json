@@ -483,11 +483,22 @@
       "expiresAt": 1775297650203,
       "url": "https://cdn.miranight.me/api/u/k0bl71r5s1.webp",
       "createdAt": 1775294050203
+    },
+    "ld6nesskm1": {
+      "id": "ld6nesskm1",
+      "originalName": "file.jpeg",
+      "storedName": "ld6nesskm1.jpeg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 34833,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/ld6nesskm1.jpeg",
+      "createdAt": 1775294915602
     }
   },
   "stats": {
-    "uploads": 83,
+    "uploads": 84,
     "deleted": 39,
-    "totalBytes": 22122489
+    "totalBytes": 22157322
   }
 }
