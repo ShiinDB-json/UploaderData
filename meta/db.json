@@ -296,11 +296,22 @@
       "expiresAt": 1775283699518,
       "url": "https://cdn.miranight.me/api/u/2twfr47jps.webp",
       "createdAt": 1775280099518
+    },
+    "oz78m6981i": {
+      "id": "oz78m6981i",
+      "originalName": "file.webp",
+      "storedName": "oz78m6981i.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 48714,
+      "expiresAt": 1775283721844,
+      "url": "https://cdn.miranight.me/api/u/oz78m6981i.webp",
+      "createdAt": 1775280121844
     }
   },
   "stats": {
-    "uploads": 66,
+    "uploads": 67,
     "deleted": 39,
-    "totalBytes": 21577409
+    "totalBytes": 21626123
   }
 }
