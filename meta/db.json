@@ -329,11 +329,22 @@
       "expiresAt": 1775283981246,
       "url": "https://cdn.miranight.me/api/u/shzd0wztxz.jpg",
       "createdAt": 1775280381246
+    },
+    "8tsmxdb30b": {
+      "id": "8tsmxdb30b",
+      "originalName": "file.jpg",
+      "storedName": "8tsmxdb30b.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 30025,
+      "expiresAt": 1775284122499,
+      "url": "https://cdn.miranight.me/api/u/8tsmxdb30b.jpg",
+      "createdAt": 1775280522499
     }
   },
   "stats": {
-    "uploads": 69,
+    "uploads": 70,
     "deleted": 39,
-    "totalBytes": 21686173
+    "totalBytes": 21716198
   }
 }
