@@ -340,11 +340,22 @@
       "expiresAt": 1775284122499,
       "url": "https://cdn.miranight.me/api/u/8tsmxdb30b.jpg",
       "createdAt": 1775280522499
+    },
+    "gp47ruf4kc": {
+      "id": "gp47ruf4kc",
+      "originalName": "file.webp",
+      "storedName": "gp47ruf4kc.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 48714,
+      "expiresAt": 1775284142887,
+      "url": "https://cdn.miranight.me/api/u/gp47ruf4kc.webp",
+      "createdAt": 1775280542887
     }
   },
   "stats": {
-    "uploads": 70,
+    "uploads": 71,
     "deleted": 39,
-    "totalBytes": 21716198
+    "totalBytes": 21764912
   }
 }
