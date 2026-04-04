@@ -307,11 +307,22 @@
       "expiresAt": 1775283721844,
       "url": "https://cdn.miranight.me/api/u/oz78m6981i.webp",
       "createdAt": 1775280121844
+    },
+    "xrylio2ymc": {
+      "id": "xrylio2ymc",
+      "originalName": "file.jpg",
+      "storedName": "xrylio2ymc.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 30025,
+      "expiresAt": 1775283963217,
+      "url": "https://cdn.miranight.me/api/u/xrylio2ymc.jpg",
+      "createdAt": 1775280363217
     }
   },
   "stats": {
-    "uploads": 67,
+    "uploads": 68,
     "deleted": 39,
-    "totalBytes": 21626123
+    "totalBytes": 21656148
   }
 }
