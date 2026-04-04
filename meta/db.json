@@ -121,72 +121,6 @@
       "url": "https://cdn.miranight.me/api/u/h8z4ibzybj.webp",
       "createdAt": 1774958420115
     },
-    "u4ah4mqqqz": {
-      "id": "u4ah4mqqqz",
-      "originalName": "file.jpeg",
-      "storedName": "u4ah4mqqqz.jpeg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 302191,
-      "expiresAt": 1775190957905,
-      "url": "https://cdn.miranight.me/api/u/u4ah4mqqqz.jpeg",
-      "createdAt": 1775172957905
-    },
-    "43lqccsmz1": {
-      "id": "43lqccsmz1",
-      "originalName": "file.png",
-      "storedName": "43lqccsmz1.png",
-      "folder": "image",
-      "mimeType": "image/png",
-      "size": 32775,
-      "expiresAt": 1775186174076,
-      "url": "https://cdn.miranight.me/api/u/43lqccsmz1.png",
-      "createdAt": 1775182574076
-    },
-    "rp0lbftyj2": {
-      "id": "rp0lbftyj2",
-      "originalName": "file.webp",
-      "storedName": "rp0lbftyj2.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 7600,
-      "expiresAt": 1775186920707,
-      "url": "https://cdn.miranight.me/api/u/rp0lbftyj2.webp",
-      "createdAt": 1775183320707
-    },
-    "9iootw8ckq": {
-      "id": "9iootw8ckq",
-      "originalName": "file.webp",
-      "storedName": "9iootw8ckq.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 103378,
-      "expiresAt": 1775187003185,
-      "url": "https://cdn.miranight.me/api/u/9iootw8ckq.webp",
-      "createdAt": 1775183403185
-    },
-    "m64hcou1n4": {
-      "id": "m64hcou1n4",
-      "originalName": "file.png",
-      "storedName": "m64hcou1n4.png",
-      "folder": "image",
-      "mimeType": "image/png",
-      "size": 298981,
-      "expiresAt": 1775187087812,
-      "url": "https://cdn.miranight.me/api/u/m64hcou1n4.png",
-      "createdAt": 1775183487812
-    },
-    "plceqnribz": {
-      "id": "plceqnribz",
-      "originalName": "file.jpg",
-      "storedName": "plceqnribz.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 123172,
-      "expiresAt": 1775187671628,
-      "url": "https://cdn.miranight.me/api/u/plceqnribz.jpg",
-      "createdAt": 1775184071628
-    },
     "c3guq6du1n": {
       "id": "c3guq6du1n",
       "originalName": "file.jpeg",
@@ -208,116 +142,6 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/1ptyykw7pf.jpeg",
       "createdAt": 1775197707294
-    },
-    "rrotu8db43": {
-      "id": "rrotu8db43",
-      "originalName": "file.jpg",
-      "storedName": "rrotu8db43.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 123172,
-      "expiresAt": 1775202174239,
-      "url": "https://cdn.miranight.me/api/u/rrotu8db43.jpg",
-      "createdAt": 1775198574239
-    },
-    "bh48jnkd1b": {
-      "id": "bh48jnkd1b",
-      "originalName": "file.jpg",
-      "storedName": "bh48jnkd1b.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 62183,
-      "expiresAt": 1775214238081,
-      "url": "https://cdn.miranight.me/api/u/bh48jnkd1b.jpg",
-      "createdAt": 1775210638081
-    },
-    "7644fip0k8": {
-      "id": "7644fip0k8",
-      "originalName": "file.webp",
-      "storedName": "7644fip0k8.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 5424,
-      "expiresAt": 1775221390157,
-      "url": "https://cdn.miranight.me/api/u/7644fip0k8.webp",
-      "createdAt": 1775217790157
-    },
-    "ie8ous9rnd": {
-      "id": "ie8ous9rnd",
-      "originalName": "file.webp",
-      "storedName": "ie8ous9rnd.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 36898,
-      "expiresAt": 1775221394946,
-      "url": "https://cdn.miranight.me/api/u/ie8ous9rnd.webp",
-      "createdAt": 1775217794946
-    },
-    "y1o581sge4": {
-      "id": "y1o581sge4",
-      "originalName": "file.webp",
-      "storedName": "y1o581sge4.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 12498,
-      "expiresAt": 1775221399738,
-      "url": "https://cdn.miranight.me/api/u/y1o581sge4.webp",
-      "createdAt": 1775217799738
-    },
-    "nbda0x5tjf": {
-      "id": "nbda0x5tjf",
-      "originalName": "file.jpg",
-      "storedName": "nbda0x5tjf.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 54025,
-      "expiresAt": 1775224494445,
-      "url": "https://cdn.miranight.me/api/u/nbda0x5tjf.jpg",
-      "createdAt": 1775220894445
-    },
-    "hvkdut5yjn": {
-      "id": "hvkdut5yjn",
-      "originalName": "file.jpg",
-      "storedName": "hvkdut5yjn.jpg",
-      "folder": "image",
-      "mimeType": "image/jpeg",
-      "size": 54025,
-      "expiresAt": 1775228519250,
-      "url": "https://cdn.miranight.me/api/u/hvkdut5yjn.jpg",
-      "createdAt": 1775224919250
-    },
-    "8ezomditvf": {
-      "id": "8ezomditvf",
-      "originalName": "file.webp",
-      "storedName": "8ezomditvf.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 15290,
-      "expiresAt": 1775234800712,
-      "url": "https://cdn.miranight.me/api/u/8ezomditvf.webp",
-      "createdAt": 1775231200712
-    },
-    "e2oz90e6ys": {
-      "id": "e2oz90e6ys",
-      "originalName": "file.webp",
-      "storedName": "e2oz90e6ys.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 12794,
-      "expiresAt": 1775236799419,
-      "url": "https://cdn.miranight.me/api/u/e2oz90e6ys.webp",
-      "createdAt": 1775233199419
-    },
-    "j9daick0xp": {
-      "id": "j9daick0xp",
-      "originalName": "file.webp",
-      "storedName": "j9daick0xp.webp",
-      "folder": "image",
-      "mimeType": "image/webp",
-      "size": 27226,
-      "expiresAt": 1775236819298,
-      "url": "https://cdn.miranight.me/api/u/j9daick0xp.webp",
-      "createdAt": 1775233219298
     },
     "asvyobbube": {
       "id": "asvyobbube",
@@ -399,7 +223,7 @@
   },
   "stats": {
     "uploads": 59,
-    "deleted": 23,
+    "deleted": 39,
     "totalBytes": 19629360
   }
 }
