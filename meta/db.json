@@ -417,11 +417,22 @@
       "expiresAt": 1775287167931,
       "url": "https://cdn.miranight.me/api/u/mltgzzj4aa.jpg",
       "createdAt": 1775283567931
+    },
+    "fatrw588av": {
+      "id": "fatrw588av",
+      "originalName": "file.webp",
+      "storedName": "fatrw588av.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 33630,
+      "expiresAt": 1775289213963,
+      "url": "https://cdn.miranight.me/api/u/fatrw588av.webp",
+      "createdAt": 1775285613963
     }
   },
   "stats": {
-    "uploads": 77,
+    "uploads": 78,
     "deleted": 39,
-    "totalBytes": 21978725
+    "totalBytes": 22012355
   }
 }
