@@ -494,11 +494,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/ld6nesskm1.jpeg",
       "createdAt": 1775294915602
+    },
+    "dkbl5pp0cb": {
+      "id": "dkbl5pp0cb",
+      "originalName": "file.webp",
+      "storedName": "dkbl5pp0cb.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 11686,
+      "expiresAt": 1775300038623,
+      "url": "https://cdn.miranight.me/api/u/dkbl5pp0cb.webp",
+      "createdAt": 1775296438623
     }
   },
   "stats": {
-    "uploads": 84,
+    "uploads": 85,
     "deleted": 39,
-    "totalBytes": 22157322
+    "totalBytes": 22169008
   }
 }
