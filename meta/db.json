@@ -373,11 +373,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/ghbd72no5p.webp",
       "createdAt": 1775260894333
+    },
+    "yolfpb474y": {
+      "id": "yolfpb474y",
+      "originalName": "file.webp",
+      "storedName": "yolfpb474y.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 51758,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/yolfpb474y.webp",
+      "createdAt": 1775260900650
     }
   },
   "stats": {
-    "uploads": 57,
+    "uploads": 58,
     "deleted": 23,
-    "totalBytes": 19501908
+    "totalBytes": 19553666
   }
 }
