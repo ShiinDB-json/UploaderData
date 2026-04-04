@@ -362,11 +362,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/fqmp41qo0n.jpeg",
       "createdAt": 1775237579214
+    },
+    "ghbd72no5p": {
+      "id": "ghbd72no5p",
+      "originalName": "file.webp",
+      "storedName": "ghbd72no5p.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 5424,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/ghbd72no5p.webp",
+      "createdAt": 1775260894333
     }
   },
   "stats": {
-    "uploads": 56,
+    "uploads": 57,
     "deleted": 23,
-    "totalBytes": 19496484
+    "totalBytes": 19501908
   }
 }
