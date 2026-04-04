@@ -1,0 +1,115 @@
+import mime from "mime-types";
+
+let handler = async (m, { conn, text }) => {
+  try {
+    await conn.sendMessage(m.chat, {
+      react: { text: "⏳", key: m.key }
+    });
+
+    let q = m.quoted ? m.quoted : m;
+    let mimeType = q.mimetype || "";
+
+    let expiresIn = "lifetime";
+    let args = (text || "").split(" ").filter(v => v);
+
+    // detect expire
+    if (args.length) {
+      let last = args[args.length - 1];
+      if (/^\d+(h|d)$|^lifetime$/.test(last)) {
+        expiresIn = last;
+        args.pop();
+      }
+    }
+
+    if (args[0] && /^https?:\/\//.test(args[0])) {
+      let url = args[0];
+
+      const res = await fetch("https://cdn.miranight.me/api/upload", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          url,
+          expiresIn
+        })
+      });
+
+      const data = await res.json();
+
+      if (!data.success) throw data.message || "Upload gagal";
+
+      await conn.sendMessage(m.chat, {
+        react: { text: "✅", key: m.key }
+      });
+
+      return m.reply(`✅ URL: ${data.data.url}\n⏳ Exp: ${expiresIn}`);
+    }
+
+    if (args.length && !mimeType) {
+      let inputText = args.join(" ");
+
+      const res = await fetch("https://cdn.miranight.me/api/upload", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          text: inputText,
+          expiresIn
+        })
+      });
+
+      const data = await res.json();
+
+      if (!data.success) throw data.message || "Upload gagal";
+
+      await conn.sendMessage(m.chat, {
+        react: { text: "✅", key: m.key }
+      });
+
+      return m.reply(`✅ URL: ${data.data.url}\n⏳ Exp: ${expiresIn}`);
+    }
+
+    if (!mimeType) return m.reply("Reply media / kirim URL / kirim text!");
+
+    let buffer = await q.download();
+
+    let ext = mime.extension(mimeType) || "bin";
+    let filename = `file.${ext}`;
+
+    const form = new FormData();
+    const blob = new Blob([buffer], { type: mimeType });
+
+    form.append("file", blob, filename);
+    form.append("expiresIn", expiresIn);
+
+    const res = await fetch("https://cdn.miranight.me/api/upload", {
+      method: "POST",
+      body: form
+    });
+
+    const data = await res.json();
+
+    if (!data.success) throw data.message || "Upload gagal";
+
+    await conn.sendMessage(m.chat, {
+      react: { text: "✅", key: m.key }
+    });
+
+    return m.reply(`✅ URL: ${data.data.url}\n⏳ Exp: ${expiresIn}`);
+
+  } catch (e) {
+    await conn.sendMessage(m.chat, {
+      react: { text: "❌", key: m.key }
+    });
+
+    return m.reply("❌ Error: " + (e?.message || e));
+  }
+};
+
+handler.command = ["tourl"];
+handler.help = ["tourl"];
+handler.tags = ["tools"];
+
+export default handler;
