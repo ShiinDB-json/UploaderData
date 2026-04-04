@@ -428,11 +428,22 @@
       "expiresAt": 1775289213963,
       "url": "https://cdn.miranight.me/api/u/fatrw588av.webp",
       "createdAt": 1775285613963
+    },
+    "olvltyj7ap": {
+      "id": "olvltyj7ap",
+      "originalName": "file.jpg",
+      "storedName": "olvltyj7ap.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 13638,
+      "expiresAt": 1775290178677,
+      "url": "https://cdn.miranight.me/api/u/olvltyj7ap.jpg",
+      "createdAt": 1775286578677
     }
   },
   "stats": {
-    "uploads": 78,
+    "uploads": 79,
     "deleted": 39,
-    "totalBytes": 22012355
+    "totalBytes": 22025993
   }
 }
