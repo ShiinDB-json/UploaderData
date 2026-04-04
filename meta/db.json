@@ -219,11 +219,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/8x4cuyqn0c.webp",
       "createdAt": 1775260905678
+    },
+    "js9g2cnnwk": {
+      "id": "js9g2cnnwk",
+      "originalName": "file.mp4",
+      "storedName": "js9g2cnnwk.mp4",
+      "folder": "video",
+      "mimeType": "video/mp4",
+      "size": 1592768,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/js9g2cnnwk.mp4",
+      "createdAt": 1775264491370
     }
   },
   "stats": {
-    "uploads": 59,
+    "uploads": 60,
     "deleted": 39,
-    "totalBytes": 19629360
+    "totalBytes": 21222128
   }
 }
