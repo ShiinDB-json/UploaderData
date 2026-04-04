@@ -461,11 +461,22 @@
       "expiresAt": 1775290597833,
       "url": "https://cdn.miranight.me/api/u/z3gbexqaa2.webp",
       "createdAt": 1775286997833
+    },
+    "gshsjgsli6": {
+      "id": "gshsjgsli6",
+      "originalName": "file.webp",
+      "storedName": "gshsjgsli6.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 38440,
+      "expiresAt": 1775293556447,
+      "url": "https://cdn.miranight.me/api/u/gshsjgsli6.webp",
+      "createdAt": 1775289956447
     }
   },
   "stats": {
-    "uploads": 81,
+    "uploads": 82,
     "deleted": 39,
-    "totalBytes": 22052787
+    "totalBytes": 22091227
   }
 }
