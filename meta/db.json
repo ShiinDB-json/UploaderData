@@ -230,11 +230,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/js9g2cnnwk.mp4",
       "createdAt": 1775264491370
+    },
+    "mtlzuoegku": {
+      "id": "mtlzuoegku",
+      "originalName": "file.webp",
+      "storedName": "mtlzuoegku.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 5424,
+      "expiresAt": 1775282557388,
+      "url": "https://cdn.miranight.me/api/u/mtlzuoegku.webp",
+      "createdAt": 1775278957388
     }
   },
   "stats": {
-    "uploads": 60,
+    "uploads": 61,
     "deleted": 39,
-    "totalBytes": 21222128
+    "totalBytes": 21227552
   }
 }
