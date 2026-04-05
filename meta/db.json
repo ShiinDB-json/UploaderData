@@ -417,11 +417,22 @@
       "expiresAt": 1775365103670,
       "url": "https://cdn.miranight.me/api/u/em8a9wssn4.webp",
       "createdAt": 1775361503670
+    },
+    "nim644mb2i": {
+      "id": "nim644mb2i",
+      "originalName": "file.jpg",
+      "storedName": "nim644mb2i.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 70079,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/nim644mb2i.jpg",
+      "createdAt": 1775378362996
     }
   },
   "stats": {
-    "uploads": 103,
+    "uploads": 104,
     "deleted": 65,
-    "totalBytes": 23296859
+    "totalBytes": 23366938
   }
 }
