@@ -340,11 +340,22 @@
       "expiresAt": 1775359861654,
       "url": "https://cdn.miranight.me/api/u/q4helpc70y.webp",
       "createdAt": 1775356261654
+    },
+    "plavxfm6n4": {
+      "id": "plavxfm6n4",
+      "originalName": "file.webp",
+      "storedName": "plavxfm6n4.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 64964,
+      "expiresAt": 1775360225142,
+      "url": "https://cdn.miranight.me/api/u/plavxfm6n4.webp",
+      "createdAt": 1775356625142
     }
   },
   "stats": {
-    "uploads": 96,
+    "uploads": 97,
     "deleted": 65,
-    "totalBytes": 22792371
+    "totalBytes": 22857335
   }
 }
