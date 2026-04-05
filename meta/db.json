@@ -318,11 +318,22 @@
       "expiresAt": 1775359422498,
       "url": "https://cdn.miranight.me/api/u/tchstggdo0.webp",
       "createdAt": 1775355822498
+    },
+    "ujzimlmpmb": {
+      "id": "ujzimlmpmb",
+      "originalName": "file.webp",
+      "storedName": "ujzimlmpmb.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 64964,
+      "expiresAt": 1775359626973,
+      "url": "https://cdn.miranight.me/api/u/ujzimlmpmb.webp",
+      "createdAt": 1775356026973
     }
   },
   "stats": {
-    "uploads": 94,
+    "uploads": 95,
     "deleted": 65,
-    "totalBytes": 22662443
+    "totalBytes": 22727407
   }
 }
