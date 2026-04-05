@@ -549,11 +549,22 @@
       "expiresAt": 1775345653400,
       "url": "https://cdn.miranight.me/api/u/7um4j7y79i.txt",
       "createdAt": 1775342053400
+    },
+    "tpuh967t1k": {
+      "id": "tpuh967t1k",
+      "originalName": "file.jpg",
+      "storedName": "tpuh967t1k.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 196056,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/tpuh967t1k.jpg",
+      "createdAt": 1775347440290
     }
   },
   "stats": {
-    "uploads": 89,
+    "uploads": 90,
     "deleted": 39,
-    "totalBytes": 22289541
+    "totalBytes": 22485597
   }
 }
