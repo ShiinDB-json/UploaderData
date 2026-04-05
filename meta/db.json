@@ -461,11 +461,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/0ckl689nam.webp",
       "createdAt": 1775392905660
+    },
+    "ydp3srw5qc": {
+      "id": "ydp3srw5qc",
+      "originalName": "file.mp3",
+      "storedName": "ydp3srw5qc.mp3",
+      "folder": "audio",
+      "mimeType": "audio/mpeg",
+      "size": 260851,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/ydp3srw5qc.mp3",
+      "createdAt": 1775413620495
     }
   },
   "stats": {
-    "uploads": 107,
+    "uploads": 108,
     "deleted": 65,
-    "totalBytes": 23464742
+    "totalBytes": 23725593
   }
 }
