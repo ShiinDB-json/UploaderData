@@ -285,11 +285,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/x0xwb9j2bf.jpg",
       "createdAt": 1775347703085
+    },
+    "rwymk2ys90": {
+      "id": "rwymk2ys90",
+      "originalName": "file.webp",
+      "storedName": "rwymk2ys90.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 64964,
+      "expiresAt": 1775359338759,
+      "url": "https://cdn.miranight.me/api/u/rwymk2ys90.webp",
+      "createdAt": 1775355738759
     }
   },
   "stats": {
-    "uploads": 91,
+    "uploads": 92,
     "deleted": 65,
-    "totalBytes": 22519867
+    "totalBytes": 22584831
   }
 }
