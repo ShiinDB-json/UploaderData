@@ -538,11 +538,22 @@
       "expiresAt": 1775488976155,
       "url": "https://cdn.miranight.me/api/u/6brvrc2lid.png",
       "createdAt": 1775485376155
+    },
+    "la9ev54rag": {
+      "id": "la9ev54rag",
+      "originalName": "file.png",
+      "storedName": "la9ev54rag.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 79608,
+      "expiresAt": 1775489145907,
+      "url": "https://cdn.miranight.me/api/u/la9ev54rag.png",
+      "createdAt": 1775485545907
     }
   },
   "stats": {
-    "uploads": 127,
+    "uploads": 128,
     "deleted": 78,
-    "totalBytes": 27654452
+    "totalBytes": 27734060
   }
 }
