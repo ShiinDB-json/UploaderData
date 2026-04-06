@@ -483,11 +483,22 @@
       "expiresAt": 1775448824635,
       "url": "https://cdn.miranight.me/api/u/v78dudwiwz.png",
       "createdAt": 1775445224635
+    },
+    "z2psg8yad5": {
+      "id": "z2psg8yad5",
+      "originalName": "file.jpg",
+      "storedName": "z2psg8yad5.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 19927,
+      "expiresAt": 1775484305734,
+      "url": "https://cdn.miranight.me/api/u/z2psg8yad5.jpg",
+      "createdAt": 1775480705734
     }
   },
   "stats": {
-    "uploads": 122,
+    "uploads": 123,
     "deleted": 78,
-    "totalBytes": 27275076
+    "totalBytes": 27295003
   }
 }
