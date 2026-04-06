@@ -1209,11 +1209,22 @@
       "expiresAt": 1775515048282,
       "url": "https://cdn.miranight.me/api/u/vsksmbqs9u.png",
       "createdAt": 1775511448282
+    },
+    "6kf01hicks": {
+      "id": "6kf01hicks",
+      "originalName": "file.png",
+      "storedName": "6kf01hicks.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 143208,
+      "expiresAt": 1775516203546,
+      "url": "https://cdn.miranight.me/api/u/6kf01hicks.png",
+      "createdAt": 1775512603546
     }
   },
   "stats": {
-    "uploads": 188,
+    "uploads": 189,
     "deleted": 78,
-    "totalBytes": 42958483
+    "totalBytes": 43101691
   }
 }
