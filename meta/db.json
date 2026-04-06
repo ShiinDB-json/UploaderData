@@ -1231,11 +1231,22 @@
       "expiresAt": 1775516354363,
       "url": "https://cdn.miranight.me/api/u/f655caniob.png",
       "createdAt": 1775512754363
+    },
+    "clsfd0gek1": {
+      "id": "clsfd0gek1",
+      "originalName": "file.png",
+      "storedName": "clsfd0gek1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 184471,
+      "expiresAt": 1775516409600,
+      "url": "https://cdn.miranight.me/api/u/clsfd0gek1.png",
+      "createdAt": 1775512809600
     }
   },
   "stats": {
-    "uploads": 190,
+    "uploads": 191,
     "deleted": 78,
-    "totalBytes": 43405924
+    "totalBytes": 43590395
   }
 }
