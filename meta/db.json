@@ -1088,11 +1088,22 @@
       "expiresAt": 1775504055899,
       "url": "https://cdn.miranight.me/api/u/ikz259l143.png",
       "createdAt": 1775500455899
+    },
+    "ezd580nx5c": {
+      "id": "ezd580nx5c",
+      "originalName": "file.png",
+      "storedName": "ezd580nx5c.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 185497,
+      "expiresAt": 1775504579890,
+      "url": "https://cdn.miranight.me/api/u/ezd580nx5c.png",
+      "createdAt": 1775500979890
     }
   },
   "stats": {
-    "uploads": 177,
+    "uploads": 178,
     "deleted": 78,
-    "totalBytes": 39950847
+    "totalBytes": 40136344
   }
 }
