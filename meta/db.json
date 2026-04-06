@@ -1154,11 +1154,22 @@
       "expiresAt": 1775507066850,
       "url": "https://cdn.miranight.me/api/u/sva99dpyaq.png",
       "createdAt": 1775503466850
+    },
+    "phhcti2628": {
+      "id": "phhcti2628",
+      "originalName": "file.png",
+      "storedName": "phhcti2628.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 301998,
+      "expiresAt": 1775511307348,
+      "url": "https://cdn.miranight.me/api/u/phhcti2628.png",
+      "createdAt": 1775507707348
     }
   },
   "stats": {
-    "uploads": 183,
+    "uploads": 184,
     "deleted": 78,
-    "totalBytes": 41540646
+    "totalBytes": 41842644
   }
 }
