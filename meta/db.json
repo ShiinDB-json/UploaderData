@@ -1242,11 +1242,22 @@
       "expiresAt": 1775516409600,
       "url": "https://cdn.miranight.me/api/u/clsfd0gek1.png",
       "createdAt": 1775512809600
+    },
+    "db2guzu14k": {
+      "id": "db2guzu14k",
+      "originalName": "file.png",
+      "storedName": "db2guzu14k.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 60889,
+      "expiresAt": 1775516677490,
+      "url": "https://cdn.miranight.me/api/u/db2guzu14k.png",
+      "createdAt": 1775513077490
     }
   },
   "stats": {
-    "uploads": 191,
+    "uploads": 192,
     "deleted": 78,
-    "totalBytes": 43590395
+    "totalBytes": 43651284
   }
 }
