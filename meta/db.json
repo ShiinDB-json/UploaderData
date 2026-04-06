@@ -461,11 +461,22 @@
       "expiresAt": 1775448099281,
       "url": "https://cdn.miranight.me/api/u/jvcp44msln.png",
       "createdAt": 1775444499281
+    },
+    "8e7syvgwp8": {
+      "id": "8e7syvgwp8",
+      "originalName": "file.png",
+      "storedName": "8e7syvgwp8.png",
+      "folder": "image",
+      "mimeType": "image/png",
+      "size": 59473,
+      "expiresAt": 1775448217485,
+      "url": "https://cdn.miranight.me/api/u/8e7syvgwp8.png",
+      "createdAt": 1775444617485
     }
   },
   "stats": {
-    "uploads": 120,
+    "uploads": 121,
     "deleted": 78,
-    "totalBytes": 27156130
+    "totalBytes": 27215603
   }
 }
