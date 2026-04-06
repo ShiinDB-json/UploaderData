@@ -1220,11 +1220,22 @@
       "expiresAt": 1775516203546,
       "url": "https://cdn.miranight.me/api/u/6kf01hicks.png",
       "createdAt": 1775512603546
+    },
+    "f655caniob": {
+      "id": "f655caniob",
+      "originalName": "file.png",
+      "storedName": "f655caniob.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 304233,
+      "expiresAt": 1775516354363,
+      "url": "https://cdn.miranight.me/api/u/f655caniob.png",
+      "createdAt": 1775512754363
     }
   },
   "stats": {
-    "uploads": 189,
+    "uploads": 190,
     "deleted": 78,
-    "totalBytes": 43101691
+    "totalBytes": 43405924
   }
 }
