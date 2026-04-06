@@ -1121,11 +1121,22 @@
       "expiresAt": 1775506705225,
       "url": "https://cdn.miranight.me/api/u/n64mbj9dkx.png",
       "createdAt": 1775503105225
+    },
+    "ghf14ah4sv": {
+      "id": "ghf14ah4sv",
+      "originalName": "file.png",
+      "storedName": "ghf14ah4sv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 276725,
+      "expiresAt": 1775506719467,
+      "url": "https://cdn.miranight.me/api/u/ghf14ah4sv.png",
+      "createdAt": 1775503119467
     }
   },
   "stats": {
-    "uploads": 180,
+    "uploads": 181,
     "deleted": 78,
-    "totalBytes": 40779330
+    "totalBytes": 41056055
   }
 }
