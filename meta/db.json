@@ -373,11 +373,22 @@
       "expiresAt": 1775444028337,
       "url": "https://cdn.miranight.me/api/u/u8hany51t7.webp",
       "createdAt": 1775440428337
+    },
+    "eve7livgyk": {
+      "id": "eve7livgyk",
+      "originalName": "file.webp",
+      "storedName": "eve7livgyk.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 10756,
+      "expiresAt": 1775444344469,
+      "url": "https://cdn.miranight.me/api/u/eve7livgyk.webp",
+      "createdAt": 1775440744469
     }
   },
   "stats": {
-    "uploads": 112,
+    "uploads": 113,
     "deleted": 78,
-    "totalBytes": 26471396
+    "totalBytes": 26482152
   }
 }
