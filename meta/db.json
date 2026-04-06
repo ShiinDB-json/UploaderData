@@ -384,11 +384,22 @@
       "expiresAt": 1775444344469,
       "url": "https://cdn.miranight.me/api/u/eve7livgyk.webp",
       "createdAt": 1775440744469
+    },
+    "fjs6fioimn": {
+      "id": "fjs6fioimn",
+      "originalName": "file.webp",
+      "storedName": "fjs6fioimn.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 18604,
+      "expiresAt": 1775445438520,
+      "url": "https://cdn.miranight.me/api/u/fjs6fioimn.webp",
+      "createdAt": 1775441838520
     }
   },
   "stats": {
-    "uploads": 113,
+    "uploads": 114,
     "deleted": 78,
-    "totalBytes": 26482152
+    "totalBytes": 26500756
   }
 }
