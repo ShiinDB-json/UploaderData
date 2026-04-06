@@ -1286,11 +1286,22 @@
       "expiresAt": 1775517013953,
       "url": "https://cdn.miranight.me/api/u/g4x0j5chvh.png",
       "createdAt": 1775513413953
+    },
+    "nilf0k5lv5": {
+      "id": "nilf0k5lv5",
+      "originalName": "file.png",
+      "storedName": "nilf0k5lv5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 194172,
+      "expiresAt": 1775517018302,
+      "url": "https://cdn.miranight.me/api/u/nilf0k5lv5.png",
+      "createdAt": 1775513418302
     }
   },
   "stats": {
-    "uploads": 195,
+    "uploads": 196,
     "deleted": 78,
-    "totalBytes": 44345742
+    "totalBytes": 44539914
   }
 }
