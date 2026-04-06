@@ -637,11 +637,22 @@
       "expiresAt": 1775494274444,
       "url": "https://cdn.miranight.me/api/u/cxkuapuhut.png",
       "createdAt": 1775490674444
+    },
+    "tba71sk8w1": {
+      "id": "tba71sk8w1",
+      "originalName": "file.png",
+      "storedName": "tba71sk8w1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 294693,
+      "expiresAt": 1775495220459,
+      "url": "https://cdn.miranight.me/api/u/tba71sk8w1.png",
+      "createdAt": 1775491620459
     }
   },
   "stats": {
-    "uploads": 136,
+    "uploads": 137,
     "deleted": 78,
-    "totalBytes": 29267586
+    "totalBytes": 29562279
   }
 }
