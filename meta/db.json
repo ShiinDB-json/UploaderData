@@ -780,11 +780,22 @@
       "expiresAt": 1775496754231,
       "url": "https://cdn.miranight.me/api/u/wl4wol12uy.png",
       "createdAt": 1775493154231
+    },
+    "fzccenxht8": {
+      "id": "fzccenxht8",
+      "originalName": "file.png",
+      "storedName": "fzccenxht8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 180196,
+      "expiresAt": 1775496864840,
+      "url": "https://cdn.miranight.me/api/u/fzccenxht8.png",
+      "createdAt": 1775493264840
     }
   },
   "stats": {
-    "uploads": 149,
+    "uploads": 150,
     "deleted": 78,
-    "totalBytes": 32858438
+    "totalBytes": 33038634
   }
 }
