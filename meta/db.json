@@ -1165,11 +1165,22 @@
       "expiresAt": 1775511307348,
       "url": "https://cdn.miranight.me/api/u/phhcti2628.png",
       "createdAt": 1775507707348
+    },
+    "691glp7if5": {
+      "id": "691glp7if5",
+      "originalName": "file.png",
+      "storedName": "691glp7if5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 263496,
+      "expiresAt": 1775513958312,
+      "url": "https://cdn.miranight.me/api/u/691glp7if5.png",
+      "createdAt": 1775510358312
     }
   },
   "stats": {
-    "uploads": 184,
+    "uploads": 185,
     "deleted": 78,
-    "totalBytes": 41842644
+    "totalBytes": 42106140
   }
 }
