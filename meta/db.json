@@ -692,11 +692,22 @@
       "expiresAt": 1775495658924,
       "url": "https://cdn.miranight.me/api/u/egsc135ppy.png",
       "createdAt": 1775492058924
+    },
+    "bcq9gcu1n9": {
+      "id": "bcq9gcu1n9",
+      "originalName": "file.png",
+      "storedName": "bcq9gcu1n9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 227274,
+      "expiresAt": 1775495998822,
+      "url": "https://cdn.miranight.me/api/u/bcq9gcu1n9.png",
+      "createdAt": 1775492398822
     }
   },
   "stats": {
-    "uploads": 141,
+    "uploads": 142,
     "deleted": 78,
-    "totalBytes": 30802332
+    "totalBytes": 31029606
   }
 }
