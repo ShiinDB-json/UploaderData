@@ -681,11 +681,22 @@
       "expiresAt": 1775495613785,
       "url": "https://cdn.miranight.me/api/u/7abef7vio0.png",
       "createdAt": 1775492013785
+    },
+    "egsc135ppy": {
+      "id": "egsc135ppy",
+      "originalName": "file.png",
+      "storedName": "egsc135ppy.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 308942,
+      "expiresAt": 1775495658924,
+      "url": "https://cdn.miranight.me/api/u/egsc135ppy.png",
+      "createdAt": 1775492058924
     }
   },
   "stats": {
-    "uploads": 140,
+    "uploads": 141,
     "deleted": 78,
-    "totalBytes": 30493390
+    "totalBytes": 30802332
   }
 }
