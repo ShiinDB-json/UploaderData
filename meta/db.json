@@ -1308,11 +1308,22 @@
       "expiresAt": 1775517075032,
       "url": "https://cdn.miranight.me/api/u/ggf6gscc7a.png",
       "createdAt": 1775513475032
+    },
+    "pikjzqtwjl": {
+      "id": "pikjzqtwjl",
+      "originalName": "file.png",
+      "storedName": "pikjzqtwjl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 225308,
+      "expiresAt": 1775517392425,
+      "url": "https://cdn.miranight.me/api/u/pikjzqtwjl.png",
+      "createdAt": 1775513792425
     }
   },
   "stats": {
-    "uploads": 197,
+    "uploads": 198,
     "deleted": 78,
-    "totalBytes": 44804081
+    "totalBytes": 45029389
   }
 }
