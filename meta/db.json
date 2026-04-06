@@ -527,11 +527,22 @@
       "expiresAt": 1775488133628,
       "url": "https://cdn.miranight.me/api/u/9ww59cvkk9.png",
       "createdAt": 1775484533628
+    },
+    "6brvrc2lid": {
+      "id": "6brvrc2lid",
+      "originalName": "file.png",
+      "storedName": "6brvrc2lid.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 42444,
+      "expiresAt": 1775488976155,
+      "url": "https://cdn.miranight.me/api/u/6brvrc2lid.png",
+      "createdAt": 1775485376155
     }
   },
   "stats": {
-    "uploads": 126,
+    "uploads": 127,
     "deleted": 78,
-    "totalBytes": 27612008
+    "totalBytes": 27654452
   }
 }
