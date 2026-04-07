@@ -3816,11 +3816,22 @@
       "expiresAt": 1775561984653,
       "url": "https://cdn.miranight.me/api/u/8fcs9gz3c5.png",
       "createdAt": 1775558384653
+    },
+    "fcj59ednac": {
+      "id": "fcj59ednac",
+      "originalName": "file.png",
+      "storedName": "fcj59ednac.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 349496,
+      "expiresAt": 1775561990028,
+      "url": "https://cdn.miranight.me/api/u/fcj59ednac.png",
+      "createdAt": 1775558390028
     }
   },
   "stats": {
-    "uploads": 517,
+    "uploads": 518,
     "deleted": 170,
-    "totalBytes": 124167152
+    "totalBytes": 124516648
   }
 }
