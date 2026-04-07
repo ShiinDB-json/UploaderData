@@ -4927,11 +4927,22 @@
       "expiresAt": 1775570729103,
       "url": "https://cdn.miranight.me/api/u/gpcfue4mtz.png",
       "createdAt": 1775567129103
+    },
+    "szhcwbdz98": {
+      "id": "szhcwbdz98",
+      "originalName": "file.png",
+      "storedName": "szhcwbdz98.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 160882,
+      "expiresAt": 1775570785970,
+      "url": "https://cdn.miranight.me/api/u/szhcwbdz98.png",
+      "createdAt": 1775567185970
     }
   },
   "stats": {
-    "uploads": 618,
+    "uploads": 619,
     "deleted": 170,
-    "totalBytes": 147964663
+    "totalBytes": 148125545
   }
 }
