@@ -901,11 +901,22 @@
       "expiresAt": 1775533799288,
       "url": "https://cdn.miranight.me/api/u/6z21qtqy3e.png",
       "createdAt": 1775530199288
+    },
+    "g4mxeo2jex": {
+      "id": "g4mxeo2jex",
+      "originalName": "file.png",
+      "storedName": "g4mxeo2jex.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 156217,
+      "expiresAt": 1775533828824,
+      "url": "https://cdn.miranight.me/api/u/g4mxeo2jex.png",
+      "createdAt": 1775530228824
     }
   },
   "stats": {
-    "uploads": 252,
+    "uploads": 253,
     "deleted": 170,
-    "totalBytes": 58465802
+    "totalBytes": 58622019
   }
 }
