@@ -4498,11 +4498,22 @@
       "expiresAt": 1775568099126,
       "url": "https://cdn.miranight.me/api/u/8voapaezum.png",
       "createdAt": 1775564499126
+    },
+    "g6k8v7kdcd": {
+      "id": "g6k8v7kdcd",
+      "originalName": "file.png",
+      "storedName": "g6k8v7kdcd.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 121117,
+      "expiresAt": 1775568128678,
+      "url": "https://cdn.miranight.me/api/u/g6k8v7kdcd.png",
+      "createdAt": 1775564528678
     }
   },
   "stats": {
-    "uploads": 579,
+    "uploads": 580,
     "deleted": 170,
-    "totalBytes": 138456607
+    "totalBytes": 138577724
   }
 }
