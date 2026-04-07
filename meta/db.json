@@ -1319,11 +1319,22 @@
       "expiresAt": 1775538620431,
       "url": "https://cdn.miranight.me/api/u/jbbntdqr0i.png",
       "createdAt": 1775535020431
+    },
+    "dvad1pf75z": {
+      "id": "dvad1pf75z",
+      "originalName": "file.png",
+      "storedName": "dvad1pf75z.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 121057,
+      "expiresAt": 1775538881634,
+      "url": "https://cdn.miranight.me/api/u/dvad1pf75z.png",
+      "createdAt": 1775535281634
     }
   },
   "stats": {
-    "uploads": 290,
+    "uploads": 291,
     "deleted": 170,
-    "totalBytes": 67038108
+    "totalBytes": 67159165
   }
 }
