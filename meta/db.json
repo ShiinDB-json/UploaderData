@@ -2639,11 +2639,22 @@
       "expiresAt": 1775552841428,
       "url": "https://cdn.miranight.me/api/u/tcemmt848i.png",
       "createdAt": 1775549241428
+    },
+    "jl2bidvfb5": {
+      "id": "jl2bidvfb5",
+      "originalName": "file.png",
+      "storedName": "jl2bidvfb5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 208366,
+      "expiresAt": 1775552849829,
+      "url": "https://cdn.miranight.me/api/u/jl2bidvfb5.png",
+      "createdAt": 1775549249829
     }
   },
   "stats": {
-    "uploads": 410,
+    "uploads": 411,
     "deleted": 170,
-    "totalBytes": 98060756
+    "totalBytes": 98269122
   }
 }
