@@ -1286,11 +1286,22 @@
       "expiresAt": 1775538518179,
       "url": "https://cdn.miranight.me/api/u/1l9i4oc556.png",
       "createdAt": 1775534918179
+    },
+    "vjmuxvzxsv": {
+      "id": "vjmuxvzxsv",
+      "originalName": "file.png",
+      "storedName": "vjmuxvzxsv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 278230,
+      "expiresAt": 1775538552083,
+      "url": "https://cdn.miranight.me/api/u/vjmuxvzxsv.png",
+      "createdAt": 1775534952083
     }
   },
   "stats": {
-    "uploads": 287,
+    "uploads": 288,
     "deleted": 170,
-    "totalBytes": 66458313
+    "totalBytes": 66736543
   }
 }
