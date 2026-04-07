@@ -4454,11 +4454,22 @@
       "expiresAt": 1775567344482,
       "url": "https://cdn.miranight.me/api/u/mursnkamv9.png",
       "createdAt": 1775563744482
+    },
+    "uh4u7v4shm": {
+      "id": "uh4u7v4shm",
+      "originalName": "file.png",
+      "storedName": "uh4u7v4shm.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 367499,
+      "expiresAt": 1775567771580,
+      "url": "https://cdn.miranight.me/api/u/uh4u7v4shm.png",
+      "createdAt": 1775564171580
     }
   },
   "stats": {
-    "uploads": 575,
+    "uploads": 576,
     "deleted": 170,
-    "totalBytes": 137387678
+    "totalBytes": 137755177
   }
 }
