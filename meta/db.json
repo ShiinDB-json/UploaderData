@@ -2342,11 +2342,22 @@
       "expiresAt": 1775551055738,
       "url": "https://cdn.miranight.me/api/u/pg6dhf9bw8.png",
       "createdAt": 1775547455738
+    },
+    "vy13asaunl": {
+      "id": "vy13asaunl",
+      "originalName": "file.png",
+      "storedName": "vy13asaunl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 284958,
+      "expiresAt": 1775551081305,
+      "url": "https://cdn.miranight.me/api/u/vy13asaunl.png",
+      "createdAt": 1775547481305
     }
   },
   "stats": {
-    "uploads": 383,
+    "uploads": 384,
     "deleted": 170,
-    "totalBytes": 91076603
+    "totalBytes": 91361561
   }
 }
