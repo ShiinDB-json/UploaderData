@@ -3365,11 +3365,22 @@
       "expiresAt": 1775559280175,
       "url": "https://cdn.miranight.me/api/u/a55xhqmx8o.png",
       "createdAt": 1775555680175
+    },
+    "tx312cfwis": {
+      "id": "tx312cfwis",
+      "originalName": "file.png",
+      "storedName": "tx312cfwis.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 289643,
+      "expiresAt": 1775559373155,
+      "url": "https://cdn.miranight.me/api/u/tx312cfwis.png",
+      "createdAt": 1775555773155
     }
   },
   "stats": {
-    "uploads": 476,
+    "uploads": 477,
     "deleted": 170,
-    "totalBytes": 114469299
+    "totalBytes": 114758942
   }
 }
