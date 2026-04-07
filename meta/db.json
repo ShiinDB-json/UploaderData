@@ -3376,11 +3376,22 @@
       "expiresAt": 1775559373155,
       "url": "https://cdn.miranight.me/api/u/tx312cfwis.png",
       "createdAt": 1775555773155
+    },
+    "bnp1zify2v": {
+      "id": "bnp1zify2v",
+      "originalName": "file.png",
+      "storedName": "bnp1zify2v.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 206334,
+      "expiresAt": 1775559452965,
+      "url": "https://cdn.miranight.me/api/u/bnp1zify2v.png",
+      "createdAt": 1775555852965
     }
   },
   "stats": {
-    "uploads": 477,
+    "uploads": 478,
     "deleted": 170,
-    "totalBytes": 114758942
+    "totalBytes": 114965276
   }
 }
