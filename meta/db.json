@@ -769,11 +769,22 @@
       "expiresAt": 1775530863534,
       "url": "https://cdn.miranight.me/api/u/2j8vs3jik5.png",
       "createdAt": 1775527263534
+    },
+    "ffzoh35fey": {
+      "id": "ffzoh35fey",
+      "originalName": "file.png",
+      "storedName": "ffzoh35fey.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 158115,
+      "expiresAt": 1775530910594,
+      "url": "https://cdn.miranight.me/api/u/ffzoh35fey.png",
+      "createdAt": 1775527310594
     }
   },
   "stats": {
-    "uploads": 240,
+    "uploads": 241,
     "deleted": 170,
-    "totalBytes": 55540972
+    "totalBytes": 55699087
   }
 }
