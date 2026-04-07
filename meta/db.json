@@ -2782,11 +2782,22 @@
       "expiresAt": 1775553597137,
       "url": "https://cdn.miranight.me/api/u/8klk4suc9r.png",
       "createdAt": 1775549997137
+    },
+    "vjntddt48z": {
+      "id": "vjntddt48z",
+      "originalName": "file.png",
+      "storedName": "vjntddt48z.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 329152,
+      "expiresAt": 1775553608260,
+      "url": "https://cdn.miranight.me/api/u/vjntddt48z.png",
+      "createdAt": 1775550008260
     }
   },
   "stats": {
-    "uploads": 423,
+    "uploads": 424,
     "deleted": 170,
-    "totalBytes": 101491014
+    "totalBytes": 101820166
   }
 }
