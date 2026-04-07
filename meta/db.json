@@ -4531,11 +4531,22 @@
       "expiresAt": 1775568401579,
       "url": "https://cdn.miranight.me/api/u/m1ks6cqubn.png",
       "createdAt": 1775564801579
+    },
+    "1zi140jmay": {
+      "id": "1zi140jmay",
+      "originalName": "file.png",
+      "storedName": "1zi140jmay.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 283830,
+      "expiresAt": 1775568436107,
+      "url": "https://cdn.miranight.me/api/u/1zi140jmay.png",
+      "createdAt": 1775564836107
     }
   },
   "stats": {
-    "uploads": 582,
+    "uploads": 583,
     "deleted": 170,
-    "totalBytes": 139030386
+    "totalBytes": 139314216
   }
 }
