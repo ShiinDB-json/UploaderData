@@ -1341,11 +1341,22 @@
       "expiresAt": 1775539026336,
       "url": "https://cdn.miranight.me/api/u/xag9e5u6bv.png",
       "createdAt": 1775535426336
+    },
+    "37tmx5zyla": {
+      "id": "37tmx5zyla",
+      "originalName": "file.png",
+      "storedName": "37tmx5zyla.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 171703,
+      "expiresAt": 1775539270110,
+      "url": "https://cdn.miranight.me/api/u/37tmx5zyla.png",
+      "createdAt": 1775535670110
     }
   },
   "stats": {
-    "uploads": 292,
+    "uploads": 293,
     "deleted": 170,
-    "totalBytes": 67296628
+    "totalBytes": 67468331
   }
 }
