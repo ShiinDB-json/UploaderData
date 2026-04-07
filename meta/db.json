@@ -670,11 +670,22 @@
       "expiresAt": 1775529792410,
       "url": "https://cdn.miranight.me/api/u/n80ili93kh.png",
       "createdAt": 1775526192410
+    },
+    "f83il4x2fs": {
+      "id": "f83il4x2fs",
+      "originalName": "file.png",
+      "storedName": "f83il4x2fs.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 318900,
+      "expiresAt": 1775530133544,
+      "url": "https://cdn.miranight.me/api/u/f83il4x2fs.png",
+      "createdAt": 1775526533544
     }
   },
   "stats": {
-    "uploads": 231,
+    "uploads": 232,
     "deleted": 170,
-    "totalBytes": 53298966
+    "totalBytes": 53617866
   }
 }
