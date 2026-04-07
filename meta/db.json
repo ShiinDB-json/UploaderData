@@ -4091,11 +4091,22 @@
       "expiresAt": 1775565019088,
       "url": "https://cdn.miranight.me/api/u/vcwpe9p6tf.png",
       "createdAt": 1775561419088
+    },
+    "znjx7vpie8": {
+      "id": "znjx7vpie8",
+      "originalName": "file.png",
+      "storedName": "znjx7vpie8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 50098,
+      "expiresAt": 1775565039655,
+      "url": "https://cdn.miranight.me/api/u/znjx7vpie8.png",
+      "createdAt": 1775561439655
     }
   },
   "stats": {
-    "uploads": 542,
+    "uploads": 543,
     "deleted": 170,
-    "totalBytes": 130212359
+    "totalBytes": 130262457
   }
 }
