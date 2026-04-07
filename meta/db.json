@@ -4564,11 +4564,22 @@
       "expiresAt": 1775568536921,
       "url": "https://cdn.miranight.me/api/u/b2yuo60wml.png",
       "createdAt": 1775564936921
+    },
+    "vaoswtcl4t": {
+      "id": "vaoswtcl4t",
+      "originalName": "file.png",
+      "storedName": "vaoswtcl4t.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 290794,
+      "expiresAt": 1775568567036,
+      "url": "https://cdn.miranight.me/api/u/vaoswtcl4t.png",
+      "createdAt": 1775564967036
     }
   },
   "stats": {
-    "uploads": 585,
+    "uploads": 586,
     "deleted": 170,
-    "totalBytes": 139727164
+    "totalBytes": 140017958
   }
 }
