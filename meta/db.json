@@ -4267,11 +4267,22 @@
       "expiresAt": 1775565747689,
       "url": "https://cdn.miranight.me/api/u/ohns26ai9j.png",
       "createdAt": 1775562147689
+    },
+    "lnura4frtk": {
+      "id": "lnura4frtk",
+      "originalName": "file.png",
+      "storedName": "lnura4frtk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 303757,
+      "expiresAt": 1775565959322,
+      "url": "https://cdn.miranight.me/api/u/lnura4frtk.png",
+      "createdAt": 1775562359322
     }
   },
   "stats": {
-    "uploads": 558,
+    "uploads": 559,
     "deleted": 170,
-    "totalBytes": 133374781
+    "totalBytes": 133678538
   }
 }
