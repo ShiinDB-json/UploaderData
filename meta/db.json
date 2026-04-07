@@ -3112,11 +3112,22 @@
       "expiresAt": 1775555988965,
       "url": "https://cdn.miranight.me/api/u/2sd3phwhxe.png",
       "createdAt": 1775552388965
+    },
+    "30vp376cne": {
+      "id": "30vp376cne",
+      "originalName": "file.png",
+      "storedName": "30vp376cne.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 244350,
+      "expiresAt": 1775555991487,
+      "url": "https://cdn.miranight.me/api/u/30vp376cne.png",
+      "createdAt": 1775552391487
     }
   },
   "stats": {
-    "uploads": 453,
+    "uploads": 454,
     "deleted": 170,
-    "totalBytes": 108741913
+    "totalBytes": 108986263
   }
 }
