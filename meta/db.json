@@ -2397,11 +2397,22 @@
       "expiresAt": 1775551182192,
       "url": "https://cdn.miranight.me/api/u/zv51oege9a.png",
       "createdAt": 1775547582192
+    },
+    "38idp0anvr": {
+      "id": "38idp0anvr",
+      "originalName": "file.png",
+      "storedName": "38idp0anvr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 212150,
+      "expiresAt": 1775551249336,
+      "url": "https://cdn.miranight.me/api/u/38idp0anvr.png",
+      "createdAt": 1775547649336
     }
   },
   "stats": {
-    "uploads": 388,
+    "uploads": 389,
     "deleted": 170,
-    "totalBytes": 92586059
+    "totalBytes": 92798209
   }
 }
