@@ -4608,11 +4608,22 @@
       "expiresAt": 1775568642575,
       "url": "https://cdn.miranight.me/api/u/qamomaulqf.png",
       "createdAt": 1775565042575
+    },
+    "a58uc6u3o7": {
+      "id": "a58uc6u3o7",
+      "originalName": "file.png",
+      "storedName": "a58uc6u3o7.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 254149,
+      "expiresAt": 1775568738047,
+      "url": "https://cdn.miranight.me/api/u/a58uc6u3o7.png",
+      "createdAt": 1775565138047
     }
   },
   "stats": {
-    "uploads": 589,
+    "uploads": 590,
     "deleted": 170,
-    "totalBytes": 140741265
+    "totalBytes": 140995414
   }
 }
