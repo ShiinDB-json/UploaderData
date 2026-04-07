@@ -1132,11 +1132,22 @@
       "expiresAt": 1775537193222,
       "url": "https://cdn.miranight.me/api/u/7knrxgongx.png",
       "createdAt": 1775533593222
+    },
+    "chadwt7iev": {
+      "id": "chadwt7iev",
+      "originalName": "file.png",
+      "storedName": "chadwt7iev.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 251663,
+      "expiresAt": 1775537247817,
+      "url": "https://cdn.miranight.me/api/u/chadwt7iev.png",
+      "createdAt": 1775533647817
     }
   },
   "stats": {
-    "uploads": 273,
+    "uploads": 274,
     "deleted": 170,
-    "totalBytes": 63331196
+    "totalBytes": 63582859
   }
 }
