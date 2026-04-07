@@ -4751,11 +4751,22 @@
       "expiresAt": 1775569934930,
       "url": "https://cdn.miranight.me/api/u/ocdiudmpgj.png",
       "createdAt": 1775566334930
+    },
+    "jry3kg630p": {
+      "id": "jry3kg630p",
+      "originalName": "file.png",
+      "storedName": "jry3kg630p.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 212150,
+      "expiresAt": 1775569937340,
+      "url": "https://cdn.miranight.me/api/u/jry3kg630p.png",
+      "createdAt": 1775566337340
     }
   },
   "stats": {
-    "uploads": 602,
+    "uploads": 603,
     "deleted": 170,
-    "totalBytes": 144521773
+    "totalBytes": 144733923
   }
 }
