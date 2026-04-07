@@ -3651,11 +3651,22 @@
       "expiresAt": 1775561556343,
       "url": "https://cdn.miranight.me/api/u/lfky99azq1.png",
       "createdAt": 1775557956343
+    },
+    "xkxlg814kw": {
+      "id": "xkxlg814kw",
+      "originalName": "file.png",
+      "storedName": "xkxlg814kw.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 302924,
+      "expiresAt": 1775561564958,
+      "url": "https://cdn.miranight.me/api/u/xkxlg814kw.png",
+      "createdAt": 1775557964958
     }
   },
   "stats": {
-    "uploads": 502,
+    "uploads": 503,
     "deleted": 170,
-    "totalBytes": 120409414
+    "totalBytes": 120712338
   }
 }
