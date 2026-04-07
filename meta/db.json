@@ -2496,11 +2496,22 @@
       "expiresAt": 1775551560813,
       "url": "https://cdn.miranight.me/api/u/9e359z6pl9.png",
       "createdAt": 1775547960813
+    },
+    "tdi7fgul04": {
+      "id": "tdi7fgul04",
+      "originalName": "file.png",
+      "storedName": "tdi7fgul04.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 294368,
+      "expiresAt": 1775551605378,
+      "url": "https://cdn.miranight.me/api/u/tdi7fgul04.png",
+      "createdAt": 1775548005378
     }
   },
   "stats": {
-    "uploads": 397,
+    "uploads": 398,
     "deleted": 170,
-    "totalBytes": 95047106
+    "totalBytes": 95341474
   }
 }
