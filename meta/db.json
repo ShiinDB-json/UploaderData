@@ -4300,11 +4300,22 @@
       "expiresAt": 1775566067893,
       "url": "https://cdn.miranight.me/api/u/0y1vlqy6ai.png",
       "createdAt": 1775562467893
+    },
+    "zikosed02d": {
+      "id": "zikosed02d",
+      "originalName": "file.png",
+      "storedName": "zikosed02d.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 233328,
+      "expiresAt": 1775566093210,
+      "url": "https://cdn.miranight.me/api/u/zikosed02d.png",
+      "createdAt": 1775562493210
     }
   },
   "stats": {
-    "uploads": 561,
+    "uploads": 562,
     "deleted": 170,
-    "totalBytes": 134141588
+    "totalBytes": 134374916
   }
 }
