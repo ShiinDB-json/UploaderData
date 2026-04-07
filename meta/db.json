@@ -2353,11 +2353,22 @@
       "expiresAt": 1775551081305,
       "url": "https://cdn.miranight.me/api/u/vy13asaunl.png",
       "createdAt": 1775547481305
+    },
+    "pkpuu3tzik": {
+      "id": "pkpuu3tzik",
+      "originalName": "file.png",
+      "storedName": "pkpuu3tzik.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 329805,
+      "expiresAt": 1775551091337,
+      "url": "https://cdn.miranight.me/api/u/pkpuu3tzik.png",
+      "createdAt": 1775547491337
     }
   },
   "stats": {
-    "uploads": 384,
+    "uploads": 385,
     "deleted": 170,
-    "totalBytes": 91361561
+    "totalBytes": 91691366
   }
 }
