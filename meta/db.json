@@ -4949,11 +4949,22 @@
       "expiresAt": 1775570921821,
       "url": "https://cdn.miranight.me/api/u/atfm73x717.png",
       "createdAt": 1775567321821
+    },
+    "omcdil9aa9": {
+      "id": "omcdil9aa9",
+      "originalName": "file.png",
+      "storedName": "omcdil9aa9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 275407,
+      "expiresAt": 1775571442317,
+      "url": "https://cdn.miranight.me/api/u/omcdil9aa9.png",
+      "createdAt": 1775567842317
     }
   },
   "stats": {
-    "uploads": 620,
+    "uploads": 621,
     "deleted": 170,
-    "totalBytes": 148401542
+    "totalBytes": 148676949
   }
 }
