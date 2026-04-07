@@ -1913,11 +1913,22 @@
       "expiresAt": 1775546738159,
       "url": "https://cdn.miranight.me/api/u/vm46911cet.png",
       "createdAt": 1775543138159
+    },
+    "pigur8fpts": {
+      "id": "pigur8fpts",
+      "originalName": "file.png",
+      "storedName": "pigur8fpts.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 390348,
+      "expiresAt": 1775546754418,
+      "url": "https://cdn.miranight.me/api/u/pigur8fpts.png",
+      "createdAt": 1775543154418
     }
   },
   "stats": {
-    "uploads": 344,
+    "uploads": 345,
     "deleted": 170,
-    "totalBytes": 80540029
+    "totalBytes": 80930377
   }
 }
