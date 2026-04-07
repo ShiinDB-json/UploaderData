@@ -4278,11 +4278,22 @@
       "expiresAt": 1775565959322,
       "url": "https://cdn.miranight.me/api/u/lnura4frtk.png",
       "createdAt": 1775562359322
+    },
+    "p1owb1dheu": {
+      "id": "p1owb1dheu",
+      "originalName": "file.png",
+      "storedName": "p1owb1dheu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 210303,
+      "expiresAt": 1775565999877,
+      "url": "https://cdn.miranight.me/api/u/p1owb1dheu.png",
+      "createdAt": 1775562399877
     }
   },
   "stats": {
-    "uploads": 559,
+    "uploads": 560,
     "deleted": 170,
-    "totalBytes": 133678538
+    "totalBytes": 133888841
   }
 }
