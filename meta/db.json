@@ -4036,11 +4036,22 @@
       "expiresAt": 1775564202805,
       "url": "https://cdn.miranight.me/api/u/a2x8zivf82.png",
       "createdAt": 1775560602805
+    },
+    "ogwoo1lttr": {
+      "id": "ogwoo1lttr",
+      "originalName": "file.png",
+      "storedName": "ogwoo1lttr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 191695,
+      "expiresAt": 1775564410941,
+      "url": "https://cdn.miranight.me/api/u/ogwoo1lttr.png",
+      "createdAt": 1775560810941
     }
   },
   "stats": {
-    "uploads": 537,
+    "uploads": 538,
     "deleted": 170,
-    "totalBytes": 129055397
+    "totalBytes": 129247092
   }
 }
