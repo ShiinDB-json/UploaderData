@@ -4432,11 +4432,22 @@
       "expiresAt": 1775567026565,
       "url": "https://cdn.miranight.me/api/u/ws3a39ooot.png",
       "createdAt": 1775563426565
+    },
+    "84gs775aba": {
+      "id": "84gs775aba",
+      "originalName": "file.png",
+      "storedName": "84gs775aba.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 292564,
+      "expiresAt": 1775567109307,
+      "url": "https://cdn.miranight.me/api/u/84gs775aba.png",
+      "createdAt": 1775563509307
     }
   },
   "stats": {
-    "uploads": 573,
+    "uploads": 574,
     "deleted": 170,
-    "totalBytes": 136792285
+    "totalBytes": 137084849
   }
 }
