@@ -2045,11 +2045,22 @@
       "expiresAt": 1775548909690,
       "url": "https://cdn.miranight.me/api/u/3ghfazbpqf.png",
       "createdAt": 1775545309690
+    },
+    "uui93fs4su": {
+      "id": "uui93fs4su",
+      "originalName": "file.png",
+      "storedName": "uui93fs4su.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 350520,
+      "expiresAt": 1775548910631,
+      "url": "https://cdn.miranight.me/api/u/uui93fs4su.png",
+      "createdAt": 1775545310631
     }
   },
   "stats": {
-    "uploads": 356,
+    "uploads": 357,
     "deleted": 170,
-    "totalBytes": 83288416
+    "totalBytes": 83638936
   }
 }
