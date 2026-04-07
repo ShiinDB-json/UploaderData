@@ -4795,11 +4795,22 @@
       "expiresAt": 1775570057283,
       "url": "https://cdn.miranight.me/api/u/r127pikm10.png",
       "createdAt": 1775566457283
+    },
+    "oeyklfkozg": {
+      "id": "oeyklfkozg",
+      "originalName": "file.png",
+      "storedName": "oeyklfkozg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 317944,
+      "expiresAt": 1775570245585,
+      "url": "https://cdn.miranight.me/api/u/oeyklfkozg.png",
+      "createdAt": 1775566645585
     }
   },
   "stats": {
-    "uploads": 606,
+    "uploads": 607,
     "deleted": 170,
-    "totalBytes": 145392824
+    "totalBytes": 145710768
   }
 }
