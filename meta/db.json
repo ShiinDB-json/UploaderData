@@ -3893,11 +3893,22 @@
       "expiresAt": 1775562338798,
       "url": "https://cdn.miranight.me/api/u/ldhphamhnh.png",
       "createdAt": 1775558738798
+    },
+    "juvcpi6wau": {
+      "id": "juvcpi6wau",
+      "originalName": "file.png",
+      "storedName": "juvcpi6wau.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 247569,
+      "expiresAt": 1775562440654,
+      "url": "https://cdn.miranight.me/api/u/juvcpi6wau.png",
+      "createdAt": 1775558840654
     }
   },
   "stats": {
-    "uploads": 524,
+    "uploads": 525,
     "deleted": 170,
-    "totalBytes": 126390312
+    "totalBytes": 126637881
   }
 }
