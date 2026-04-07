@@ -3794,11 +3794,22 @@
       "expiresAt": 1775561909974,
       "url": "https://cdn.miranight.me/api/u/umybpcyu1b.png",
       "createdAt": 1775558309974
+    },
+    "esyn9mubdi": {
+      "id": "esyn9mubdi",
+      "originalName": "file.png",
+      "storedName": "esyn9mubdi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 182655,
+      "expiresAt": 1775561952543,
+      "url": "https://cdn.miranight.me/api/u/esyn9mubdi.png",
+      "createdAt": 1775558352543
     }
   },
   "stats": {
-    "uploads": 515,
+    "uploads": 516,
     "deleted": 170,
-    "totalBytes": 123911611
+    "totalBytes": 124094266
   }
 }
