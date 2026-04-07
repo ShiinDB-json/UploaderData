@@ -1924,11 +1924,22 @@
       "expiresAt": 1775546754418,
       "url": "https://cdn.miranight.me/api/u/pigur8fpts.png",
       "createdAt": 1775543154418
+    },
+    "2ay21daenz": {
+      "id": "2ay21daenz",
+      "originalName": "file.png",
+      "storedName": "2ay21daenz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 342099,
+      "expiresAt": 1775546765014,
+      "url": "https://cdn.miranight.me/api/u/2ay21daenz.png",
+      "createdAt": 1775543165014
     }
   },
   "stats": {
-    "uploads": 345,
+    "uploads": 346,
     "deleted": 170,
-    "totalBytes": 80930377
+    "totalBytes": 81272476
   }
 }
