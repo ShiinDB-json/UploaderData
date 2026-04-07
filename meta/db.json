@@ -3387,11 +3387,22 @@
       "expiresAt": 1775559452965,
       "url": "https://cdn.miranight.me/api/u/bnp1zify2v.png",
       "createdAt": 1775555852965
+    },
+    "dtgijfysqo": {
+      "id": "dtgijfysqo",
+      "originalName": "file.png",
+      "storedName": "dtgijfysqo.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 101923,
+      "expiresAt": 1775559745692,
+      "url": "https://cdn.miranight.me/api/u/dtgijfysqo.png",
+      "createdAt": 1775556145692
     }
   },
   "stats": {
-    "uploads": 478,
+    "uploads": 479,
     "deleted": 170,
-    "totalBytes": 114965276
+    "totalBytes": 115067199
   }
 }
