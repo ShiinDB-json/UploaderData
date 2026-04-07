@@ -3530,11 +3530,22 @@
       "expiresAt": 1775560385566,
       "url": "https://cdn.miranight.me/api/u/v80urgn2vi.png",
       "createdAt": 1775556785566
+    },
+    "65vubd79yf": {
+      "id": "65vubd79yf",
+      "originalName": "file.png",
+      "storedName": "65vubd79yf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 72512,
+      "expiresAt": 1775560491163,
+      "url": "https://cdn.miranight.me/api/u/65vubd79yf.png",
+      "createdAt": 1775556891163
     }
   },
   "stats": {
-    "uploads": 491,
+    "uploads": 492,
     "deleted": 170,
-    "totalBytes": 117895882
+    "totalBytes": 117968394
   }
 }
