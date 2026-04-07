@@ -4663,11 +4663,22 @@
       "expiresAt": 1775568874206,
       "url": "https://cdn.miranight.me/api/u/kekadozsam.png",
       "createdAt": 1775565274206
+    },
+    "w8x01v66nv": {
+      "id": "w8x01v66nv",
+      "originalName": "file.png",
+      "storedName": "w8x01v66nv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 454762,
+      "expiresAt": 1775569014247,
+      "url": "https://cdn.miranight.me/api/u/w8x01v66nv.png",
+      "createdAt": 1775565414247
     }
   },
   "stats": {
-    "uploads": 594,
+    "uploads": 595,
     "deleted": 170,
-    "totalBytes": 141794192
+    "totalBytes": 142248954
   }
 }
