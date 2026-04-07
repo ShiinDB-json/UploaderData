@@ -1528,11 +1528,22 @@
       "expiresAt": 1775540601978,
       "url": "https://cdn.miranight.me/api/u/en0huzvvep.png",
       "createdAt": 1775537001978
+    },
+    "gzbnhxficf": {
+      "id": "gzbnhxficf",
+      "originalName": "file.png",
+      "storedName": "gzbnhxficf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 303757,
+      "expiresAt": 1775540817001,
+      "url": "https://cdn.miranight.me/api/u/gzbnhxficf.png",
+      "createdAt": 1775537217001
     }
   },
   "stats": {
-    "uploads": 309,
+    "uploads": 310,
     "deleted": 170,
-    "totalBytes": 71517372
+    "totalBytes": 71821129
   }
 }
