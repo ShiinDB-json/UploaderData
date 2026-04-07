@@ -3750,11 +3750,22 @@
       "expiresAt": 1775561879564,
       "url": "https://cdn.miranight.me/api/u/19imia26is.png",
       "createdAt": 1775558279564
+    },
+    "sf6amjh04w": {
+      "id": "sf6amjh04w",
+      "originalName": "file.png",
+      "storedName": "sf6amjh04w.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 423814,
+      "expiresAt": 1775561884259,
+      "url": "https://cdn.miranight.me/api/u/sf6amjh04w.png",
+      "createdAt": 1775558284259
     }
   },
   "stats": {
-    "uploads": 511,
+    "uploads": 512,
     "deleted": 170,
-    "totalBytes": 122885473
+    "totalBytes": 123309287
   }
 }
