@@ -1066,11 +1066,22 @@
       "expiresAt": 1775534900772,
       "url": "https://cdn.miranight.me/api/u/mpeuperenl.png",
       "createdAt": 1775531300772
+    },
+    "4gpdu6tldr": {
+      "id": "4gpdu6tldr",
+      "originalName": "file.png",
+      "storedName": "4gpdu6tldr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 236115,
+      "expiresAt": 1775535296374,
+      "url": "https://cdn.miranight.me/api/u/4gpdu6tldr.png",
+      "createdAt": 1775531696374
     }
   },
   "stats": {
-    "uploads": 267,
+    "uploads": 268,
     "deleted": 170,
-    "totalBytes": 62017984
+    "totalBytes": 62254099
   }
 }
