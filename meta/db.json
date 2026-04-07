@@ -3123,11 +3123,22 @@
       "expiresAt": 1775555991487,
       "url": "https://cdn.miranight.me/api/u/30vp376cne.png",
       "createdAt": 1775552391487
+    },
+    "zh1fz40cuc": {
+      "id": "zh1fz40cuc",
+      "originalName": "file.png",
+      "storedName": "zh1fz40cuc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 84337,
+      "expiresAt": 1775556077205,
+      "url": "https://cdn.miranight.me/api/u/zh1fz40cuc.png",
+      "createdAt": 1775552477205
     }
   },
   "stats": {
-    "uploads": 454,
+    "uploads": 455,
     "deleted": 170,
-    "totalBytes": 108986263
+    "totalBytes": 109070600
   }
 }
