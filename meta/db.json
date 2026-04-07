@@ -2298,11 +2298,22 @@
       "expiresAt": 1775550883436,
       "url": "https://cdn.miranight.me/api/u/eufbdrgfco.png",
       "createdAt": 1775547283436
+    },
+    "ahkcbidmh8": {
+      "id": "ahkcbidmh8",
+      "originalName": "file.png",
+      "storedName": "ahkcbidmh8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 440846,
+      "expiresAt": 1775551043701,
+      "url": "https://cdn.miranight.me/api/u/ahkcbidmh8.png",
+      "createdAt": 1775547443701
     }
   },
   "stats": {
-    "uploads": 379,
+    "uploads": 380,
     "deleted": 170,
-    "totalBytes": 89458299
+    "totalBytes": 89899145
   }
 }
