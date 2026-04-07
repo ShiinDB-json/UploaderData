@@ -4916,11 +4916,22 @@
       "expiresAt": 1775570709823,
       "url": "https://cdn.miranight.me/api/u/r67udgudcp.png",
       "createdAt": 1775567109823
+    },
+    "gpcfue4mtz": {
+      "id": "gpcfue4mtz",
+      "originalName": "file.png",
+      "storedName": "gpcfue4mtz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 206374,
+      "expiresAt": 1775570729103,
+      "url": "https://cdn.miranight.me/api/u/gpcfue4mtz.png",
+      "createdAt": 1775567129103
     }
   },
   "stats": {
-    "uploads": 617,
+    "uploads": 618,
     "deleted": 170,
-    "totalBytes": 147758289
+    "totalBytes": 147964663
   }
 }
