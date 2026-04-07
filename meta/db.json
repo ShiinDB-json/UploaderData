@@ -1616,11 +1616,22 @@
       "expiresAt": 1775541515405,
       "url": "https://cdn.miranight.me/api/u/30g1h8ssk6.png",
       "createdAt": 1775537915405
+    },
+    "p6tcll102g": {
+      "id": "p6tcll102g",
+      "originalName": "file.png",
+      "storedName": "p6tcll102g.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 106268,
+      "expiresAt": 1775541550166,
+      "url": "https://cdn.miranight.me/api/u/p6tcll102g.png",
+      "createdAt": 1775537950166
     }
   },
   "stats": {
-    "uploads": 317,
+    "uploads": 318,
     "deleted": 170,
-    "totalBytes": 73341328
+    "totalBytes": 73447596
   }
 }
