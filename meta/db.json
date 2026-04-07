@@ -1605,11 +1605,22 @@
       "expiresAt": 1775541512944,
       "url": "https://cdn.miranight.me/api/u/ducp37s2ui.png",
       "createdAt": 1775537912944
+    },
+    "30g1h8ssk6": {
+      "id": "30g1h8ssk6",
+      "originalName": "file.png",
+      "storedName": "30g1h8ssk6.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 282465,
+      "expiresAt": 1775541515405,
+      "url": "https://cdn.miranight.me/api/u/30g1h8ssk6.png",
+      "createdAt": 1775537915405
     }
   },
   "stats": {
-    "uploads": 316,
+    "uploads": 317,
     "deleted": 170,
-    "totalBytes": 73058863
+    "totalBytes": 73341328
   }
 }
