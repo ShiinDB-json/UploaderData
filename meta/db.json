@@ -1011,11 +1011,22 @@
       "expiresAt": 1775534533263,
       "url": "https://cdn.miranight.me/api/u/gq5hv7uy7t.png",
       "createdAt": 1775530933263
+    },
+    "dunvpgcxpl": {
+      "id": "dunvpgcxpl",
+      "originalName": "file.png",
+      "storedName": "dunvpgcxpl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 263805,
+      "expiresAt": 1775534542990,
+      "url": "https://cdn.miranight.me/api/u/dunvpgcxpl.png",
+      "createdAt": 1775530942990
     }
   },
   "stats": {
-    "uploads": 262,
+    "uploads": 263,
     "deleted": 170,
-    "totalBytes": 60928538
+    "totalBytes": 61192343
   }
 }
