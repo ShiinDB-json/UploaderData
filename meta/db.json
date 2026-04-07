@@ -3849,11 +3849,22 @@
       "expiresAt": 1775562043301,
       "url": "https://cdn.miranight.me/api/u/1qai1yds55.png",
       "createdAt": 1775558443301
+    },
+    "buhifccl45": {
+      "id": "buhifccl45",
+      "originalName": "file.png",
+      "storedName": "buhifccl45.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 312882,
+      "expiresAt": 1775562075618,
+      "url": "https://cdn.miranight.me/api/u/buhifccl45.png",
+      "createdAt": 1775558475618
     }
   },
   "stats": {
-    "uploads": 520,
+    "uploads": 521,
     "deleted": 170,
-    "totalBytes": 125249039
+    "totalBytes": 125561921
   }
 }
