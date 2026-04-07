@@ -2903,11 +2903,22 @@
       "expiresAt": 1775555268617,
       "url": "https://cdn.miranight.me/api/u/yte6ylc35r.png",
       "createdAt": 1775551668617
+    },
+    "u4rguyujef": {
+      "id": "u4rguyujef",
+      "originalName": "file.png",
+      "storedName": "u4rguyujef.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 62004,
+      "expiresAt": 1775555379794,
+      "url": "https://cdn.miranight.me/api/u/u4rguyujef.png",
+      "createdAt": 1775551779794
     }
   },
   "stats": {
-    "uploads": 434,
+    "uploads": 435,
     "deleted": 170,
-    "totalBytes": 104463882
+    "totalBytes": 104525886
   }
 }
