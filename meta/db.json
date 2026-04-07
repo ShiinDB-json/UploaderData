@@ -604,11 +604,22 @@
       "expiresAt": 1775528217085,
       "url": "https://cdn.miranight.me/api/u/fgmdor5gi0.png",
       "createdAt": 1775524617085
+    },
+    "6ihlzfouhl": {
+      "id": "6ihlzfouhl",
+      "originalName": "file.png",
+      "storedName": "6ihlzfouhl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 214810,
+      "expiresAt": 1775528309755,
+      "url": "https://cdn.miranight.me/api/u/6ihlzfouhl.png",
+      "createdAt": 1775524709755
     }
   },
   "stats": {
-    "uploads": 225,
+    "uploads": 226,
     "deleted": 170,
-    "totalBytes": 52345424
+    "totalBytes": 52560234
   }
 }
