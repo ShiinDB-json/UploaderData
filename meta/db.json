@@ -3904,11 +3904,22 @@
       "expiresAt": 1775562440654,
       "url": "https://cdn.miranight.me/api/u/juvcpi6wau.png",
       "createdAt": 1775558840654
+    },
+    "py272iuzo4": {
+      "id": "py272iuzo4",
+      "originalName": "file.png",
+      "storedName": "py272iuzo4.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 175277,
+      "expiresAt": 1775562807452,
+      "url": "https://cdn.miranight.me/api/u/py272iuzo4.png",
+      "createdAt": 1775559207452
     }
   },
   "stats": {
-    "uploads": 525,
+    "uploads": 526,
     "deleted": 170,
-    "totalBytes": 126637881
+    "totalBytes": 126813158
   }
 }
