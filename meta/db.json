@@ -4487,11 +4487,22 @@
       "expiresAt": 1775568094789,
       "url": "https://cdn.miranight.me/api/u/7kmtpzrt26.png",
       "createdAt": 1775564494789
+    },
+    "8voapaezum": {
+      "id": "8voapaezum",
+      "originalName": "file.png",
+      "storedName": "8voapaezum.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 231777,
+      "expiresAt": 1775568099126,
+      "url": "https://cdn.miranight.me/api/u/8voapaezum.png",
+      "createdAt": 1775564499126
     }
   },
   "stats": {
-    "uploads": 578,
+    "uploads": 579,
     "deleted": 170,
-    "totalBytes": 138224830
+    "totalBytes": 138456607
   }
 }
