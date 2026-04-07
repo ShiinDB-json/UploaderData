@@ -3211,11 +3211,22 @@
       "expiresAt": 1775557243839,
       "url": "https://cdn.miranight.me/api/u/gpnwqauk7w.png",
       "createdAt": 1775553643839
+    },
+    "1j6m28apqv": {
+      "id": "1j6m28apqv",
+      "originalName": "file.png",
+      "storedName": "1j6m28apqv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 363767,
+      "expiresAt": 1775557269116,
+      "url": "https://cdn.miranight.me/api/u/1j6m28apqv.png",
+      "createdAt": 1775553669116
     }
   },
   "stats": {
-    "uploads": 462,
+    "uploads": 463,
     "deleted": 170,
-    "totalBytes": 110832704
+    "totalBytes": 111196471
   }
 }
