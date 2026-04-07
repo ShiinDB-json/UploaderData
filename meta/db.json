@@ -2661,11 +2661,22 @@
       "expiresAt": 1775553072245,
       "url": "https://cdn.miranight.me/api/u/gipzdgznv9.png",
       "createdAt": 1775549472245
+    },
+    "cc6x66wuqc": {
+      "id": "cc6x66wuqc",
+      "originalName": "file.png",
+      "storedName": "cc6x66wuqc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 272471,
+      "expiresAt": 1775553103020,
+      "url": "https://cdn.miranight.me/api/u/cc6x66wuqc.png",
+      "createdAt": 1775549503020
     }
   },
   "stats": {
-    "uploads": 412,
+    "uploads": 413,
     "deleted": 170,
-    "totalBytes": 98503829
+    "totalBytes": 98776300
   }
 }
