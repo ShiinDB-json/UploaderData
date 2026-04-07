@@ -3937,11 +3937,22 @@
       "expiresAt": 1775562847396,
       "url": "https://cdn.miranight.me/api/u/vdlr6v5sw3.png",
       "createdAt": 1775559247396
+    },
+    "uvln1kfcp6": {
+      "id": "uvln1kfcp6",
+      "originalName": "file.png",
+      "storedName": "uvln1kfcp6.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 175037,
+      "expiresAt": 1775562975302,
+      "url": "https://cdn.miranight.me/api/u/uvln1kfcp6.png",
+      "createdAt": 1775559375302
     }
   },
   "stats": {
-    "uploads": 528,
+    "uploads": 529,
     "deleted": 170,
-    "totalBytes": 127176358
+    "totalBytes": 127351395
   }
 }
