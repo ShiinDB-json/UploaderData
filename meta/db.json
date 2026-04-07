@@ -1055,11 +1055,22 @@
       "expiresAt": 1775534812144,
       "url": "https://cdn.miranight.me/api/u/0vcg8adnnd.png",
       "createdAt": 1775531212144
+    },
+    "mpeuperenl": {
+      "id": "mpeuperenl",
+      "originalName": "file.png",
+      "storedName": "mpeuperenl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 379576,
+      "expiresAt": 1775534900772,
+      "url": "https://cdn.miranight.me/api/u/mpeuperenl.png",
+      "createdAt": 1775531300772
     }
   },
   "stats": {
-    "uploads": 266,
+    "uploads": 267,
     "deleted": 170,
-    "totalBytes": 61638408
+    "totalBytes": 62017984
   }
 }
