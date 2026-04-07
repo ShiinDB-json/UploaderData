@@ -4861,11 +4861,22 @@
       "expiresAt": 1775570371550,
       "url": "https://cdn.miranight.me/api/u/9pogaq6o9z.png",
       "createdAt": 1775566771550
+    },
+    "mhrz68gifg": {
+      "id": "mhrz68gifg",
+      "originalName": "file.png",
+      "storedName": "mhrz68gifg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 105172,
+      "expiresAt": 1775570561558,
+      "url": "https://cdn.miranight.me/api/u/mhrz68gifg.png",
+      "createdAt": 1775566961558
     }
   },
   "stats": {
-    "uploads": 612,
+    "uploads": 613,
     "deleted": 170,
-    "totalBytes": 146866369
+    "totalBytes": 146971541
   }
 }
