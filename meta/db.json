@@ -2628,11 +2628,22 @@
       "expiresAt": 1775552785366,
       "url": "https://cdn.miranight.me/api/u/t8hv47ul6m.png",
       "createdAt": 1775549185366
+    },
+    "tcemmt848i": {
+      "id": "tcemmt848i",
+      "originalName": "file.png",
+      "storedName": "tcemmt848i.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 320371,
+      "expiresAt": 1775552841428,
+      "url": "https://cdn.miranight.me/api/u/tcemmt848i.png",
+      "createdAt": 1775549241428
     }
   },
   "stats": {
-    "uploads": 409,
+    "uploads": 410,
     "deleted": 170,
-    "totalBytes": 97740385
+    "totalBytes": 98060756
   }
 }
