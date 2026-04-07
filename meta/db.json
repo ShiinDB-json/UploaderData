@@ -4740,11 +4740,22 @@
       "expiresAt": 1775569918276,
       "url": "https://cdn.miranight.me/api/u/n6et80t15n.png",
       "createdAt": 1775566318276
+    },
+    "ocdiudmpgj": {
+      "id": "ocdiudmpgj",
+      "originalName": "file.png",
+      "storedName": "ocdiudmpgj.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 391686,
+      "expiresAt": 1775569934930,
+      "url": "https://cdn.miranight.me/api/u/ocdiudmpgj.png",
+      "createdAt": 1775566334930
     }
   },
   "stats": {
-    "uploads": 601,
+    "uploads": 602,
     "deleted": 170,
-    "totalBytes": 144130087
+    "totalBytes": 144521773
   }
 }
