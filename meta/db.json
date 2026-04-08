@@ -1506,11 +1506,22 @@
       "expiresAt": 1775638314326,
       "url": "https://cdn.miranight.me/api/u/msum4w39w9.png",
       "createdAt": 1775634714326
+    },
+    "posbms2a66": {
+      "id": "posbms2a66",
+      "originalName": "file.png",
+      "storedName": "posbms2a66.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 391686,
+      "expiresAt": 1775638405141,
+      "url": "https://cdn.miranight.me/api/u/posbms2a66.png",
+      "createdAt": 1775634805141
     }
   },
   "stats": {
-    "uploads": 736,
+    "uploads": 737,
     "deleted": 599,
-    "totalBytes": 177020979
+    "totalBytes": 177412665
   }
 }
