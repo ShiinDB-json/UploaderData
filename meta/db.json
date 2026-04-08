@@ -1033,11 +1033,22 @@
       "expiresAt": 1775631182744,
       "url": "https://cdn.miranight.me/api/u/iauf4xfqlc.png",
       "createdAt": 1775627582744
+    },
+    "abd3jsg569": {
+      "id": "abd3jsg569",
+      "originalName": "file.png",
+      "storedName": "abd3jsg569.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 224936,
+      "expiresAt": 1775631241645,
+      "url": "https://cdn.miranight.me/api/u/abd3jsg569.png",
+      "createdAt": 1775627641645
     }
   },
   "stats": {
-    "uploads": 693,
+    "uploads": 694,
     "deleted": 599,
-    "totalBytes": 166246250
+    "totalBytes": 166471186
   }
 }
