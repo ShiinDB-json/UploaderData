@@ -1440,11 +1440,22 @@
       "expiresAt": 1775636433834,
       "url": "https://cdn.miranight.me/api/u/h33avzsgdm.png",
       "createdAt": 1775632833834
+    },
+    "6davenvbw5": {
+      "id": "6davenvbw5",
+      "originalName": "file.png",
+      "storedName": "6davenvbw5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 342876,
+      "expiresAt": 1775636443234,
+      "url": "https://cdn.miranight.me/api/u/6davenvbw5.png",
+      "createdAt": 1775632843234
     }
   },
   "stats": {
-    "uploads": 730,
+    "uploads": 731,
     "deleted": 599,
-    "totalBytes": 175510237
+    "totalBytes": 175853113
   }
 }
