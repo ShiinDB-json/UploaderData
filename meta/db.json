@@ -703,11 +703,22 @@
       "expiresAt": 1775623599138,
       "url": "https://cdn.miranight.me/api/u/lpje1vrbrm.png",
       "createdAt": 1775619999138
+    },
+    "0upffv31uk": {
+      "id": "0upffv31uk",
+      "originalName": "file.png",
+      "storedName": "0upffv31uk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 300935,
+      "expiresAt": 1775623726204,
+      "url": "https://cdn.miranight.me/api/u/0upffv31uk.png",
+      "createdAt": 1775620126204
     }
   },
   "stats": {
-    "uploads": 663,
+    "uploads": 664,
     "deleted": 599,
-    "totalBytes": 158483566
+    "totalBytes": 158784501
   }
 }
