@@ -384,11 +384,22 @@
       "expiresAt": 1775613772319,
       "url": "https://cdn.miranight.me/api/u/sj580hrpzb.png",
       "createdAt": 1775610172319
+    },
+    "3bt3z7pr9a": {
+      "id": "3bt3z7pr9a",
+      "originalName": "file.png",
+      "storedName": "3bt3z7pr9a.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 185856,
+      "expiresAt": 1775614591908,
+      "url": "https://cdn.miranight.me/api/u/3bt3z7pr9a.png",
+      "createdAt": 1775610991908
     }
   },
   "stats": {
-    "uploads": 634,
+    "uploads": 635,
     "deleted": 599,
-    "totalBytes": 152123213
+    "totalBytes": 152309069
   }
 }
