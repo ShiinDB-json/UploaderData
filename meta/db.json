@@ -1517,11 +1517,22 @@
       "expiresAt": 1775638405141,
       "url": "https://cdn.miranight.me/api/u/posbms2a66.png",
       "createdAt": 1775634805141
+    },
+    "t6vh07ul17": {
+      "id": "t6vh07ul17",
+      "originalName": "file.png",
+      "storedName": "t6vh07ul17.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 361413,
+      "expiresAt": 1775638536220,
+      "url": "https://cdn.miranight.me/api/u/t6vh07ul17.png",
+      "createdAt": 1775634936220
     }
   },
   "stats": {
-    "uploads": 737,
+    "uploads": 738,
     "deleted": 599,
-    "totalBytes": 177412665
+    "totalBytes": 177774078
   }
 }
