@@ -989,11 +989,22 @@
       "expiresAt": 1775630396631,
       "url": "https://cdn.miranight.me/api/u/ubcnyke4oj.png",
       "createdAt": 1775626796631
+    },
+    "wi8wgi2ds3": {
+      "id": "wi8wgi2ds3",
+      "originalName": "file.png",
+      "storedName": "wi8wgi2ds3.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 275699,
+      "expiresAt": 1775630485856,
+      "url": "https://cdn.miranight.me/api/u/wi8wgi2ds3.png",
+      "createdAt": 1775626885856
     }
   },
   "stats": {
-    "uploads": 689,
+    "uploads": 690,
     "deleted": 599,
-    "totalBytes": 165041357
+    "totalBytes": 165317056
   }
 }
