@@ -967,11 +967,22 @@
       "expiresAt": 1775630016904,
       "url": "https://cdn.miranight.me/api/u/2lv9cg6yvf.png",
       "createdAt": 1775626416904
+    },
+    "2oni15wmec": {
+      "id": "2oni15wmec",
+      "originalName": "file.png",
+      "storedName": "2oni15wmec.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 126942,
+      "expiresAt": 1775630290464,
+      "url": "https://cdn.miranight.me/api/u/2oni15wmec.png",
+      "createdAt": 1775626690464
     }
   },
   "stats": {
-    "uploads": 687,
+    "uploads": 688,
     "deleted": 599,
-    "totalBytes": 164677108
+    "totalBytes": 164804050
   }
 }
