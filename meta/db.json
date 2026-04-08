@@ -978,11 +978,22 @@
       "expiresAt": 1775630290464,
       "url": "https://cdn.miranight.me/api/u/2oni15wmec.png",
       "createdAt": 1775626690464
+    },
+    "ubcnyke4oj": {
+      "id": "ubcnyke4oj",
+      "originalName": "file.png",
+      "storedName": "ubcnyke4oj.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 237307,
+      "expiresAt": 1775630396631,
+      "url": "https://cdn.miranight.me/api/u/ubcnyke4oj.png",
+      "createdAt": 1775626796631
     }
   },
   "stats": {
-    "uploads": 688,
+    "uploads": 689,
     "deleted": 599,
-    "totalBytes": 164804050
+    "totalBytes": 165041357
   }
 }
