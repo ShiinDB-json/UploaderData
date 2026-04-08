@@ -1198,11 +1198,22 @@
       "expiresAt": 1775632815997,
       "url": "https://cdn.miranight.me/api/u/qkjjmujd7u.png",
       "createdAt": 1775629215997
+    },
+    "rfmo2wtlvn": {
+      "id": "rfmo2wtlvn",
+      "originalName": "file.png",
+      "storedName": "rfmo2wtlvn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 221331,
+      "expiresAt": 1775632829729,
+      "url": "https://cdn.miranight.me/api/u/rfmo2wtlvn.png",
+      "createdAt": 1775629229729
     }
   },
   "stats": {
-    "uploads": 708,
+    "uploads": 709,
     "deleted": 599,
-    "totalBytes": 170685118
+    "totalBytes": 170906449
   }
 }
