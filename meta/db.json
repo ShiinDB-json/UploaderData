@@ -1407,11 +1407,22 @@
       "expiresAt": 1775635862527,
       "url": "https://cdn.miranight.me/api/u/buza96h9c6.png",
       "createdAt": 1775632262527
+    },
+    "ugd3ba277v": {
+      "id": "ugd3ba277v",
+      "originalName": "file.png",
+      "storedName": "ugd3ba277v.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 234282,
+      "expiresAt": 1775636384789,
+      "url": "https://cdn.miranight.me/api/u/ugd3ba277v.png",
+      "createdAt": 1775632784789
     }
   },
   "stats": {
-    "uploads": 727,
+    "uploads": 728,
     "deleted": 599,
-    "totalBytes": 174696545
+    "totalBytes": 174930827
   }
 }
