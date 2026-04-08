@@ -1814,11 +1814,22 @@
       "expiresAt": 1775655770062,
       "url": "https://cdn.miranight.me/api/u/obse0rtsox.png",
       "createdAt": 1775652170062
+    },
+    "4j362qartb": {
+      "id": "4j362qartb",
+      "originalName": "file.png",
+      "storedName": "4j362qartb.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 32661,
+      "expiresAt": 1775655789463,
+      "url": "https://cdn.miranight.me/api/u/4j362qartb.png",
+      "createdAt": 1775652189463
     }
   },
   "stats": {
-    "uploads": 764,
+    "uploads": 765,
     "deleted": 599,
-    "totalBytes": 183262794
+    "totalBytes": 183295455
   }
 }
