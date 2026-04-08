@@ -1913,11 +1913,22 @@
       "expiresAt": 1775657152764,
       "url": "https://cdn.miranight.me/api/u/4hbusz90er.png",
       "createdAt": 1775653552764
+    },
+    "4ghaabifz4": {
+      "id": "4ghaabifz4",
+      "originalName": "file.png",
+      "storedName": "4ghaabifz4.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 158068,
+      "expiresAt": 1775657213300,
+      "url": "https://cdn.miranight.me/api/u/4ghaabifz4.png",
+      "createdAt": 1775653613300
     }
   },
   "stats": {
-    "uploads": 773,
+    "uploads": 774,
     "deleted": 599,
-    "totalBytes": 184858276
+    "totalBytes": 185016344
   }
 }
