@@ -912,11 +912,22 @@
       "expiresAt": 1775628607534,
       "url": "https://cdn.miranight.me/api/u/c7wc6h6x61.png",
       "createdAt": 1775625007534
+    },
+    "k9pycznv3w": {
+      "id": "k9pycznv3w",
+      "originalName": "file.png",
+      "storedName": "k9pycznv3w.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 343063,
+      "expiresAt": 1775628807101,
+      "url": "https://cdn.miranight.me/api/u/k9pycznv3w.png",
+      "createdAt": 1775625207101
     }
   },
   "stats": {
-    "uploads": 682,
+    "uploads": 683,
     "deleted": 599,
-    "totalBytes": 163201437
+    "totalBytes": 163544500
   }
 }
