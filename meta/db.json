@@ -670,11 +670,22 @@
       "expiresAt": 1775621472865,
       "url": "https://cdn.miranight.me/api/u/uanx1jwfvi.png",
       "createdAt": 1775617872865
+    },
+    "pvexkarv2m": {
+      "id": "pvexkarv2m",
+      "originalName": "file.png",
+      "storedName": "pvexkarv2m.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 297865,
+      "expiresAt": 1775622378048,
+      "url": "https://cdn.miranight.me/api/u/pvexkarv2m.png",
+      "createdAt": 1775618778048
     }
   },
   "stats": {
-    "uploads": 660,
+    "uploads": 661,
     "deleted": 599,
-    "totalBytes": 157679207
+    "totalBytes": 157977072
   }
 }
