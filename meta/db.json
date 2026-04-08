@@ -736,11 +736,22 @@
       "expiresAt": 1775623859292,
       "url": "https://cdn.miranight.me/api/u/avy097064l.png",
       "createdAt": 1775620259292
+    },
+    "l75hgzxr3q": {
+      "id": "l75hgzxr3q",
+      "originalName": "file.png",
+      "storedName": "l75hgzxr3q.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 269208,
+      "expiresAt": 1775624021301,
+      "url": "https://cdn.miranight.me/api/u/l75hgzxr3q.png",
+      "createdAt": 1775620421301
     }
   },
   "stats": {
-    "uploads": 666,
+    "uploads": 667,
     "deleted": 599,
-    "totalBytes": 159197396
+    "totalBytes": 159466604
   }
 }
