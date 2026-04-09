@@ -505,11 +505,22 @@
       "expiresAt": 1775735406858,
       "url": "https://cdn.miranight.me/api/u/4ry7bqb8c1.png",
       "createdAt": 1775731806858
+    },
+    "3flm320v3d": {
+      "id": "3flm320v3d",
+      "originalName": "file.png",
+      "storedName": "3flm320v3d.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 107673,
+      "expiresAt": 1775735409983,
+      "url": "https://cdn.miranight.me/api/u/3flm320v3d.png",
+      "createdAt": 1775731809983
     }
   },
   "stats": {
-    "uploads": 791,
+    "uploads": 792,
     "deleted": 745,
-    "totalBytes": 188527199
+    "totalBytes": 188634872
   }
 }
