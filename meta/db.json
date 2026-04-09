@@ -1671,11 +1671,22 @@
       "expiresAt": 1775752359414,
       "url": "https://cdn.miranight.me/api/u/mtt41zrpwr.png",
       "createdAt": 1775748759414
+    },
+    "xfn0vlcfs7": {
+      "id": "xfn0vlcfs7",
+      "originalName": "file.png",
+      "storedName": "xfn0vlcfs7.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 341370,
+      "expiresAt": 1775752424412,
+      "url": "https://cdn.miranight.me/api/u/xfn0vlcfs7.png",
+      "createdAt": 1775748824412
     }
   },
   "stats": {
-    "uploads": 897,
+    "uploads": 898,
     "deleted": 745,
-    "totalBytes": 216371776
+    "totalBytes": 216713146
   }
 }
