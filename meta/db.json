@@ -2375,11 +2375,22 @@
       "expiresAt": 1775776423354,
       "url": "https://cdn.miranight.me/api/u/72vu3qlq26.png",
       "createdAt": 1775772823354
+    },
+    "tlzdjosf9k": {
+      "id": "tlzdjosf9k",
+      "originalName": "file.png",
+      "storedName": "tlzdjosf9k.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 254149,
+      "expiresAt": 1775776568885,
+      "url": "https://cdn.miranight.me/api/u/tlzdjosf9k.png",
+      "createdAt": 1775772968885
     }
   },
   "stats": {
-    "uploads": 961,
+    "uploads": 962,
     "deleted": 745,
-    "totalBytes": 231496548
+    "totalBytes": 231750697
   }
 }
