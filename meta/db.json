@@ -2276,11 +2276,22 @@
       "expiresAt": 1775770416375,
       "url": "https://cdn.miranight.me/api/u/wukypeaky5.webp",
       "createdAt": 1775766816375
+    },
+    "ajdn6qj5d7": {
+      "id": "ajdn6qj5d7",
+      "originalName": "file.png",
+      "storedName": "ajdn6qj5d7.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 307675,
+      "expiresAt": 1775770981766,
+      "url": "https://cdn.miranight.me/api/u/ajdn6qj5d7.png",
+      "createdAt": 1775767381766
     }
   },
   "stats": {
-    "uploads": 952,
+    "uploads": 953,
     "deleted": 745,
-    "totalBytes": 229589935
+    "totalBytes": 229897610
   }
 }
