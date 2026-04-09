@@ -2672,11 +2672,22 @@
       "expiresAt": 1775777740545,
       "url": "https://cdn.miranight.me/api/u/f2ni4glzin.png",
       "createdAt": 1775774140545
+    },
+    "f5jsoas2lh": {
+      "id": "f5jsoas2lh",
+      "originalName": "file.png",
+      "storedName": "f5jsoas2lh.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 259626,
+      "expiresAt": 1775777756138,
+      "url": "https://cdn.miranight.me/api/u/f5jsoas2lh.png",
+      "createdAt": 1775774156138
     }
   },
   "stats": {
-    "uploads": 988,
+    "uploads": 989,
     "deleted": 745,
-    "totalBytes": 238345581
+    "totalBytes": 238605207
   }
 }
