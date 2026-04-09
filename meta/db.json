@@ -1220,11 +1220,22 @@
       "expiresAt": 1775740235579,
       "url": "https://cdn.miranight.me/api/u/9jy55fxycd.png",
       "createdAt": 1775736635579
+    },
+    "9vd568dtty": {
+      "id": "9vd568dtty",
+      "originalName": "file.png",
+      "storedName": "9vd568dtty.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 386891,
+      "expiresAt": 1775740239059,
+      "url": "https://cdn.miranight.me/api/u/9vd568dtty.png",
+      "createdAt": 1775736639059
     }
   },
   "stats": {
-    "uploads": 856,
+    "uploads": 857,
     "deleted": 745,
-    "totalBytes": 204553748
+    "totalBytes": 204940639
   }
 }
