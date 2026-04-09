@@ -2749,11 +2749,22 @@
       "expiresAt": 1775778313776,
       "url": "https://cdn.miranight.me/api/u/honictxen8.png",
       "createdAt": 1775774713776
+    },
+    "emd2h08aq4": {
+      "id": "emd2h08aq4",
+      "originalName": "file.png",
+      "storedName": "emd2h08aq4.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 287550,
+      "expiresAt": 1775778360294,
+      "url": "https://cdn.miranight.me/api/u/emd2h08aq4.png",
+      "createdAt": 1775774760294
     }
   },
   "stats": {
-    "uploads": 995,
+    "uploads": 996,
     "deleted": 745,
-    "totalBytes": 239923827
+    "totalBytes": 240211377
   }
 }
