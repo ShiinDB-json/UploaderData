@@ -1022,11 +1022,22 @@
       "expiresAt": 1775739546810,
       "url": "https://cdn.miranight.me/api/u/eia33vz5dx.png",
       "createdAt": 1775735946810
+    },
+    "tivli6id3z": {
+      "id": "tivli6id3z",
+      "originalName": "file.png",
+      "storedName": "tivli6id3z.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 350520,
+      "expiresAt": 1775739573807,
+      "url": "https://cdn.miranight.me/api/u/tivli6id3z.png",
+      "createdAt": 1775735973807
     }
   },
   "stats": {
-    "uploads": 838,
+    "uploads": 839,
     "deleted": 745,
-    "totalBytes": 200575805
+    "totalBytes": 200926325
   }
 }
