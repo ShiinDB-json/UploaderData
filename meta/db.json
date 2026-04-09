@@ -1605,11 +1605,22 @@
       "expiresAt": 1775741025248,
       "url": "https://cdn.miranight.me/api/u/5lo07n1izi.png",
       "createdAt": 1775737425248
+    },
+    "pnobiabeq6": {
+      "id": "pnobiabeq6",
+      "originalName": "file.png",
+      "storedName": "pnobiabeq6.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 232145,
+      "expiresAt": 1775751918215,
+      "url": "https://cdn.miranight.me/api/u/pnobiabeq6.png",
+      "createdAt": 1775748318215
     }
   },
   "stats": {
-    "uploads": 891,
+    "uploads": 892,
     "deleted": 745,
-    "totalBytes": 214864207
+    "totalBytes": 215096352
   }
 }
