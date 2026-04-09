@@ -1363,11 +1363,22 @@
       "expiresAt": 1775740263200,
       "url": "https://cdn.miranight.me/api/u/rl5fdop358.png",
       "createdAt": 1775736663200
+    },
+    "llmcq4gw2a": {
+      "id": "llmcq4gw2a",
+      "originalName": "file.png",
+      "storedName": "llmcq4gw2a.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 429232,
+      "expiresAt": 1775740264179,
+      "url": "https://cdn.miranight.me/api/u/llmcq4gw2a.png",
+      "createdAt": 1775736664179
     }
   },
   "stats": {
-    "uploads": 869,
+    "uploads": 870,
     "deleted": 745,
-    "totalBytes": 208572650
+    "totalBytes": 209001882
   }
 }
