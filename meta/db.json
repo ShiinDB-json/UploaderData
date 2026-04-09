@@ -1957,11 +1957,22 @@
       "expiresAt": 1775760838177,
       "url": "https://cdn.miranight.me/api/u/kxgsrb60kn.png",
       "createdAt": 1775757238177
+    },
+    "ajgc38fsmt": {
+      "id": "ajgc38fsmt",
+      "originalName": "file.png",
+      "storedName": "ajgc38fsmt.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 204959,
+      "expiresAt": 1775760839038,
+      "url": "https://cdn.miranight.me/api/u/ajgc38fsmt.png",
+      "createdAt": 1775757239038
     }
   },
   "stats": {
-    "uploads": 923,
+    "uploads": 924,
     "deleted": 745,
-    "totalBytes": 223140568
+    "totalBytes": 223345527
   }
 }
