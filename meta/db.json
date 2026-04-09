@@ -1297,11 +1297,22 @@
       "expiresAt": 1775740253144,
       "url": "https://cdn.miranight.me/api/u/gv3sxwegic.png",
       "createdAt": 1775736653144
+    },
+    "o58rabfege": {
+      "id": "o58rabfege",
+      "originalName": "file.png",
+      "storedName": "o58rabfege.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 445963,
+      "expiresAt": 1775740255283,
+      "url": "https://cdn.miranight.me/api/u/o58rabfege.png",
+      "createdAt": 1775736655283
     }
   },
   "stats": {
-    "uploads": 863,
+    "uploads": 864,
     "deleted": 745,
-    "totalBytes": 207001442
+    "totalBytes": 207447405
   }
 }
