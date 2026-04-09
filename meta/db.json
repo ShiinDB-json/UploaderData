@@ -2232,11 +2232,22 @@
       "expiresAt": 1775768484812,
       "url": "https://cdn.miranight.me/api/u/i43msjejau.png",
       "createdAt": 1775764884812
+    },
+    "3lrmb48soc": {
+      "id": "3lrmb48soc",
+      "originalName": "file.png",
+      "storedName": "3lrmb48soc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 290794,
+      "expiresAt": 1775768837304,
+      "url": "https://cdn.miranight.me/api/u/3lrmb48soc.png",
+      "createdAt": 1775765237304
     }
   },
   "stats": {
-    "uploads": 948,
+    "uploads": 949,
     "deleted": 745,
-    "totalBytes": 228703346
+    "totalBytes": 228994140
   }
 }
