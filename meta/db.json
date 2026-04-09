@@ -2353,11 +2353,22 @@
       "expiresAt": 1775772929327,
       "url": "https://cdn.miranight.me/api/u/pnoaj03ztg.png",
       "createdAt": 1775769329327
+    },
+    "u2smkfiygi": {
+      "id": "u2smkfiygi",
+      "originalName": "file.png",
+      "storedName": "u2smkfiygi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 231228,
+      "expiresAt": 1775776118698,
+      "url": "https://cdn.miranight.me/api/u/u2smkfiygi.png",
+      "createdAt": 1775772518698
     }
   },
   "stats": {
-    "uploads": 959,
+    "uploads": 960,
     "deleted": 745,
-    "totalBytes": 231090798
+    "totalBytes": 231322026
   }
 }
