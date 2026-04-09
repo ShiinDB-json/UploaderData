@@ -1352,11 +1352,22 @@
       "expiresAt": 1775740262388,
       "url": "https://cdn.miranight.me/api/u/3b8dww0at3.png",
       "createdAt": 1775736662388
+    },
+    "rl5fdop358": {
+      "id": "rl5fdop358",
+      "originalName": "file.png",
+      "storedName": "rl5fdop358.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 134354,
+      "expiresAt": 1775740263200,
+      "url": "https://cdn.miranight.me/api/u/rl5fdop358.png",
+      "createdAt": 1775736663200
     }
   },
   "stats": {
-    "uploads": 868,
+    "uploads": 869,
     "deleted": 745,
-    "totalBytes": 208438296
+    "totalBytes": 208572650
   }
 }
