@@ -1759,11 +1759,22 @@
       "expiresAt": 1775755949731,
       "url": "https://cdn.miranight.me/api/u/bwi97gk61i.png",
       "createdAt": 1775752349731
+    },
+    "oghdoydsb6": {
+      "id": "oghdoydsb6",
+      "originalName": "file.png",
+      "storedName": "oghdoydsb6.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 139682,
+      "expiresAt": 1775756051547,
+      "url": "https://cdn.miranight.me/api/u/oghdoydsb6.png",
+      "createdAt": 1775752451547
     }
   },
   "stats": {
-    "uploads": 905,
+    "uploads": 906,
     "deleted": 745,
-    "totalBytes": 218308280
+    "totalBytes": 218447962
   }
 }
