@@ -2804,11 +2804,22 @@
       "expiresAt": 1775779063146,
       "url": "https://cdn.miranight.me/api/u/v154cd1oxl.png",
       "createdAt": 1775775463146
+    },
+    "98fwoojayo": {
+      "id": "98fwoojayo",
+      "originalName": "file.png",
+      "storedName": "98fwoojayo.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 292888,
+      "expiresAt": 1775779350979,
+      "url": "https://cdn.miranight.me/api/u/98fwoojayo.png",
+      "createdAt": 1775775750979
     }
   },
   "stats": {
-    "uploads": 1000,
+    "uploads": 1001,
     "deleted": 745,
-    "totalBytes": 241231299
+    "totalBytes": 241524187
   }
 }
