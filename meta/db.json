@@ -2760,11 +2760,22 @@
       "expiresAt": 1775778360294,
       "url": "https://cdn.miranight.me/api/u/emd2h08aq4.png",
       "createdAt": 1775774760294
+    },
+    "pymovs5lvn": {
+      "id": "pymovs5lvn",
+      "originalName": "file.png",
+      "storedName": "pymovs5lvn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 250699,
+      "expiresAt": 1775778572915,
+      "url": "https://cdn.miranight.me/api/u/pymovs5lvn.png",
+      "createdAt": 1775774972915
     }
   },
   "stats": {
-    "uploads": 996,
+    "uploads": 997,
     "deleted": 745,
-    "totalBytes": 240211377
+    "totalBytes": 240462076
   }
 }
