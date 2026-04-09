@@ -2485,11 +2485,22 @@
       "expiresAt": 1775777461815,
       "url": "https://cdn.miranight.me/api/u/ucq0pw47iz.png",
       "createdAt": 1775773861815
+    },
+    "76neyayknf": {
+      "id": "76neyayknf",
+      "originalName": "file.png",
+      "storedName": "76neyayknf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 205272,
+      "expiresAt": 1775777464863,
+      "url": "https://cdn.miranight.me/api/u/76neyayknf.png",
+      "createdAt": 1775773864863
     }
   },
   "stats": {
-    "uploads": 971,
+    "uploads": 972,
     "deleted": 745,
-    "totalBytes": 234019239
+    "totalBytes": 234224511
   }
 }
