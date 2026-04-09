@@ -2463,11 +2463,22 @@
       "expiresAt": 1775777452849,
       "url": "https://cdn.miranight.me/api/u/ttx06v5sqc.png",
       "createdAt": 1775773852849
+    },
+    "lwp86hb4on": {
+      "id": "lwp86hb4on",
+      "originalName": "file.png",
+      "storedName": "lwp86hb4on.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 230069,
+      "expiresAt": 1775777458725,
+      "url": "https://cdn.miranight.me/api/u/lwp86hb4on.png",
+      "createdAt": 1775773858725
     }
   },
   "stats": {
-    "uploads": 969,
+    "uploads": 970,
     "deleted": 745,
-    "totalBytes": 233556302
+    "totalBytes": 233786371
   }
 }
