@@ -2881,11 +2881,22 @@
       "expiresAt": 1775780408576,
       "url": "https://cdn.miranight.me/api/u/ws314nghb9.png",
       "createdAt": 1775776808576
+    },
+    "xlu250njoi": {
+      "id": "xlu250njoi",
+      "originalName": "file.png",
+      "storedName": "xlu250njoi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 271857,
+      "expiresAt": 1775781221759,
+      "url": "https://cdn.miranight.me/api/u/xlu250njoi.png",
+      "createdAt": 1775777621759
     }
   },
   "stats": {
-    "uploads": 1007,
+    "uploads": 1008,
     "deleted": 745,
-    "totalBytes": 243143849
+    "totalBytes": 243415706
   }
 }
