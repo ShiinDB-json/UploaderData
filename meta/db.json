@@ -1539,11 +1539,22 @@
       "expiresAt": 1775740470702,
       "url": "https://cdn.miranight.me/api/u/lfsgtooeal.png",
       "createdAt": 1775736870702
+    },
+    "h41yb5pdou": {
+      "id": "h41yb5pdou",
+      "originalName": "file.png",
+      "storedName": "h41yb5pdou.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 210943,
+      "expiresAt": 1775740620727,
+      "url": "https://cdn.miranight.me/api/u/h41yb5pdou.png",
+      "createdAt": 1775737020727
     }
   },
   "stats": {
-    "uploads": 885,
+    "uploads": 886,
     "deleted": 745,
-    "totalBytes": 213322733
+    "totalBytes": 213533676
   }
 }
