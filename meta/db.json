@@ -2012,11 +2012,22 @@
       "expiresAt": 1775761670529,
       "url": "https://cdn.miranight.me/api/u/92x1uvfs8t.png",
       "createdAt": 1775758070529
+    },
+    "2hj3j3syom": {
+      "id": "2hj3j3syom",
+      "originalName": "file.png",
+      "storedName": "2hj3j3syom.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 159749,
+      "expiresAt": 1775762099757,
+      "url": "https://cdn.miranight.me/api/u/2hj3j3syom.png",
+      "createdAt": 1775758499757
     }
   },
   "stats": {
-    "uploads": 928,
+    "uploads": 929,
     "deleted": 745,
-    "totalBytes": 224219941
+    "totalBytes": 224379690
   }
 }
