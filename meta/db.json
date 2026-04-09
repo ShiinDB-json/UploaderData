@@ -1066,11 +1066,22 @@
       "expiresAt": 1775739655609,
       "url": "https://cdn.miranight.me/api/u/nyzntzz71k.png",
       "createdAt": 1775736055609
+    },
+    "35nyg49sot": {
+      "id": "35nyg49sot",
+      "originalName": "file.png",
+      "storedName": "35nyg49sot.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 312061,
+      "expiresAt": 1775739669424,
+      "url": "https://cdn.miranight.me/api/u/35nyg49sot.png",
+      "createdAt": 1775736069424
     }
   },
   "stats": {
-    "uploads": 842,
+    "uploads": 843,
     "deleted": 745,
-    "totalBytes": 201347698
+    "totalBytes": 201659759
   }
 }
