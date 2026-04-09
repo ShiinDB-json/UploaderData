@@ -2342,11 +2342,22 @@
       "expiresAt": 1775772132007,
       "url": "https://cdn.miranight.me/api/u/6uebglo3cr.png",
       "createdAt": 1775768532007
+    },
+    "pnoaj03ztg": {
+      "id": "pnoaj03ztg",
+      "originalName": "file.png",
+      "storedName": "pnoaj03ztg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 133341,
+      "expiresAt": 1775772929327,
+      "url": "https://cdn.miranight.me/api/u/pnoaj03ztg.png",
+      "createdAt": 1775769329327
     }
   },
   "stats": {
-    "uploads": 958,
+    "uploads": 959,
     "deleted": 745,
-    "totalBytes": 230957457
+    "totalBytes": 231090798
   }
 }
