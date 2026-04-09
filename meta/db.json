@@ -2144,11 +2144,22 @@
       "expiresAt": 1775766854050,
       "url": "https://cdn.miranight.me/api/u/9plnogjbk3.png",
       "createdAt": 1775763254050
+    },
+    "ukbeii8ctn": {
+      "id": "ukbeii8ctn",
+      "originalName": "file.png",
+      "storedName": "ukbeii8ctn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 191400,
+      "expiresAt": 1775766937010,
+      "url": "https://cdn.miranight.me/api/u/ukbeii8ctn.png",
+      "createdAt": 1775763337010
     }
   },
   "stats": {
-    "uploads": 940,
+    "uploads": 941,
     "deleted": 745,
-    "totalBytes": 226550018
+    "totalBytes": 226741418
   }
 }
