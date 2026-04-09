@@ -1110,11 +1110,22 @@
       "expiresAt": 1775739851689,
       "url": "https://cdn.miranight.me/api/u/foccskow79.png",
       "createdAt": 1775736251689
+    },
+    "inhbguwe13": {
+      "id": "inhbguwe13",
+      "originalName": "file.png",
+      "storedName": "inhbguwe13.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 140894,
+      "expiresAt": 1775739892760,
+      "url": "https://cdn.miranight.me/api/u/inhbguwe13.png",
+      "createdAt": 1775736292760
     }
   },
   "stats": {
-    "uploads": 846,
+    "uploads": 847,
     "deleted": 745,
-    "totalBytes": 202120018
+    "totalBytes": 202260912
   }
 }
