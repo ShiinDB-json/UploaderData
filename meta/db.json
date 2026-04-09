@@ -2507,11 +2507,22 @@
       "expiresAt": 1775777586523,
       "url": "https://cdn.miranight.me/api/u/gk5vxniaam.png",
       "createdAt": 1775773986523
+    },
+    "jgm24fg9ej": {
+      "id": "jgm24fg9ej",
+      "originalName": "file.png",
+      "storedName": "jgm24fg9ej.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 327573,
+      "expiresAt": 1775777597640,
+      "url": "https://cdn.miranight.me/api/u/jgm24fg9ej.png",
+      "createdAt": 1775773997641
     }
   },
   "stats": {
-    "uploads": 973,
+    "uploads": 974,
     "deleted": 745,
-    "totalBytes": 234476111
+    "totalBytes": 234803684
   }
 }
