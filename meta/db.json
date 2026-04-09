@@ -2034,11 +2034,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/5wpdtnr0hk.jpg",
       "createdAt": 1775759076343
+    },
+    "mvmfogt12x": {
+      "id": "mvmfogt12x",
+      "originalName": "file.png",
+      "storedName": "mvmfogt12x.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 292550,
+      "expiresAt": 1775763280771,
+      "url": "https://cdn.miranight.me/api/u/mvmfogt12x.png",
+      "createdAt": 1775759680771
     }
   },
   "stats": {
-    "uploads": 930,
+    "uploads": 931,
     "deleted": 745,
-    "totalBytes": 224397868
+    "totalBytes": 224690418
   }
 }
