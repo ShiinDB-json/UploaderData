@@ -2892,11 +2892,22 @@
       "expiresAt": 1775781221759,
       "url": "https://cdn.miranight.me/api/u/xlu250njoi.png",
       "createdAt": 1775777621759
+    },
+    "lt1aexvti4": {
+      "id": "lt1aexvti4",
+      "originalName": "file.png",
+      "storedName": "lt1aexvti4.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 244621,
+      "expiresAt": 1775781228289,
+      "url": "https://cdn.miranight.me/api/u/lt1aexvti4.png",
+      "createdAt": 1775777628289
     }
   },
   "stats": {
-    "uploads": 1008,
+    "uploads": 1009,
     "deleted": 745,
-    "totalBytes": 243415706
+    "totalBytes": 243660327
   }
 }
