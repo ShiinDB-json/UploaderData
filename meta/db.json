@@ -2650,11 +2650,22 @@
       "expiresAt": 1775777699889,
       "url": "https://cdn.miranight.me/api/u/ff0o3he7iv.png",
       "createdAt": 1775774099889
+    },
+    "yxka001bwi": {
+      "id": "yxka001bwi",
+      "originalName": "file.png",
+      "storedName": "yxka001bwi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 260705,
+      "expiresAt": 1775777737847,
+      "url": "https://cdn.miranight.me/api/u/yxka001bwi.png",
+      "createdAt": 1775774137847
     }
   },
   "stats": {
-    "uploads": 986,
+    "uploads": 987,
     "deleted": 745,
-    "totalBytes": 237780399
+    "totalBytes": 238041104
   }
 }
