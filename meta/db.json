@@ -2496,11 +2496,22 @@
       "expiresAt": 1775777464863,
       "url": "https://cdn.miranight.me/api/u/76neyayknf.png",
       "createdAt": 1775773864863
+    },
+    "gk5vxniaam": {
+      "id": "gk5vxniaam",
+      "originalName": "file.png",
+      "storedName": "gk5vxniaam.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 251600,
+      "expiresAt": 1775777586523,
+      "url": "https://cdn.miranight.me/api/u/gk5vxniaam.png",
+      "createdAt": 1775773986523
     }
   },
   "stats": {
-    "uploads": 972,
+    "uploads": 973,
     "deleted": 745,
-    "totalBytes": 234224511
+    "totalBytes": 234476111
   }
 }
