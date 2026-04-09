@@ -2023,11 +2023,22 @@
       "expiresAt": 1775762099757,
       "url": "https://cdn.miranight.me/api/u/2hj3j3syom.png",
       "createdAt": 1775758499757
+    },
+    "5wpdtnr0hk": {
+      "id": "5wpdtnr0hk",
+      "originalName": "file.jpg",
+      "storedName": "5wpdtnr0hk.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 18178,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/5wpdtnr0hk.jpg",
+      "createdAt": 1775759076343
     }
   },
   "stats": {
-    "uploads": 929,
+    "uploads": 930,
     "deleted": 745,
-    "totalBytes": 224379690
+    "totalBytes": 224397868
   }
 }
