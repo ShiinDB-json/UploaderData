@@ -1286,11 +1286,22 @@
       "expiresAt": 1775740250702,
       "url": "https://cdn.miranight.me/api/u/v9vsadvyx0.png",
       "createdAt": 1775736650702
+    },
+    "gv3sxwegic": {
+      "id": "gv3sxwegic",
+      "originalName": "file.png",
+      "storedName": "gv3sxwegic.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 511267,
+      "expiresAt": 1775740253144,
+      "url": "https://cdn.miranight.me/api/u/gv3sxwegic.png",
+      "createdAt": 1775736653144
     }
   },
   "stats": {
-    "uploads": 862,
+    "uploads": 863,
     "deleted": 745,
-    "totalBytes": 206490175
+    "totalBytes": 207001442
   }
 }
