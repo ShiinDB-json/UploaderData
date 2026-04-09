@@ -549,11 +549,22 @@
       "expiresAt": 1775737952473,
       "url": "https://cdn.miranight.me/api/u/z27o9pz6qz.png",
       "createdAt": 1775734352473
+    },
+    "w8zobyemov": {
+      "id": "w8zobyemov",
+      "originalName": "file.png",
+      "storedName": "w8zobyemov.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 477960,
+      "expiresAt": 1775737962828,
+      "url": "https://cdn.miranight.me/api/u/w8zobyemov.png",
+      "createdAt": 1775734362828
     }
   },
   "stats": {
-    "uploads": 795,
+    "uploads": 796,
     "deleted": 745,
-    "totalBytes": 189523702
+    "totalBytes": 190001662
   }
 }
