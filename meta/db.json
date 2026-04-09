@@ -1231,11 +1231,22 @@
       "expiresAt": 1775740239059,
       "url": "https://cdn.miranight.me/api/u/9vd568dtty.png",
       "createdAt": 1775736639059
+    },
+    "lsllcvrypd": {
+      "id": "lsllcvrypd",
+      "originalName": "file.png",
+      "storedName": "lsllcvrypd.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 287746,
+      "expiresAt": 1775740240024,
+      "url": "https://cdn.miranight.me/api/u/lsllcvrypd.png",
+      "createdAt": 1775736640024
     }
   },
   "stats": {
-    "uploads": 857,
+    "uploads": 858,
     "deleted": 745,
-    "totalBytes": 204940639
+    "totalBytes": 205228385
   }
 }
