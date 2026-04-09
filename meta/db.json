@@ -1968,11 +1968,22 @@
       "expiresAt": 1775760839038,
       "url": "https://cdn.miranight.me/api/u/ajgc38fsmt.png",
       "createdAt": 1775757239038
+    },
+    "ncpf0izksf": {
+      "id": "ncpf0izksf",
+      "originalName": "file.png",
+      "storedName": "ncpf0izksf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 159749,
+      "expiresAt": 1775761078593,
+      "url": "https://cdn.miranight.me/api/u/ncpf0izksf.png",
+      "createdAt": 1775757478593
     }
   },
   "stats": {
-    "uploads": 924,
+    "uploads": 925,
     "deleted": 745,
-    "totalBytes": 223345527
+    "totalBytes": 223505276
   }
 }
