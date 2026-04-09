@@ -2265,11 +2265,22 @@
       "expiresAt": 1775769740441,
       "url": "https://cdn.miranight.me/api/u/9hx21d4bwu.png",
       "createdAt": 1775766140441
+    },
+    "wukypeaky5": {
+      "id": "wukypeaky5",
+      "originalName": "file.webp",
+      "storedName": "wukypeaky5.webp",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 23274,
+      "expiresAt": 1775770416375,
+      "url": "https://cdn.miranight.me/api/u/wukypeaky5.webp",
+      "createdAt": 1775766816375
     }
   },
   "stats": {
-    "uploads": 951,
+    "uploads": 952,
     "deleted": 745,
-    "totalBytes": 229566661
+    "totalBytes": 229589935
   }
 }
