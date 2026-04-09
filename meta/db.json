@@ -1715,11 +1715,22 @@
       "expiresAt": 1775752897975,
       "url": "https://cdn.miranight.me/api/u/ywigitgzdu.png",
       "createdAt": 1775749297975
+    },
+    "mxfd1svos0": {
+      "id": "mxfd1svos0",
+      "originalName": "file.png",
+      "storedName": "mxfd1svos0.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 82410,
+      "expiresAt": 1775753147112,
+      "url": "https://cdn.miranight.me/api/u/mxfd1svos0.png",
+      "createdAt": 1775749547112
     }
   },
   "stats": {
-    "uploads": 901,
+    "uploads": 902,
     "deleted": 745,
-    "totalBytes": 217435170
+    "totalBytes": 217517580
   }
 }
