@@ -758,11 +758,22 @@
       "expiresAt": 1775738613258,
       "url": "https://cdn.miranight.me/api/u/lxzbao3pyd.png",
       "createdAt": 1775735013258
+    },
+    "bousz4bllj": {
+      "id": "bousz4bllj",
+      "originalName": "file.png",
+      "storedName": "bousz4bllj.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 440846,
+      "expiresAt": 1775738730682,
+      "url": "https://cdn.miranight.me/api/u/bousz4bllj.png",
+      "createdAt": 1775735130682
     }
   },
   "stats": {
-    "uploads": 814,
+    "uploads": 815,
     "deleted": 745,
-    "totalBytes": 194879563
+    "totalBytes": 195320409
   }
 }
