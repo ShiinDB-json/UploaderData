@@ -1099,11 +1099,22 @@
       "expiresAt": 1775739757817,
       "url": "https://cdn.miranight.me/api/u/92tj2z7tyh.png",
       "createdAt": 1775736157817
+    },
+    "foccskow79": {
+      "id": "foccskow79",
+      "originalName": "file.png",
+      "storedName": "foccskow79.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 140894,
+      "expiresAt": 1775739851689,
+      "url": "https://cdn.miranight.me/api/u/foccskow79.png",
+      "createdAt": 1775736251689
     }
   },
   "stats": {
-    "uploads": 845,
+    "uploads": 846,
     "deleted": 745,
-    "totalBytes": 201979124
+    "totalBytes": 202120018
   }
 }
