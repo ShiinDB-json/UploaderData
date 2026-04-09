@@ -802,11 +802,22 @@
       "expiresAt": 1775738909933,
       "url": "https://cdn.miranight.me/api/u/7dbmailu7o.png",
       "createdAt": 1775735309933
+    },
+    "vg96wbgp2i": {
+      "id": "vg96wbgp2i",
+      "originalName": "file.png",
+      "storedName": "vg96wbgp2i.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 143731,
+      "expiresAt": 1775739054994,
+      "url": "https://cdn.miranight.me/api/u/vg96wbgp2i.png",
+      "createdAt": 1775735454994
     }
   },
   "stats": {
-    "uploads": 818,
+    "uploads": 819,
     "deleted": 745,
-    "totalBytes": 195909007
+    "totalBytes": 196052738
   }
 }
