@@ -1616,11 +1616,22 @@
       "expiresAt": 1775751918215,
       "url": "https://cdn.miranight.me/api/u/pnobiabeq6.png",
       "createdAt": 1775748318215
+    },
+    "sz4fcti9v7": {
+      "id": "sz4fcti9v7",
+      "originalName": "file.png",
+      "storedName": "sz4fcti9v7.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 290794,
+      "expiresAt": 1775752018176,
+      "url": "https://cdn.miranight.me/api/u/sz4fcti9v7.png",
+      "createdAt": 1775748418176
     }
   },
   "stats": {
-    "uploads": 892,
+    "uploads": 893,
     "deleted": 745,
-    "totalBytes": 215096352
+    "totalBytes": 215387146
   }
 }
