@@ -1033,11 +1033,22 @@
       "expiresAt": 1775739573807,
       "url": "https://cdn.miranight.me/api/u/tivli6id3z.png",
       "createdAt": 1775735973807
+    },
+    "emstyau9tc": {
+      "id": "emstyau9tc",
+      "originalName": "file.png",
+      "storedName": "emstyau9tc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 38614,
+      "expiresAt": 1775739608664,
+      "url": "https://cdn.miranight.me/api/u/emstyau9tc.png",
+      "createdAt": 1775736008664
     }
   },
   "stats": {
-    "uploads": 839,
+    "uploads": 840,
     "deleted": 745,
-    "totalBytes": 200926325
+    "totalBytes": 200964939
   }
 }
