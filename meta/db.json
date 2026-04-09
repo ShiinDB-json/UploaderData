@@ -1264,11 +1264,22 @@
       "expiresAt": 1775740246416,
       "url": "https://cdn.miranight.me/api/u/8nv52r4dqx.png",
       "createdAt": 1775736646416
+    },
+    "ni5pu5317p": {
+      "id": "ni5pu5317p",
+      "originalName": "file.png",
+      "storedName": "ni5pu5317p.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 240025,
+      "expiresAt": 1775740248313,
+      "url": "https://cdn.miranight.me/api/u/ni5pu5317p.png",
+      "createdAt": 1775736648313
     }
   },
   "stats": {
-    "uploads": 860,
+    "uploads": 861,
     "deleted": 745,
-    "totalBytes": 205818035
+    "totalBytes": 206058060
   }
 }
