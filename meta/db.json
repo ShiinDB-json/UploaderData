@@ -1528,11 +1528,22 @@
       "expiresAt": 1775740467027,
       "url": "https://cdn.miranight.me/api/u/2qw8tiwzka.png",
       "createdAt": 1775736867027
+    },
+    "lfsgtooeal": {
+      "id": "lfsgtooeal",
+      "originalName": "file.png",
+      "storedName": "lfsgtooeal.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 270753,
+      "expiresAt": 1775740470702,
+      "url": "https://cdn.miranight.me/api/u/lfsgtooeal.png",
+      "createdAt": 1775736870702
     }
   },
   "stats": {
-    "uploads": 884,
+    "uploads": 885,
     "deleted": 745,
-    "totalBytes": 213051980
+    "totalBytes": 213322733
   }
 }
