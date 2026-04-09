@@ -1704,11 +1704,22 @@
       "expiresAt": 1775752848848,
       "url": "https://cdn.miranight.me/api/u/dutqqtddc6.png",
       "createdAt": 1775749248848
+    },
+    "ywigitgzdu": {
+      "id": "ywigitgzdu",
+      "originalName": "file.png",
+      "storedName": "ywigitgzdu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 311570,
+      "expiresAt": 1775752897975,
+      "url": "https://cdn.miranight.me/api/u/ywigitgzdu.png",
+      "createdAt": 1775749297975
     }
   },
   "stats": {
-    "uploads": 900,
+    "uploads": 901,
     "deleted": 745,
-    "totalBytes": 217123600
+    "totalBytes": 217435170
   }
 }
