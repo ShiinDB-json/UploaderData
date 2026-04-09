@@ -1913,11 +1913,22 @@
       "expiresAt": 1775759339663,
       "url": "https://cdn.miranight.me/api/u/lj7rekqcun.png",
       "createdAt": 1775755739663
+    },
+    "jyhffreta1": {
+      "id": "jyhffreta1",
+      "originalName": "file.png",
+      "storedName": "jyhffreta1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 290794,
+      "expiresAt": 1775759510609,
+      "url": "https://cdn.miranight.me/api/u/jyhffreta1.png",
+      "createdAt": 1775755910609
     }
   },
   "stats": {
-    "uploads": 919,
+    "uploads": 920,
     "deleted": 745,
-    "totalBytes": 222171664
+    "totalBytes": 222462458
   }
 }
