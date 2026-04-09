@@ -1473,11 +1473,22 @@
       "expiresAt": 1775740369959,
       "url": "https://cdn.miranight.me/api/u/fb83byvjsl.png",
       "createdAt": 1775736769959
+    },
+    "kmmivsoea2": {
+      "id": "kmmivsoea2",
+      "originalName": "file.png",
+      "storedName": "kmmivsoea2.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 440846,
+      "expiresAt": 1775740394904,
+      "url": "https://cdn.miranight.me/api/u/kmmivsoea2.png",
+      "createdAt": 1775736794904
     }
   },
   "stats": {
-    "uploads": 879,
+    "uploads": 880,
     "deleted": 745,
-    "totalBytes": 211482269
+    "totalBytes": 211923115
   }
 }
