@@ -1946,11 +1946,22 @@
       "expiresAt": 1775759790827,
       "url": "https://cdn.miranight.me/api/u/kgl6kp2t9p.png",
       "createdAt": 1775756190827
+    },
+    "kxgsrb60kn": {
+      "id": "kxgsrb60kn",
+      "originalName": "file.png",
+      "storedName": "kxgsrb60kn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 230996,
+      "expiresAt": 1775760838177,
+      "url": "https://cdn.miranight.me/api/u/kxgsrb60kn.png",
+      "createdAt": 1775757238177
     }
   },
   "stats": {
-    "uploads": 922,
+    "uploads": 923,
     "deleted": 745,
-    "totalBytes": 222909572
+    "totalBytes": 223140568
   }
 }
