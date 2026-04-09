@@ -2243,11 +2243,22 @@
       "expiresAt": 1775768837304,
       "url": "https://cdn.miranight.me/api/u/3lrmb48soc.png",
       "createdAt": 1775765237304
+    },
+    "iz39beogls": {
+      "id": "iz39beogls",
+      "originalName": "file.png",
+      "storedName": "iz39beogls.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 292550,
+      "expiresAt": 1775769678628,
+      "url": "https://cdn.miranight.me/api/u/iz39beogls.png",
+      "createdAt": 1775766078628
     }
   },
   "stats": {
-    "uploads": 949,
+    "uploads": 950,
     "deleted": 745,
-    "totalBytes": 228994140
+    "totalBytes": 229286690
   }
 }
