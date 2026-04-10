@@ -1396,11 +1396,22 @@
       "expiresAt": 1775805033214,
       "url": "https://cdn.miranight.me/api/u/pia8ulmiv0.png",
       "createdAt": 1775801433214
+    },
+    "ijil71tiv0": {
+      "id": "ijil71tiv0",
+      "originalName": "file.png",
+      "storedName": "ijil71tiv0.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 326039,
+      "expiresAt": 1775805102833,
+      "url": "https://cdn.miranight.me/api/u/ijil71tiv0.png",
+      "createdAt": 1775801502833
     }
   },
   "stats": {
-    "uploads": 1094,
+    "uploads": 1095,
     "deleted": 967,
-    "totalBytes": 262997190
+    "totalBytes": 263323229
   }
 }
