@@ -2133,11 +2133,22 @@
       "expiresAt": 1775849022586,
       "url": "https://cdn.miranight.me/api/u/kpuylfo320.png",
       "createdAt": 1775845422586
+    },
+    "kqh8qjoarf": {
+      "id": "kqh8qjoarf",
+      "originalName": "file.png",
+      "storedName": "kqh8qjoarf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 94692,
+      "expiresAt": 1775849061075,
+      "url": "https://cdn.miranight.me/api/u/kqh8qjoarf.png",
+      "createdAt": 1775845461075
     }
   },
   "stats": {
-    "uploads": 1161,
+    "uploads": 1162,
     "deleted": 967,
-    "totalBytes": 278291623
+    "totalBytes": 278386315
   }
 }
