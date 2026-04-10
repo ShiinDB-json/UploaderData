@@ -2122,11 +2122,22 @@
       "expiresAt": 1775848706067,
       "url": "https://cdn.miranight.me/api/u/uccbluukwd.png",
       "createdAt": 1775845106067
+    },
+    "kpuylfo320": {
+      "id": "kpuylfo320",
+      "originalName": "file.png",
+      "storedName": "kpuylfo320.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 262891,
+      "expiresAt": 1775849022586,
+      "url": "https://cdn.miranight.me/api/u/kpuylfo320.png",
+      "createdAt": 1775845422586
     }
   },
   "stats": {
-    "uploads": 1160,
+    "uploads": 1161,
     "deleted": 967,
-    "totalBytes": 278028732
+    "totalBytes": 278291623
   }
 }
