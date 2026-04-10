@@ -1297,11 +1297,22 @@
       "expiresAt": 1775804254593,
       "url": "https://cdn.miranight.me/api/u/f4ut2m25in.png",
       "createdAt": 1775800654593
+    },
+    "53olqipbuk": {
+      "id": "53olqipbuk",
+      "originalName": "file.png",
+      "storedName": "53olqipbuk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 183265,
+      "expiresAt": 1775804297754,
+      "url": "https://cdn.miranight.me/api/u/53olqipbuk.png",
+      "createdAt": 1775800697754
     }
   },
   "stats": {
-    "uploads": 1085,
+    "uploads": 1086,
     "deleted": 967,
-    "totalBytes": 260485925
+    "totalBytes": 260669190
   }
 }
