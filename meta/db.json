@@ -1704,11 +1704,22 @@
       "expiresAt": 1775806268710,
       "url": "https://cdn.miranight.me/api/u/qxwjmkgufr.png",
       "createdAt": 1775802668710
+    },
+    "graucza1of": {
+      "id": "graucza1of",
+      "originalName": "file.png",
+      "storedName": "graucza1of.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 242805,
+      "expiresAt": 1775806292547,
+      "url": "https://cdn.miranight.me/api/u/graucza1of.png",
+      "createdAt": 1775802692547
     }
   },
   "stats": {
-    "uploads": 1122,
+    "uploads": 1123,
     "deleted": 967,
-    "totalBytes": 269781662
+    "totalBytes": 270024467
   }
 }
