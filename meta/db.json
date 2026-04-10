@@ -989,11 +989,22 @@
       "expiresAt": 1775800512679,
       "url": "https://cdn.miranight.me/api/u/areqstq18e.png",
       "createdAt": 1775796912679
+    },
+    "ii8pczanhl": {
+      "id": "ii8pczanhl",
+      "originalName": "file.png",
+      "storedName": "ii8pczanhl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 316719,
+      "expiresAt": 1775800515861,
+      "url": "https://cdn.miranight.me/api/u/ii8pczanhl.png",
+      "createdAt": 1775796915861
     }
   },
   "stats": {
-    "uploads": 1057,
+    "uploads": 1058,
     "deleted": 967,
-    "totalBytes": 255004290
+    "totalBytes": 255321009
   }
 }
