@@ -1913,11 +1913,22 @@
       "expiresAt": 1775809270340,
       "url": "https://cdn.miranight.me/api/u/n8t6pl7drz.png",
       "createdAt": 1775805670340
+    },
+    "wqltwgghol": {
+      "id": "wqltwgghol",
+      "originalName": "file.png",
+      "storedName": "wqltwgghol.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 160850,
+      "expiresAt": 1775809575469,
+      "url": "https://cdn.miranight.me/api/u/wqltwgghol.png",
+      "createdAt": 1775805975469
     }
   },
   "stats": {
-    "uploads": 1141,
+    "uploads": 1142,
     "deleted": 967,
-    "totalBytes": 274233324
+    "totalBytes": 274394174
   }
 }
