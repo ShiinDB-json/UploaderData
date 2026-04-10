@@ -846,11 +846,22 @@
       "expiresAt": 1775793856374,
       "url": "https://cdn.miranight.me/api/u/hagreszd3e.png",
       "createdAt": 1775790256374
+    },
+    "uhbwggvg0k": {
+      "id": "uhbwggvg0k",
+      "originalName": "file.png",
+      "storedName": "uhbwggvg0k.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 138603,
+      "expiresAt": 1775794332714,
+      "url": "https://cdn.miranight.me/api/u/uhbwggvg0k.png",
+      "createdAt": 1775790732714
     }
   },
   "stats": {
-    "uploads": 1044,
+    "uploads": 1045,
     "deleted": 967,
-    "totalBytes": 252646378
+    "totalBytes": 252784981
   }
 }
