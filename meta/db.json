@@ -1308,11 +1308,22 @@
       "expiresAt": 1775804297754,
       "url": "https://cdn.miranight.me/api/u/53olqipbuk.png",
       "createdAt": 1775800697754
+    },
+    "j8fyjzq23t": {
+      "id": "j8fyjzq23t",
+      "originalName": "file.png",
+      "storedName": "j8fyjzq23t.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 206374,
+      "expiresAt": 1775804531965,
+      "url": "https://cdn.miranight.me/api/u/j8fyjzq23t.png",
+      "createdAt": 1775800931965
     }
   },
   "stats": {
-    "uploads": 1086,
+    "uploads": 1087,
     "deleted": 967,
-    "totalBytes": 260669190
+    "totalBytes": 260875564
   }
 }
