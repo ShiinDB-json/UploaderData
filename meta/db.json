@@ -1209,11 +1209,22 @@
       "expiresAt": 1775803354380,
       "url": "https://cdn.miranight.me/api/u/xa814febaj.png",
       "createdAt": 1775799754380
+    },
+    "br50kfw9cd": {
+      "id": "br50kfw9cd",
+      "originalName": "file.png",
+      "storedName": "br50kfw9cd.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 211350,
+      "expiresAt": 1775803358263,
+      "url": "https://cdn.miranight.me/api/u/br50kfw9cd.png",
+      "createdAt": 1775799758263
     }
   },
   "stats": {
-    "uploads": 1077,
+    "uploads": 1078,
     "deleted": 967,
-    "totalBytes": 259411013
+    "totalBytes": 259622363
   }
 }
