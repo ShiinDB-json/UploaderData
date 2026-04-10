@@ -1616,11 +1616,22 @@
       "expiresAt": 1775805783771,
       "url": "https://cdn.miranight.me/api/u/smhwsafpk9.png",
       "createdAt": 1775802183771
+    },
+    "wokq14pi1t": {
+      "id": "wokq14pi1t",
+      "originalName": "file.png",
+      "storedName": "wokq14pi1t.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 345458,
+      "expiresAt": 1775805852954,
+      "url": "https://cdn.miranight.me/api/u/wokq14pi1t.png",
+      "createdAt": 1775802252954
     }
   },
   "stats": {
-    "uploads": 1114,
+    "uploads": 1115,
     "deleted": 967,
-    "totalBytes": 267584404
+    "totalBytes": 267929862
   }
 }
