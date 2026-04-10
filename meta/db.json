@@ -912,11 +912,22 @@
       "expiresAt": 1775798638150,
       "url": "https://cdn.miranight.me/api/u/zgldntx2qz.png",
       "createdAt": 1775795038150
+    },
+    "wgm347u23o": {
+      "id": "wgm347u23o",
+      "originalName": "file.png",
+      "storedName": "wgm347u23o.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 272792,
+      "expiresAt": 1775799225410,
+      "url": "https://cdn.miranight.me/api/u/wgm347u23o.png",
+      "createdAt": 1775795625411
     }
   },
   "stats": {
-    "uploads": 1050,
+    "uploads": 1051,
     "deleted": 967,
-    "totalBytes": 253842350
+    "totalBytes": 254115142
   }
 }
