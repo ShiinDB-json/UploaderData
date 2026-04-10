@@ -626,11 +626,22 @@
       "expiresAt": 1775783663191,
       "url": "https://cdn.miranight.me/api/u/3j95ckyelz.png",
       "createdAt": 1775780063191
+    },
+    "sl38bowy36": {
+      "id": "sl38bowy36",
+      "originalName": "file.png",
+      "storedName": "sl38bowy36.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 337510,
+      "expiresAt": 1775783780226,
+      "url": "https://cdn.miranight.me/api/u/sl38bowy36.png",
+      "createdAt": 1775780180226
     }
   },
   "stats": {
-    "uploads": 1024,
+    "uploads": 1025,
     "deleted": 967,
-    "totalBytes": 248103045
+    "totalBytes": 248440555
   }
 }
