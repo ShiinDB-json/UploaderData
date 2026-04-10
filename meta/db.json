@@ -2078,11 +2078,22 @@
       "expiresAt": 1775833153305,
       "url": "https://cdn.miranight.me/api/u/5lc6hlvy6f.png",
       "createdAt": 1775829553305
+    },
+    "fnapkthux2": {
+      "id": "fnapkthux2",
+      "originalName": "file.png",
+      "storedName": "fnapkthux2.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 30552,
+      "expiresAt": 1775833157090,
+      "url": "https://cdn.miranight.me/api/u/fnapkthux2.png",
+      "createdAt": 1775829557090
     }
   },
   "stats": {
-    "uploads": 1156,
+    "uploads": 1157,
     "deleted": 967,
-    "totalBytes": 277244937
+    "totalBytes": 277275489
   }
 }
