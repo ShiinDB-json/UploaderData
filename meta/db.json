@@ -1715,11 +1715,22 @@
       "expiresAt": 1775806292547,
       "url": "https://cdn.miranight.me/api/u/graucza1of.png",
       "createdAt": 1775802692547
+    },
+    "d9qb9b1bba": {
+      "id": "d9qb9b1bba",
+      "originalName": "file.png",
+      "storedName": "d9qb9b1bba.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 184806,
+      "expiresAt": 1775806545417,
+      "url": "https://cdn.miranight.me/api/u/d9qb9b1bba.png",
+      "createdAt": 1775802945417
     }
   },
   "stats": {
-    "uploads": 1123,
+    "uploads": 1124,
     "deleted": 967,
-    "totalBytes": 270024467
+    "totalBytes": 270209273
   }
 }
