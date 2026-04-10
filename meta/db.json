@@ -725,11 +725,22 @@
       "expiresAt": 1775788464455,
       "url": "https://cdn.miranight.me/api/u/9iwaal228t.png",
       "createdAt": 1775784864455
+    },
+    "jnqixflimu": {
+      "id": "jnqixflimu",
+      "originalName": "file.png",
+      "storedName": "jnqixflimu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 204959,
+      "expiresAt": 1775788628396,
+      "url": "https://cdn.miranight.me/api/u/jnqixflimu.png",
+      "createdAt": 1775785028396
     }
   },
   "stats": {
-    "uploads": 1033,
+    "uploads": 1034,
     "deleted": 967,
-    "totalBytes": 250531526
+    "totalBytes": 250736485
   }
 }
