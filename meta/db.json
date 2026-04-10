@@ -1033,11 +1033,22 @@
       "expiresAt": 1775800813236,
       "url": "https://cdn.miranight.me/api/u/np8ajsjv9i.png",
       "createdAt": 1775797213236
+    },
+    "zyepcilcne": {
+      "id": "zyepcilcne",
+      "originalName": "file.png",
+      "storedName": "zyepcilcne.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 364230,
+      "expiresAt": 1775801022982,
+      "url": "https://cdn.miranight.me/api/u/zyepcilcne.png",
+      "createdAt": 1775797422982
     }
   },
   "stats": {
-    "uploads": 1061,
+    "uploads": 1062,
     "deleted": 967,
-    "totalBytes": 256128201
+    "totalBytes": 256492431
   }
 }
