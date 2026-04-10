@@ -2111,11 +2111,22 @@
       "expiresAt": 1775833476928,
       "url": "https://cdn.miranight.me/api/u/3at9jcejsb.png",
       "createdAt": 1775829876928
+    },
+    "uccbluukwd": {
+      "id": "uccbluukwd",
+      "originalName": "file.png",
+      "storedName": "uccbluukwd.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 146262,
+      "expiresAt": 1775848706067,
+      "url": "https://cdn.miranight.me/api/u/uccbluukwd.png",
+      "createdAt": 1775845106067
     }
   },
   "stats": {
-    "uploads": 1159,
+    "uploads": 1160,
     "deleted": 967,
-    "totalBytes": 277882470
+    "totalBytes": 278028732
   }
 }
