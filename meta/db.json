@@ -1110,11 +1110,22 @@
       "expiresAt": 1775802386860,
       "url": "https://cdn.miranight.me/api/u/n61vbldwsr.png",
       "createdAt": 1775798786860
+    },
+    "gzchyry3t0": {
+      "id": "gzchyry3t0",
+      "originalName": "file.png",
+      "storedName": "gzchyry3t0.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 65583,
+      "expiresAt": 1775802422233,
+      "url": "https://cdn.miranight.me/api/u/gzchyry3t0.png",
+      "createdAt": 1775798822233
     }
   },
   "stats": {
-    "uploads": 1068,
+    "uploads": 1069,
     "deleted": 967,
-    "totalBytes": 258018882
+    "totalBytes": 258084465
   }
 }
