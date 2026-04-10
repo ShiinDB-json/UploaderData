@@ -1143,11 +1143,22 @@
       "expiresAt": 1775802490688,
       "url": "https://cdn.miranight.me/api/u/5fyamihwzp.png",
       "createdAt": 1775798890688
+    },
+    "ts8v80hrlx": {
+      "id": "ts8v80hrlx",
+      "originalName": "file.png",
+      "storedName": "ts8v80hrlx.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 34373,
+      "expiresAt": 1775803151233,
+      "url": "https://cdn.miranight.me/api/u/ts8v80hrlx.png",
+      "createdAt": 1775799551233
     }
   },
   "stats": {
-    "uploads": 1071,
+    "uploads": 1072,
     "deleted": 967,
-    "totalBytes": 258652194
+    "totalBytes": 258686567
   }
 }
