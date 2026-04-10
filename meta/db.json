@@ -1858,11 +1858,22 @@
       "expiresAt": 1775807042867,
       "url": "https://cdn.miranight.me/api/u/hz23n1t2d9.png",
       "createdAt": 1775803442867
+    },
+    "gihxfnoj68": {
+      "id": "gihxfnoj68",
+      "originalName": "file.png",
+      "storedName": "gihxfnoj68.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 265918,
+      "expiresAt": 1775807228874,
+      "url": "https://cdn.miranight.me/api/u/gihxfnoj68.png",
+      "createdAt": 1775803628874
     }
   },
   "stats": {
-    "uploads": 1136,
+    "uploads": 1137,
     "deleted": 967,
-    "totalBytes": 273367086
+    "totalBytes": 273633004
   }
 }
