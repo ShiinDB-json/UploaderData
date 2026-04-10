@@ -1539,11 +1539,22 @@
       "expiresAt": 1775805330080,
       "url": "https://cdn.miranight.me/api/u/v4iixe3xjt.png",
       "createdAt": 1775801730080
+    },
+    "pcfvk11803": {
+      "id": "pcfvk11803",
+      "originalName": "file.png",
+      "storedName": "pcfvk11803.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 76211,
+      "expiresAt": 1775805332266,
+      "url": "https://cdn.miranight.me/api/u/pcfvk11803.png",
+      "createdAt": 1775801732266
     }
   },
   "stats": {
-    "uploads": 1107,
+    "uploads": 1108,
     "deleted": 967,
-    "totalBytes": 266011646
+    "totalBytes": 266087857
   }
 }
