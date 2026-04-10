@@ -956,11 +956,22 @@
       "expiresAt": 1775799735656,
       "url": "https://cdn.miranight.me/api/u/gvy444wk8j.png",
       "createdAt": 1775796135656
+    },
+    "jodo9punsg": {
+      "id": "jodo9punsg",
+      "originalName": "file.png",
+      "storedName": "jodo9punsg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 44917,
+      "expiresAt": 1775799793054,
+      "url": "https://cdn.miranight.me/api/u/jodo9punsg.png",
+      "createdAt": 1775796193054
     }
   },
   "stats": {
-    "uploads": 1054,
+    "uploads": 1055,
     "deleted": 967,
-    "totalBytes": 254613877
+    "totalBytes": 254658794
   }
 }
