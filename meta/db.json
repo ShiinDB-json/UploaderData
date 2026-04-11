@@ -582,11 +582,22 @@
       "expiresAt": 1775881505327,
       "url": "https://cdn.miranight.me/api/u/z5nl0tp4ai.png",
       "createdAt": 1775877905327
+    },
+    "c2txfizi49": {
+      "id": "c2txfizi49",
+      "originalName": "file.png",
+      "storedName": "c2txfizi49.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 229928,
+      "expiresAt": 1775888802224,
+      "url": "https://cdn.miranight.me/api/u/c2txfizi49.png",
+      "createdAt": 1775885202224
     }
   },
   "stats": {
-    "uploads": 1178,
+    "uploads": 1179,
     "deleted": 1125,
-    "totalBytes": 279847660
+    "totalBytes": 280077588
   }
 }
