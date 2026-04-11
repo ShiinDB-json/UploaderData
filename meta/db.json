@@ -626,11 +626,22 @@
       "expiresAt": 1775915404422,
       "url": "https://cdn.miranight.me/api/u/jjnomd8li2.png",
       "createdAt": 1775911804422
+    },
+    "shz6r7imr3": {
+      "id": "shz6r7imr3",
+      "originalName": "file.webp",
+      "storedName": "shz6r7imr3.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 44042,
+      "expiresAt": 1775921755666,
+      "url": "https://cdn.miranight.me/api/u/shz6r7imr3.webp",
+      "createdAt": 1775918155666
     }
   },
   "stats": {
-    "uploads": 1182,
+    "uploads": 1183,
     "deleted": 1125,
-    "totalBytes": 282100640
+    "totalBytes": 282144682
   }
 }
