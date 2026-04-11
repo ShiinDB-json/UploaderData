@@ -615,11 +615,22 @@
       "expiresAt": 1775909073825,
       "url": "https://cdn.miranight.me/api/u/3ginu0u2nc.webp",
       "createdAt": 1775905473825
+    },
+    "jjnomd8li2": {
+      "id": "jjnomd8li2",
+      "originalName": "file.png",
+      "storedName": "jjnomd8li2.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 386002,
+      "expiresAt": 1775915404422,
+      "url": "https://cdn.miranight.me/api/u/jjnomd8li2.png",
+      "createdAt": 1775911804422
     }
   },
   "stats": {
-    "uploads": 1181,
+    "uploads": 1182,
     "deleted": 1125,
-    "totalBytes": 281714638
+    "totalBytes": 282100640
   }
 }
