@@ -2001,11 +2001,22 @@
       "expiresAt": 1775981204681,
       "url": "https://cdn.miranight.me/api/u/ldz5skr2hf.png",
       "createdAt": 1775977604681
+    },
+    "v4azp35w98": {
+      "id": "v4azp35w98",
+      "originalName": "file.png",
+      "storedName": "v4azp35w98.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 333733,
+      "expiresAt": 1775981258590,
+      "url": "https://cdn.miranight.me/api/u/v4azp35w98.png",
+      "createdAt": 1775977658590
     }
   },
   "stats": {
-    "uploads": 1328,
+    "uploads": 1329,
     "deleted": 1146,
-    "totalBytes": 317057108
+    "totalBytes": 317390841
   }
 }
