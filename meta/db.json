@@ -494,11 +494,22 @@
       "expiresAt": 1775972012025,
       "url": "https://cdn.miranight.me/api/u/thv692nt7h.png",
       "createdAt": 1775968412025
+    },
+    "2675cw0944": {
+      "id": "2675cw0944",
+      "originalName": "file.png",
+      "storedName": "2675cw0944.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 354100,
+      "expiresAt": 1775972037465,
+      "url": "https://cdn.miranight.me/api/u/2675cw0944.png",
+      "createdAt": 1775968437465
     }
   },
   "stats": {
-    "uploads": 1191,
+    "uploads": 1192,
     "deleted": 1146,
-    "totalBytes": 283576693
+    "totalBytes": 283930793
   }
 }
