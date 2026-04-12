@@ -1737,11 +1737,22 @@
       "expiresAt": 1775979606173,
       "url": "https://cdn.miranight.me/api/u/4832fpeotg.png",
       "createdAt": 1775976006173
+    },
+    "vtw4uuntka": {
+      "id": "vtw4uuntka",
+      "originalName": "file.png",
+      "storedName": "vtw4uuntka.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 285448,
+      "expiresAt": 1775979634472,
+      "url": "https://cdn.miranight.me/api/u/vtw4uuntka.png",
+      "createdAt": 1775976034472
     }
   },
   "stats": {
-    "uploads": 1304,
+    "uploads": 1305,
     "deleted": 1146,
-    "totalBytes": 311831982
+    "totalBytes": 312117430
   }
 }
