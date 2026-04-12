@@ -5829,11 +5829,22 @@
       "expiresAt": 1776040281667,
       "url": "https://cdn.miranight.me/api/u/7lq137nntg.png",
       "createdAt": 1776036681667
+    },
+    "tzonddr9gn": {
+      "id": "tzonddr9gn",
+      "originalName": "file.png",
+      "storedName": "tzonddr9gn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 286317,
+      "expiresAt": 1776040284105,
+      "url": "https://cdn.miranight.me/api/u/tzonddr9gn.png",
+      "createdAt": 1776036684105
     }
   },
   "stats": {
-    "uploads": 1676,
+    "uploads": 1677,
     "deleted": 1146,
-    "totalBytes": 392909733
+    "totalBytes": 393196050
   }
 }
