@@ -1286,11 +1286,22 @@
       "expiresAt": 1775978735275,
       "url": "https://cdn.miranight.me/api/u/ieshtllo4h.png",
       "createdAt": 1775975135275
+    },
+    "ffsiiprfph": {
+      "id": "ffsiiprfph",
+      "originalName": "file.png",
+      "storedName": "ffsiiprfph.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 291264,
+      "expiresAt": 1775978742349,
+      "url": "https://cdn.miranight.me/api/u/ffsiiprfph.png",
+      "createdAt": 1775975142349
     }
   },
   "stats": {
-    "uploads": 1263,
+    "uploads": 1264,
     "deleted": 1146,
-    "totalBytes": 301688880
+    "totalBytes": 301980144
   }
 }
