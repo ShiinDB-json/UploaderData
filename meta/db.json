@@ -1264,11 +1264,22 @@
       "expiresAt": 1775978660584,
       "url": "https://cdn.miranight.me/api/u/b780c0l8e0.png",
       "createdAt": 1775975060584
+    },
+    "ttek5bgce2": {
+      "id": "ttek5bgce2",
+      "originalName": "file.png",
+      "storedName": "ttek5bgce2.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 259455,
+      "expiresAt": 1775978675391,
+      "url": "https://cdn.miranight.me/api/u/ttek5bgce2.png",
+      "createdAt": 1775975075391
     }
   },
   "stats": {
-    "uploads": 1261,
+    "uploads": 1262,
     "deleted": 1146,
-    "totalBytes": 301036873
+    "totalBytes": 301296328
   }
 }
