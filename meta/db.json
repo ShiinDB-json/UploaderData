@@ -3849,11 +3849,22 @@
       "expiresAt": 1775999739057,
       "url": "https://cdn.miranight.me/api/u/wborut05l1.png",
       "createdAt": 1775996139057
+    },
+    "wsd2lh23l0": {
+      "id": "wsd2lh23l0",
+      "originalName": "file.png",
+      "storedName": "wsd2lh23l0.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 234361,
+      "expiresAt": 1775999801403,
+      "url": "https://cdn.miranight.me/api/u/wsd2lh23l0.png",
+      "createdAt": 1775996201403
     }
   },
   "stats": {
-    "uploads": 1496,
+    "uploads": 1497,
     "deleted": 1146,
-    "totalBytes": 355470440
+    "totalBytes": 355704801
   }
 }
