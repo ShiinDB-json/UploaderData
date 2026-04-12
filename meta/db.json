@@ -2353,11 +2353,22 @@
       "expiresAt": 1775983121405,
       "url": "https://cdn.miranight.me/api/u/jtkix7xmem.png",
       "createdAt": 1775979521405
+    },
+    "al5d80qha1": {
+      "id": "al5d80qha1",
+      "originalName": "file.webp",
+      "storedName": "al5d80qha1.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 50014,
+      "expiresAt": 1776584846152,
+      "url": "https://cdn.miranight.me/api/u/al5d80qha1.webp",
+      "createdAt": 1775980046152
     }
   },
   "stats": {
-    "uploads": 1360,
+    "uploads": 1361,
     "deleted": 1146,
-    "totalBytes": 323874065
+    "totalBytes": 323924079
   }
 }
