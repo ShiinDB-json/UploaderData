@@ -3728,11 +3728,22 @@
       "expiresAt": 1775999224061,
       "url": "https://cdn.miranight.me/api/u/q7j7dkzwrk.png",
       "createdAt": 1775995624061
+    },
+    "gdp1jin675": {
+      "id": "gdp1jin675",
+      "originalName": "file.png",
+      "storedName": "gdp1jin675.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 181165,
+      "expiresAt": 1775999234485,
+      "url": "https://cdn.miranight.me/api/u/gdp1jin675.png",
+      "createdAt": 1775995634485
     }
   },
   "stats": {
-    "uploads": 1485,
+    "uploads": 1486,
     "deleted": 1146,
-    "totalBytes": 353325189
+    "totalBytes": 353506354
   }
 }
