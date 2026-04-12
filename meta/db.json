@@ -4344,11 +4344,22 @@
       "expiresAt": 1776004880311,
       "url": "https://cdn.miranight.me/api/u/eggdewyomn.png",
       "createdAt": 1776001280311
+    },
+    "s1g259fgzl": {
+      "id": "s1g259fgzl",
+      "originalName": "file.png",
+      "storedName": "s1g259fgzl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 124341,
+      "expiresAt": 1776004883565,
+      "url": "https://cdn.miranight.me/api/u/s1g259fgzl.png",
+      "createdAt": 1776001283565
     }
   },
   "stats": {
-    "uploads": 1541,
+    "uploads": 1542,
     "deleted": 1146,
-    "totalBytes": 365558099
+    "totalBytes": 365682440
   }
 }
