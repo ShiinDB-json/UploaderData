@@ -1748,11 +1748,22 @@
       "expiresAt": 1775979634472,
       "url": "https://cdn.miranight.me/api/u/vtw4uuntka.png",
       "createdAt": 1775976034472
+    },
+    "ycbyky1gtc": {
+      "id": "ycbyky1gtc",
+      "originalName": "file.png",
+      "storedName": "ycbyky1gtc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 309189,
+      "expiresAt": 1775979669016,
+      "url": "https://cdn.miranight.me/api/u/ycbyky1gtc.png",
+      "createdAt": 1775976069016
     }
   },
   "stats": {
-    "uploads": 1305,
+    "uploads": 1306,
     "deleted": 1146,
-    "totalBytes": 312117430
+    "totalBytes": 312426619
   }
 }
