@@ -3475,11 +3475,22 @@
       "expiresAt": 1775997312809,
       "url": "https://cdn.miranight.me/api/u/kntn0wdi3e.png",
       "createdAt": 1775993712809
+    },
+    "xypypdm37c": {
+      "id": "xypypdm37c",
+      "originalName": "file.png",
+      "storedName": "xypypdm37c.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 298001,
+      "expiresAt": 1775997433358,
+      "url": "https://cdn.miranight.me/api/u/xypypdm37c.png",
+      "createdAt": 1775993833358
     }
   },
   "stats": {
-    "uploads": 1462,
+    "uploads": 1463,
     "deleted": 1146,
-    "totalBytes": 348485217
+    "totalBytes": 348783218
   }
 }
