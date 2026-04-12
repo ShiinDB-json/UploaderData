@@ -1154,11 +1154,22 @@
       "expiresAt": 1775977837389,
       "url": "https://cdn.miranight.me/api/u/ef2j1jh9rx.png",
       "createdAt": 1775974237389
+    },
+    "k2armlzepe": {
+      "id": "k2armlzepe",
+      "originalName": "file.png",
+      "storedName": "k2armlzepe.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 242377,
+      "expiresAt": 1775978124978,
+      "url": "https://cdn.miranight.me/api/u/k2armlzepe.png",
+      "createdAt": 1775974524978
     }
   },
   "stats": {
-    "uploads": 1251,
+    "uploads": 1252,
     "deleted": 1146,
-    "totalBytes": 298471341
+    "totalBytes": 298713718
   }
 }
