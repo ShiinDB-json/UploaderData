@@ -5477,11 +5477,22 @@
       "expiresAt": 1776014800840,
       "url": "https://cdn.miranight.me/api/u/d8dg3aj610.png",
       "createdAt": 1776011200840
+    },
+    "mohhuwdcve": {
+      "id": "mohhuwdcve",
+      "originalName": "file.png",
+      "storedName": "mohhuwdcve.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 290003,
+      "expiresAt": 1776014856009,
+      "url": "https://cdn.miranight.me/api/u/mohhuwdcve.png",
+      "createdAt": 1776011256009
     }
   },
   "stats": {
-    "uploads": 1644,
+    "uploads": 1645,
     "deleted": 1146,
-    "totalBytes": 385670405
+    "totalBytes": 385960408
   }
 }
