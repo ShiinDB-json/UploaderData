@@ -1088,11 +1088,22 @@
       "expiresAt": 1775975599065,
       "url": "https://cdn.miranight.me/api/u/9ppb96cpae.png",
       "createdAt": 1775971999065
+    },
+    "kazz75zlou": {
+      "id": "kazz75zlou",
+      "originalName": "file.png",
+      "storedName": "kazz75zlou.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 103675,
+      "expiresAt": 1775975951186,
+      "url": "https://cdn.miranight.me/api/u/kazz75zlou.png",
+      "createdAt": 1775972351186
     }
   },
   "stats": {
-    "uploads": 1245,
+    "uploads": 1246,
     "deleted": 1146,
-    "totalBytes": 297216659
+    "totalBytes": 297320334
   }
 }
