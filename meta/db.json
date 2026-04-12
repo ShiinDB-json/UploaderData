@@ -428,11 +428,22 @@
       "expiresAt": 1775966089458,
       "url": "https://cdn.miranight.me/api/u/j0cmeph50v.jpg",
       "createdAt": 1775962489458
+    },
+    "yaz810bzwp": {
+      "id": "yaz810bzwp",
+      "originalName": "file.png",
+      "storedName": "yaz810bzwp.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 298001,
+      "expiresAt": 1775971610629,
+      "url": "https://cdn.miranight.me/api/u/yaz810bzwp.png",
+      "createdAt": 1775968010629
     }
   },
   "stats": {
-    "uploads": 1185,
+    "uploads": 1186,
     "deleted": 1146,
-    "totalBytes": 282247279
+    "totalBytes": 282545280
   }
 }
