@@ -2980,11 +2980,22 @@
       "expiresAt": 1775993820289,
       "url": "https://cdn.miranight.me/api/u/hzs5k5drn2.png",
       "createdAt": 1775990220289
+    },
+    "afegzo7js3": {
+      "id": "afegzo7js3",
+      "originalName": "file.png",
+      "storedName": "afegzo7js3.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 258085,
+      "expiresAt": 1775993915574,
+      "url": "https://cdn.miranight.me/api/u/afegzo7js3.png",
+      "createdAt": 1775990315574
     }
   },
   "stats": {
-    "uploads": 1417,
+    "uploads": 1418,
     "deleted": 1146,
-    "totalBytes": 336795143
+    "totalBytes": 337053228
   }
 }
