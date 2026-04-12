@@ -582,11 +582,22 @@
       "expiresAt": 1775972349890,
       "url": "https://cdn.miranight.me/api/u/ii36la4keb.png",
       "createdAt": 1775968749890
+    },
+    "y50bdf98ux": {
+      "id": "y50bdf98ux",
+      "originalName": "file.png",
+      "storedName": "y50bdf98ux.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 263805,
+      "expiresAt": 1775972377252,
+      "url": "https://cdn.miranight.me/api/u/y50bdf98ux.png",
+      "createdAt": 1775968777252
     }
   },
   "stats": {
-    "uploads": 1199,
+    "uploads": 1200,
     "deleted": 1146,
-    "totalBytes": 285728654
+    "totalBytes": 285992459
   }
 }
