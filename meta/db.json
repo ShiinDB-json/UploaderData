@@ -1242,11 +1242,22 @@
       "expiresAt": 1775978648080,
       "url": "https://cdn.miranight.me/api/u/rc4lkmn7x1.png",
       "createdAt": 1775975048080
+    },
+    "2nvadtpe12": {
+      "id": "2nvadtpe12",
+      "originalName": "file.png",
+      "storedName": "2nvadtpe12.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 173238,
+      "expiresAt": 1775978654708,
+      "url": "https://cdn.miranight.me/api/u/2nvadtpe12.png",
+      "createdAt": 1775975054708
     }
   },
   "stats": {
-    "uploads": 1259,
+    "uploads": 1260,
     "deleted": 1146,
-    "totalBytes": 300572371
+    "totalBytes": 300745609
   }
 }
