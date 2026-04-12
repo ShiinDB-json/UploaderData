@@ -3684,11 +3684,22 @@
       "expiresAt": 1775999065828,
       "url": "https://cdn.miranight.me/api/u/cc9ltntaj2.png",
       "createdAt": 1775995465828
+    },
+    "doxdc091u5": {
+      "id": "doxdc091u5",
+      "originalName": "file.png",
+      "storedName": "doxdc091u5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 341641,
+      "expiresAt": 1775999153720,
+      "url": "https://cdn.miranight.me/api/u/doxdc091u5.png",
+      "createdAt": 1775995553720
     }
   },
   "stats": {
-    "uploads": 1481,
+    "uploads": 1482,
     "deleted": 1146,
-    "totalBytes": 352195294
+    "totalBytes": 352536935
   }
 }
