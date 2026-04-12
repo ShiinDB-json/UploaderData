@@ -5389,11 +5389,22 @@
       "expiresAt": 1776012369671,
       "url": "https://cdn.miranight.me/api/u/k1xj3hduwc.png",
       "createdAt": 1776008769671
+    },
+    "lcf98jnvfa": {
+      "id": "lcf98jnvfa",
+      "originalName": "file.png",
+      "storedName": "lcf98jnvfa.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 197715,
+      "expiresAt": 1776012868900,
+      "url": "https://cdn.miranight.me/api/u/lcf98jnvfa.png",
+      "createdAt": 1776009268900
     }
   },
   "stats": {
-    "uploads": 1636,
+    "uploads": 1637,
     "deleted": 1146,
-    "totalBytes": 383688777
+    "totalBytes": 383886492
   }
 }
