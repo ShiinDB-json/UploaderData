@@ -3387,11 +3387,22 @@
       "expiresAt": 1775996722549,
       "url": "https://cdn.miranight.me/api/u/zw81r31kjs.png",
       "createdAt": 1775993122549
+    },
+    "bjutaoann4": {
+      "id": "bjutaoann4",
+      "originalName": "file.png",
+      "storedName": "bjutaoann4.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 192572,
+      "expiresAt": 1775996819291,
+      "url": "https://cdn.miranight.me/api/u/bjutaoann4.png",
+      "createdAt": 1775993219291
     }
   },
   "stats": {
-    "uploads": 1454,
+    "uploads": 1455,
     "deleted": 1146,
-    "totalBytes": 346488120
+    "totalBytes": 346680692
   }
 }
