@@ -3013,11 +3013,22 @@
       "expiresAt": 1775994001231,
       "url": "https://cdn.miranight.me/api/u/nj41yy7due.png",
       "createdAt": 1775990401231
+    },
+    "y55dvh7770": {
+      "id": "y55dvh7770",
+      "originalName": "file.png",
+      "storedName": "y55dvh7770.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 245129,
+      "expiresAt": 1775994067134,
+      "url": "https://cdn.miranight.me/api/u/y55dvh7770.png",
+      "createdAt": 1775990467134
     }
   },
   "stats": {
-    "uploads": 1420,
+    "uploads": 1421,
     "deleted": 1146,
-    "totalBytes": 337647202
+    "totalBytes": 337892331
   }
 }
