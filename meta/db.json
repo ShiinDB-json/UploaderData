@@ -3299,11 +3299,22 @@
       "expiresAt": 1775996103787,
       "url": "https://cdn.miranight.me/api/u/wgs9q99owd.png",
       "createdAt": 1775992503787
+    },
+    "8gbhp79mqs": {
+      "id": "8gbhp79mqs",
+      "originalName": "file.png",
+      "storedName": "8gbhp79mqs.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 204847,
+      "expiresAt": 1775996126612,
+      "url": "https://cdn.miranight.me/api/u/8gbhp79mqs.png",
+      "createdAt": 1775992526612
     }
   },
   "stats": {
-    "uploads": 1446,
+    "uploads": 1447,
     "deleted": 1146,
-    "totalBytes": 344394528
+    "totalBytes": 344599375
   }
 }
