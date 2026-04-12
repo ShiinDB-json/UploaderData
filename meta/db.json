@@ -4421,11 +4421,22 @@
       "expiresAt": 1776005299483,
       "url": "https://cdn.miranight.me/api/u/3klze7f1bs.png",
       "createdAt": 1776001699483
+    },
+    "phyo2kzskr": {
+      "id": "phyo2kzskr",
+      "originalName": "file.png",
+      "storedName": "phyo2kzskr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 177681,
+      "expiresAt": 1776005317868,
+      "url": "https://cdn.miranight.me/api/u/phyo2kzskr.png",
+      "createdAt": 1776001717868
     }
   },
   "stats": {
-    "uploads": 1548,
+    "uploads": 1549,
     "deleted": 1146,
-    "totalBytes": 366763967
+    "totalBytes": 366941648
   }
 }
