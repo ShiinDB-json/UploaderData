@@ -4619,11 +4619,22 @@
       "expiresAt": 1776006110971,
       "url": "https://cdn.miranight.me/api/u/katvcroxzb.png",
       "createdAt": 1776002510971
+    },
+    "0wpi465j5z": {
+      "id": "0wpi465j5z",
+      "originalName": "file.png",
+      "storedName": "0wpi465j5z.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 259514,
+      "expiresAt": 1776006124785,
+      "url": "https://cdn.miranight.me/api/u/0wpi465j5z.png",
+      "createdAt": 1776002524785
     }
   },
   "stats": {
-    "uploads": 1566,
+    "uploads": 1567,
     "deleted": 1146,
-    "totalBytes": 369978010
+    "totalBytes": 370237524
   }
 }
