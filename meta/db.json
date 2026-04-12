@@ -1220,11 +1220,22 @@
       "expiresAt": 1775978514995,
       "url": "https://cdn.miranight.me/api/u/w35ew5hngs.png",
       "createdAt": 1775974914995
+    },
+    "gc4cl8223d": {
+      "id": "gc4cl8223d",
+      "originalName": "file.png",
+      "storedName": "gc4cl8223d.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 92895,
+      "expiresAt": 1775978592972,
+      "url": "https://cdn.miranight.me/api/u/gc4cl8223d.png",
+      "createdAt": 1775974992972
     }
   },
   "stats": {
-    "uploads": 1257,
+    "uploads": 1258,
     "deleted": 1146,
-    "totalBytes": 300178877
+    "totalBytes": 300271772
   }
 }
