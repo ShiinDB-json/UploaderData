@@ -2441,11 +2441,22 @@
       "expiresAt": 1775984369505,
       "url": "https://cdn.miranight.me/api/u/wewid5quug.png",
       "createdAt": 1775980769505
+    },
+    "pak4n6zwpv": {
+      "id": "pak4n6zwpv",
+      "originalName": "file.png",
+      "storedName": "pak4n6zwpv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 199845,
+      "expiresAt": 1775984613170,
+      "url": "https://cdn.miranight.me/api/u/pak4n6zwpv.png",
+      "createdAt": 1775981013170
     }
   },
   "stats": {
-    "uploads": 1368,
+    "uploads": 1369,
     "deleted": 1146,
-    "totalBytes": 325754700
+    "totalBytes": 325954545
   }
 }
