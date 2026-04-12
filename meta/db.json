@@ -4256,11 +4256,22 @@
       "expiresAt": 1776003876357,
       "url": "https://cdn.miranight.me/api/u/nqik5837xf.png",
       "createdAt": 1776000276357
+    },
+    "hopz7exjjn": {
+      "id": "hopz7exjjn",
+      "originalName": "file.png",
+      "storedName": "hopz7exjjn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 372004,
+      "expiresAt": 1776004014942,
+      "url": "https://cdn.miranight.me/api/u/hopz7exjjn.png",
+      "createdAt": 1776000414942
     }
   },
   "stats": {
-    "uploads": 1533,
+    "uploads": 1534,
     "deleted": 1146,
-    "totalBytes": 363942043
+    "totalBytes": 364314047
   }
 }
