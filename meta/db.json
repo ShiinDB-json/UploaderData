@@ -890,11 +890,22 @@
       "expiresAt": 1775972886611,
       "url": "https://cdn.miranight.me/api/u/rtry80jopo.png",
       "createdAt": 1775969286611
+    },
+    "kocklxb8a4": {
+      "id": "kocklxb8a4",
+      "originalName": "file.png",
+      "storedName": "kocklxb8a4.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 227143,
+      "expiresAt": 1775972962918,
+      "url": "https://cdn.miranight.me/api/u/kocklxb8a4.png",
+      "createdAt": 1775969362918
     }
   },
   "stats": {
-    "uploads": 1227,
+    "uploads": 1228,
     "deleted": 1146,
-    "totalBytes": 292751820
+    "totalBytes": 292978963
   }
 }
