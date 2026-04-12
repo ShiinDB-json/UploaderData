@@ -3695,11 +3695,22 @@
       "expiresAt": 1775999153720,
       "url": "https://cdn.miranight.me/api/u/doxdc091u5.png",
       "createdAt": 1775995553720
+    },
+    "idmv9fy29s": {
+      "id": "idmv9fy29s",
+      "originalName": "file.png",
+      "storedName": "idmv9fy29s.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 249843,
+      "expiresAt": 1775999180986,
+      "url": "https://cdn.miranight.me/api/u/idmv9fy29s.png",
+      "createdAt": 1775995580986
     }
   },
   "stats": {
-    "uploads": 1482,
+    "uploads": 1483,
     "deleted": 1146,
-    "totalBytes": 352536935
+    "totalBytes": 352786778
   }
 }
