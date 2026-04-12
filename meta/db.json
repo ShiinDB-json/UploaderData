@@ -4520,11 +4520,22 @@
       "expiresAt": 1776005865707,
       "url": "https://cdn.miranight.me/api/u/f1fz1ppp71.png",
       "createdAt": 1776002265707
+    },
+    "pit5evi1dn": {
+      "id": "pit5evi1dn",
+      "originalName": "file.png",
+      "storedName": "pit5evi1dn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 82292,
+      "expiresAt": 1776005881385,
+      "url": "https://cdn.miranight.me/api/u/pit5evi1dn.png",
+      "createdAt": 1776002281385
     }
   },
   "stats": {
-    "uploads": 1557,
+    "uploads": 1558,
     "deleted": 1146,
-    "totalBytes": 368302621
+    "totalBytes": 368384913
   }
 }
