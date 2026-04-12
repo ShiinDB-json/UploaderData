@@ -5609,11 +5609,22 @@
       "expiresAt": 1776016748771,
       "url": "https://cdn.miranight.me/api/u/8ej5jzvtqd.png",
       "createdAt": 1776013148771
+    },
+    "vggav35q4e": {
+      "id": "vggav35q4e",
+      "originalName": "file.png",
+      "storedName": "vggav35q4e.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 340348,
+      "expiresAt": 1776016830888,
+      "url": "https://cdn.miranight.me/api/u/vggav35q4e.png",
+      "createdAt": 1776013230888
     }
   },
   "stats": {
-    "uploads": 1656,
+    "uploads": 1657,
     "deleted": 1146,
-    "totalBytes": 388633786
+    "totalBytes": 388974134
   }
 }
