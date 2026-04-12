@@ -1946,11 +1946,22 @@
       "expiresAt": 1775981034782,
       "url": "https://cdn.miranight.me/api/u/7cctjwpf9t.png",
       "createdAt": 1775977434782
+    },
+    "5erirduly2": {
+      "id": "5erirduly2",
+      "originalName": "file.png",
+      "storedName": "5erirduly2.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 157100,
+      "expiresAt": 1775981083757,
+      "url": "https://cdn.miranight.me/api/u/5erirduly2.png",
+      "createdAt": 1775977483757
     }
   },
   "stats": {
-    "uploads": 1323,
+    "uploads": 1324,
     "deleted": 1146,
-    "totalBytes": 316521177
+    "totalBytes": 316678277
   }
 }
