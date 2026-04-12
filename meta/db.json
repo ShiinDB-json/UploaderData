@@ -1011,11 +1011,22 @@
       "expiresAt": 1775974532765,
       "url": "https://cdn.miranight.me/api/u/yljv0clnhv.png",
       "createdAt": 1775970932765
+    },
+    "gtptbx5r26": {
+      "id": "gtptbx5r26",
+      "originalName": "file.png",
+      "storedName": "gtptbx5r26.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 160036,
+      "expiresAt": 1775975065729,
+      "url": "https://cdn.miranight.me/api/u/gtptbx5r26.png",
+      "createdAt": 1775971465730
     }
   },
   "stats": {
-    "uploads": 1238,
+    "uploads": 1239,
     "deleted": 1146,
-    "totalBytes": 295457723
+    "totalBytes": 295617759
   }
 }
