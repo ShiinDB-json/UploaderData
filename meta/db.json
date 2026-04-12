@@ -2727,11 +2727,22 @@
       "expiresAt": 1775987495458,
       "url": "https://cdn.miranight.me/api/u/ro67gm7967.png",
       "createdAt": 1775983895458
+    },
+    "p7n4galebg": {
+      "id": "p7n4galebg",
+      "originalName": "file.png",
+      "storedName": "p7n4galebg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 177771,
+      "expiresAt": 1775987506298,
+      "url": "https://cdn.miranight.me/api/u/p7n4galebg.png",
+      "createdAt": 1775983906298
     }
   },
   "stats": {
-    "uploads": 1394,
+    "uploads": 1395,
     "deleted": 1146,
-    "totalBytes": 332068898
+    "totalBytes": 332246669
   }
 }
