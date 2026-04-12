@@ -1792,11 +1792,22 @@
       "expiresAt": 1775979849359,
       "url": "https://cdn.miranight.me/api/u/vjrmkqjage.png",
       "createdAt": 1775976249359
+    },
+    "i4rnjh5ygg": {
+      "id": "i4rnjh5ygg",
+      "originalName": "file.png",
+      "storedName": "i4rnjh5ygg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 200996,
+      "expiresAt": 1775979883404,
+      "url": "https://cdn.miranight.me/api/u/i4rnjh5ygg.png",
+      "createdAt": 1775976283404
     }
   },
   "stats": {
-    "uploads": 1309,
+    "uploads": 1310,
     "deleted": 1146,
-    "totalBytes": 313109608
+    "totalBytes": 313310604
   }
 }
