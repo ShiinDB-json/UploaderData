@@ -3200,11 +3200,22 @@
       "expiresAt": 1775995626275,
       "url": "https://cdn.miranight.me/api/u/z96xdhi9n4.png",
       "createdAt": 1775992026275
+    },
+    "snzsharagh": {
+      "id": "snzsharagh",
+      "originalName": "file.png",
+      "storedName": "snzsharagh.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 201177,
+      "expiresAt": 1775995662322,
+      "url": "https://cdn.miranight.me/api/u/snzsharagh.png",
+      "createdAt": 1775992062322
     }
   },
   "stats": {
-    "uploads": 1437,
+    "uploads": 1438,
     "deleted": 1146,
-    "totalBytes": 342408604
+    "totalBytes": 342609781
   }
 }
