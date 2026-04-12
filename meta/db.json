@@ -2155,11 +2155,22 @@
       "expiresAt": 1775981936791,
       "url": "https://cdn.miranight.me/api/u/bbytvn3epa.png",
       "createdAt": 1775978336791
+    },
+    "hcmpog652i": {
+      "id": "hcmpog652i",
+      "originalName": "file.png",
+      "storedName": "hcmpog652i.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 200996,
+      "expiresAt": 1775982092340,
+      "url": "https://cdn.miranight.me/api/u/hcmpog652i.png",
+      "createdAt": 1775978492340
     }
   },
   "stats": {
-    "uploads": 1342,
+    "uploads": 1343,
     "deleted": 1146,
-    "totalBytes": 319769310
+    "totalBytes": 319970306
   }
 }
