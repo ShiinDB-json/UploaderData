@@ -3739,11 +3739,22 @@
       "expiresAt": 1775999234485,
       "url": "https://cdn.miranight.me/api/u/gdp1jin675.png",
       "createdAt": 1775995634485
+    },
+    "qjn7g3khch": {
+      "id": "qjn7g3khch",
+      "originalName": "file.png",
+      "storedName": "qjn7g3khch.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 299443,
+      "expiresAt": 1775999300318,
+      "url": "https://cdn.miranight.me/api/u/qjn7g3khch.png",
+      "createdAt": 1775995700318
     }
   },
   "stats": {
-    "uploads": 1486,
+    "uploads": 1487,
     "deleted": 1146,
-    "totalBytes": 353506354
+    "totalBytes": 353805797
   }
 }
