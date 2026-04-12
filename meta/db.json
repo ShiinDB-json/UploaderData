@@ -3838,11 +3838,22 @@
       "expiresAt": 1775999526167,
       "url": "https://cdn.miranight.me/api/u/gr4gvoail4.png",
       "createdAt": 1775995926167
+    },
+    "wborut05l1": {
+      "id": "wborut05l1",
+      "originalName": "file.png",
+      "storedName": "wborut05l1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 94089,
+      "expiresAt": 1775999739057,
+      "url": "https://cdn.miranight.me/api/u/wborut05l1.png",
+      "createdAt": 1775996139057
     }
   },
   "stats": {
-    "uploads": 1495,
+    "uploads": 1496,
     "deleted": 1146,
-    "totalBytes": 355376351
+    "totalBytes": 355470440
   }
 }
