@@ -2573,11 +2573,22 @@
       "expiresAt": 1775986028253,
       "url": "https://cdn.miranight.me/api/u/nu7ww5b68u.png",
       "createdAt": 1775982428253
+    },
+    "s45a24riga": {
+      "id": "s45a24riga",
+      "originalName": "file.png",
+      "storedName": "s45a24riga.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 279401,
+      "expiresAt": 1775986044950,
+      "url": "https://cdn.miranight.me/api/u/s45a24riga.png",
+      "createdAt": 1775982444950
     }
   },
   "stats": {
-    "uploads": 1380,
+    "uploads": 1381,
     "deleted": 1146,
-    "totalBytes": 328673894
+    "totalBytes": 328953295
   }
 }
