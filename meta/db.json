@@ -4531,11 +4531,22 @@
       "expiresAt": 1776005881385,
       "url": "https://cdn.miranight.me/api/u/pit5evi1dn.png",
       "createdAt": 1776002281385
+    },
+    "5fciia74zk": {
+      "id": "5fciia74zk",
+      "originalName": "file.png",
+      "storedName": "5fciia74zk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 111662,
+      "expiresAt": 1776005910681,
+      "url": "https://cdn.miranight.me/api/u/5fciia74zk.png",
+      "createdAt": 1776002310681
     }
   },
   "stats": {
-    "uploads": 1558,
+    "uploads": 1559,
     "deleted": 1146,
-    "totalBytes": 368384913
+    "totalBytes": 368496575
   }
 }
