@@ -1418,11 +1418,22 @@
       "expiresAt": 1775979020116,
       "url": "https://cdn.miranight.me/api/u/q4vxmbiz8w.png",
       "createdAt": 1775975420116
+    },
+    "dhlu5v7140": {
+      "id": "dhlu5v7140",
+      "originalName": "file.png",
+      "storedName": "dhlu5v7140.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 392552,
+      "expiresAt": 1775979057705,
+      "url": "https://cdn.miranight.me/api/u/dhlu5v7140.png",
+      "createdAt": 1775975457705
     }
   },
   "stats": {
-    "uploads": 1275,
+    "uploads": 1276,
     "deleted": 1146,
-    "totalBytes": 304156221
+    "totalBytes": 304548773
   }
 }
