@@ -2144,11 +2144,22 @@
       "expiresAt": 1775981919093,
       "url": "https://cdn.miranight.me/api/u/6xpbdf5u6c.png",
       "createdAt": 1775978319093
+    },
+    "bbytvn3epa": {
+      "id": "bbytvn3epa",
+      "originalName": "file.png",
+      "storedName": "bbytvn3epa.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 210455,
+      "expiresAt": 1775981936791,
+      "url": "https://cdn.miranight.me/api/u/bbytvn3epa.png",
+      "createdAt": 1775978336791
     }
   },
   "stats": {
-    "uploads": 1341,
+    "uploads": 1342,
     "deleted": 1146,
-    "totalBytes": 319558855
+    "totalBytes": 319769310
   }
 }
