@@ -3211,11 +3211,22 @@
       "expiresAt": 1775995662322,
       "url": "https://cdn.miranight.me/api/u/snzsharagh.png",
       "createdAt": 1775992062322
+    },
+    "0pacn6hich": {
+      "id": "0pacn6hich",
+      "originalName": "file.png",
+      "storedName": "0pacn6hich.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 119269,
+      "expiresAt": 1775995948586,
+      "url": "https://cdn.miranight.me/api/u/0pacn6hich.png",
+      "createdAt": 1775992348586
     }
   },
   "stats": {
-    "uploads": 1438,
+    "uploads": 1439,
     "deleted": 1146,
-    "totalBytes": 342609781
+    "totalBytes": 342729050
   }
 }
