@@ -3178,11 +3178,22 @@
       "expiresAt": 1775995440612,
       "url": "https://cdn.miranight.me/api/u/1ea6ld471m.png",
       "createdAt": 1775991840612
+    },
+    "etw6075i6p": {
+      "id": "etw6075i6p",
+      "originalName": "file.png",
+      "storedName": "etw6075i6p.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 376414,
+      "expiresAt": 1775995611145,
+      "url": "https://cdn.miranight.me/api/u/etw6075i6p.png",
+      "createdAt": 1775992011145
     }
   },
   "stats": {
-    "uploads": 1435,
+    "uploads": 1436,
     "deleted": 1146,
-    "totalBytes": 341734189
+    "totalBytes": 342110603
   }
 }
