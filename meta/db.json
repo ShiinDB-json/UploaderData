@@ -3948,11 +3948,22 @@
       "expiresAt": 1776001152127,
       "url": "https://cdn.miranight.me/api/u/vhqhhgvbfk.png",
       "createdAt": 1775997552127
+    },
+    "lkv33rpurm": {
+      "id": "lkv33rpurm",
+      "originalName": "file.png",
+      "storedName": "lkv33rpurm.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 240672,
+      "expiresAt": 1776001371545,
+      "url": "https://cdn.miranight.me/api/u/lkv33rpurm.png",
+      "createdAt": 1775997771545
     }
   },
   "stats": {
-    "uploads": 1505,
+    "uploads": 1506,
     "deleted": 1146,
-    "totalBytes": 357524615
+    "totalBytes": 357765287
   }
 }
