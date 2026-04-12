@@ -5444,11 +5444,22 @@
       "expiresAt": 1776013598205,
       "url": "https://cdn.miranight.me/api/u/npmplbe67u.png",
       "createdAt": 1776009998205
+    },
+    "vuo91cbg3g": {
+      "id": "vuo91cbg3g",
+      "originalName": "file.png",
+      "storedName": "vuo91cbg3g.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 279678,
+      "expiresAt": 1776013712938,
+      "url": "https://cdn.miranight.me/api/u/vuo91cbg3g.png",
+      "createdAt": 1776010112938
     }
   },
   "stats": {
-    "uploads": 1641,
+    "uploads": 1642,
     "deleted": 1146,
-    "totalBytes": 384910112
+    "totalBytes": 385189790
   }
 }
