@@ -5774,11 +5774,22 @@
       "expiresAt": 1776039618800,
       "url": "https://cdn.miranight.me/api/u/lx67m03n01.png",
       "createdAt": 1776036018800
+    },
+    "i946opfvyg": {
+      "id": "i946opfvyg",
+      "originalName": "file.png",
+      "storedName": "i946opfvyg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 87719,
+      "expiresAt": 1776039637475,
+      "url": "https://cdn.miranight.me/api/u/i946opfvyg.png",
+      "createdAt": 1776036037475
     }
   },
   "stats": {
-    "uploads": 1671,
+    "uploads": 1672,
     "deleted": 1146,
-    "totalBytes": 392134712
+    "totalBytes": 392222431
   }
 }
