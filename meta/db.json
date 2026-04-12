@@ -5631,11 +5631,22 @@
       "expiresAt": 1776017126823,
       "url": "https://cdn.miranight.me/api/u/aa9nxv094m.png",
       "createdAt": 1776013526823
+    },
+    "okjc26qh3a": {
+      "id": "okjc26qh3a",
+      "originalName": "file.png",
+      "storedName": "okjc26qh3a.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 276220,
+      "expiresAt": 1776017461172,
+      "url": "https://cdn.miranight.me/api/u/okjc26qh3a.png",
+      "createdAt": 1776013861172
     }
   },
   "stats": {
-    "uploads": 1658,
+    "uploads": 1659,
     "deleted": 1146,
-    "totalBytes": 389364820
+    "totalBytes": 389641040
   }
 }
