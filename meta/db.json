@@ -1957,11 +1957,22 @@
       "expiresAt": 1775981083757,
       "url": "https://cdn.miranight.me/api/u/5erirduly2.png",
       "createdAt": 1775977483757
+    },
+    "jojgnr0h1i": {
+      "id": "jojgnr0h1i",
+      "originalName": "file.png",
+      "storedName": "jojgnr0h1i.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 86416,
+      "expiresAt": 1775981118738,
+      "url": "https://cdn.miranight.me/api/u/jojgnr0h1i.png",
+      "createdAt": 1775977518738
     }
   },
   "stats": {
-    "uploads": 1324,
+    "uploads": 1325,
     "deleted": 1146,
-    "totalBytes": 316678277
+    "totalBytes": 316764693
   }
 }
