@@ -3563,11 +3563,22 @@
       "expiresAt": 1775997938311,
       "url": "https://cdn.miranight.me/api/u/wmbfcr5tl2.png",
       "createdAt": 1775994338311
+    },
+    "1ayifaj2pn": {
+      "id": "1ayifaj2pn",
+      "originalName": "file.png",
+      "storedName": "1ayifaj2pn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 44691,
+      "expiresAt": 1775998084306,
+      "url": "https://cdn.miranight.me/api/u/1ayifaj2pn.png",
+      "createdAt": 1775994484306
     }
   },
   "stats": {
-    "uploads": 1470,
+    "uploads": 1471,
     "deleted": 1146,
-    "totalBytes": 350006876
+    "totalBytes": 350051567
   }
 }
