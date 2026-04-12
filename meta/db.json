@@ -1231,11 +1231,22 @@
       "expiresAt": 1775978592972,
       "url": "https://cdn.miranight.me/api/u/gc4cl8223d.png",
       "createdAt": 1775974992972
+    },
+    "rc4lkmn7x1": {
+      "id": "rc4lkmn7x1",
+      "originalName": "file.png",
+      "storedName": "rc4lkmn7x1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 300599,
+      "expiresAt": 1775978648080,
+      "url": "https://cdn.miranight.me/api/u/rc4lkmn7x1.png",
+      "createdAt": 1775975048080
     }
   },
   "stats": {
-    "uploads": 1258,
+    "uploads": 1259,
     "deleted": 1146,
-    "totalBytes": 300271772
+    "totalBytes": 300572371
   }
 }
