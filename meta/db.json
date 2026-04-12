@@ -2749,11 +2749,22 @@
       "expiresAt": 1775988101041,
       "url": "https://cdn.miranight.me/api/u/qd3ds1189o.png",
       "createdAt": 1775984501041
+    },
+    "tyji2w88mr": {
+      "id": "tyji2w88mr",
+      "originalName": "file.png",
+      "storedName": "tyji2w88mr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 341690,
+      "expiresAt": 1775988364600,
+      "url": "https://cdn.miranight.me/api/u/tyji2w88mr.png",
+      "createdAt": 1775984764600
     }
   },
   "stats": {
-    "uploads": 1396,
+    "uploads": 1397,
     "deleted": 1146,
-    "totalBytes": 332373401
+    "totalBytes": 332715091
   }
 }
