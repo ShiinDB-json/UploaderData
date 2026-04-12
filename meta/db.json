@@ -1495,11 +1495,22 @@
       "expiresAt": 1775979127581,
       "url": "https://cdn.miranight.me/api/u/auid5iok9h.png",
       "createdAt": 1775975527581
+    },
+    "ossh6jkabc": {
+      "id": "ossh6jkabc",
+      "originalName": "file.png",
+      "storedName": "ossh6jkabc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 285448,
+      "expiresAt": 1775979138031,
+      "url": "https://cdn.miranight.me/api/u/ossh6jkabc.png",
+      "createdAt": 1775975538031
     }
   },
   "stats": {
-    "uploads": 1282,
+    "uploads": 1283,
     "deleted": 1146,
-    "totalBytes": 306114700
+    "totalBytes": 306400148
   }
 }
