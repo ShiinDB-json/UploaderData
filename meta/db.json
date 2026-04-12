@@ -2903,11 +2903,22 @@
       "expiresAt": 1775993093084,
       "url": "https://cdn.miranight.me/api/u/afi2404jko.png",
       "createdAt": 1775989493084
+    },
+    "wjpesppkh8": {
+      "id": "wjpesppkh8",
+      "originalName": "file.png",
+      "storedName": "wjpesppkh8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 170955,
+      "expiresAt": 1775993187550,
+      "url": "https://cdn.miranight.me/api/u/wjpesppkh8.png",
+      "createdAt": 1775989587550
     }
   },
   "stats": {
-    "uploads": 1410,
+    "uploads": 1411,
     "deleted": 1146,
-    "totalBytes": 335244700
+    "totalBytes": 335415655
   }
 }
