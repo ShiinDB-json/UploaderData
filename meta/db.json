@@ -3343,11 +3343,22 @@
       "expiresAt": 1775996343684,
       "url": "https://cdn.miranight.me/api/u/cbrx7864g3.png",
       "createdAt": 1775992743684
+    },
+    "qcvjiwgvog": {
+      "id": "qcvjiwgvog",
+      "originalName": "file.png",
+      "storedName": "qcvjiwgvog.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 298081,
+      "expiresAt": 1775996344808,
+      "url": "https://cdn.miranight.me/api/u/qcvjiwgvog.png",
+      "createdAt": 1775992744808
     }
   },
   "stats": {
-    "uploads": 1450,
+    "uploads": 1451,
     "deleted": 1146,
-    "totalBytes": 345483376
+    "totalBytes": 345781457
   }
 }
