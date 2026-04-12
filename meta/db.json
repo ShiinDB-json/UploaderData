@@ -1033,11 +1033,22 @@
       "expiresAt": 1775975212302,
       "url": "https://cdn.miranight.me/api/u/xstflp402m.png",
       "createdAt": 1775971612302
+    },
+    "cw28gncguz": {
+      "id": "cw28gncguz",
+      "originalName": "file.png",
+      "storedName": "cw28gncguz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 314918,
+      "expiresAt": 1775975241095,
+      "url": "https://cdn.miranight.me/api/u/cw28gncguz.png",
+      "createdAt": 1775971641095
     }
   },
   "stats": {
-    "uploads": 1240,
+    "uploads": 1241,
     "deleted": 1146,
-    "totalBytes": 295929634
+    "totalBytes": 296244552
   }
 }
