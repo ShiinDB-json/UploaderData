@@ -1583,11 +1583,22 @@
       "expiresAt": 1775979257717,
       "url": "https://cdn.miranight.me/api/u/jm1m8erhjj.png",
       "createdAt": 1775975657717
+    },
+    "ivhl4114sx": {
+      "id": "ivhl4114sx",
+      "originalName": "file.png",
+      "storedName": "ivhl4114sx.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 326715,
+      "expiresAt": 1775979263025,
+      "url": "https://cdn.miranight.me/api/u/ivhl4114sx.png",
+      "createdAt": 1775975663025
     }
   },
   "stats": {
-    "uploads": 1290,
+    "uploads": 1291,
     "deleted": 1146,
-    "totalBytes": 308271116
+    "totalBytes": 308597831
   }
 }
