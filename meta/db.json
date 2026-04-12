@@ -3827,11 +3827,22 @@
       "expiresAt": 1775999501999,
       "url": "https://cdn.miranight.me/api/u/2nxlsudzjr.png",
       "createdAt": 1775995901999
+    },
+    "gr4gvoail4": {
+      "id": "gr4gvoail4",
+      "originalName": "file.png",
+      "storedName": "gr4gvoail4.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 170955,
+      "expiresAt": 1775999526167,
+      "url": "https://cdn.miranight.me/api/u/gr4gvoail4.png",
+      "createdAt": 1775995926167
     }
   },
   "stats": {
-    "uploads": 1494,
+    "uploads": 1495,
     "deleted": 1146,
-    "totalBytes": 355205396
+    "totalBytes": 355376351
   }
 }
