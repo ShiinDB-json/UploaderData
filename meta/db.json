@@ -2771,11 +2771,22 @@
       "expiresAt": 1775989285899,
       "url": "https://cdn.miranight.me/api/u/66h6avrhq6.png",
       "createdAt": 1775985685899
+    },
+    "c7lowic7rm": {
+      "id": "c7lowic7rm",
+      "originalName": "file.png",
+      "storedName": "c7lowic7rm.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 35352,
+      "expiresAt": 1775989352429,
+      "url": "https://cdn.miranight.me/api/u/c7lowic7rm.png",
+      "createdAt": 1775985752429
     }
   },
   "stats": {
-    "uploads": 1398,
+    "uploads": 1399,
     "deleted": 1146,
-    "totalBytes": 332822220
+    "totalBytes": 332857572
   }
 }
