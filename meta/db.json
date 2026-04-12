@@ -3805,11 +3805,22 @@
       "expiresAt": 1775999467663,
       "url": "https://cdn.miranight.me/api/u/ds7zk8jo4q.png",
       "createdAt": 1775995867663
+    },
+    "wwtuapuwax": {
+      "id": "wwtuapuwax",
+      "originalName": "file.png",
+      "storedName": "wwtuapuwax.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 155756,
+      "expiresAt": 1775999501092,
+      "url": "https://cdn.miranight.me/api/u/wwtuapuwax.png",
+      "createdAt": 1775995901092
     }
   },
   "stats": {
-    "uploads": 1492,
+    "uploads": 1493,
     "deleted": 1146,
-    "totalBytes": 354799797
+    "totalBytes": 354955553
   }
 }
