@@ -2661,11 +2661,22 @@
       "expiresAt": 1775987294240,
       "url": "https://cdn.miranight.me/api/u/c8axcc1xpr.png",
       "createdAt": 1775983694240
+    },
+    "metrky0ba9": {
+      "id": "metrky0ba9",
+      "originalName": "file.png",
+      "storedName": "metrky0ba9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 210455,
+      "expiresAt": 1775987318841,
+      "url": "https://cdn.miranight.me/api/u/metrky0ba9.png",
+      "createdAt": 1775983718841
     }
   },
   "stats": {
-    "uploads": 1388,
+    "uploads": 1389,
     "deleted": 1146,
-    "totalBytes": 330482301
+    "totalBytes": 330692756
   }
 }
