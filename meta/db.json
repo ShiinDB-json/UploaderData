@@ -2991,11 +2991,22 @@
       "expiresAt": 1775993915574,
       "url": "https://cdn.miranight.me/api/u/afegzo7js3.png",
       "createdAt": 1775990315574
+    },
+    "darf494qu9": {
+      "id": "darf494qu9",
+      "originalName": "file.png",
+      "storedName": "darf494qu9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 252225,
+      "expiresAt": 1775993968322,
+      "url": "https://cdn.miranight.me/api/u/darf494qu9.png",
+      "createdAt": 1775990368322
     }
   },
   "stats": {
-    "uploads": 1418,
+    "uploads": 1419,
     "deleted": 1146,
-    "totalBytes": 337053228
+    "totalBytes": 337305453
   }
 }
