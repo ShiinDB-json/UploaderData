@@ -4806,11 +4806,22 @@
       "expiresAt": 1776006884924,
       "url": "https://cdn.miranight.me/api/u/c0hq29iezv.png",
       "createdAt": 1776003284924
+    },
+    "98aumoerku": {
+      "id": "98aumoerku",
+      "originalName": "file.png",
+      "storedName": "98aumoerku.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 131068,
+      "expiresAt": 1776006954793,
+      "url": "https://cdn.miranight.me/api/u/98aumoerku.png",
+      "createdAt": 1776003354793
     }
   },
   "stats": {
-    "uploads": 1583,
+    "uploads": 1584,
     "deleted": 1146,
-    "totalBytes": 373691779
+    "totalBytes": 373822847
   }
 }
