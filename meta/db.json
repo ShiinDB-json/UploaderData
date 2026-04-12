@@ -2342,11 +2342,22 @@
       "expiresAt": 1775982875042,
       "url": "https://cdn.miranight.me/api/u/gfiqbb8la1.png",
       "createdAt": 1775979275042
+    },
+    "jtkix7xmem": {
+      "id": "jtkix7xmem",
+      "originalName": "file.png",
+      "storedName": "jtkix7xmem.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 55411,
+      "expiresAt": 1775983121405,
+      "url": "https://cdn.miranight.me/api/u/jtkix7xmem.png",
+      "createdAt": 1775979521405
     }
   },
   "stats": {
-    "uploads": 1359,
+    "uploads": 1360,
     "deleted": 1146,
-    "totalBytes": 323818654
+    "totalBytes": 323874065
   }
 }
