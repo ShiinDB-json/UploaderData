@@ -2331,11 +2331,22 @@
       "expiresAt": 1775982849679,
       "url": "https://cdn.miranight.me/api/u/cpfvgw1xaq.png",
       "createdAt": 1775979249679
+    },
+    "gfiqbb8la1": {
+      "id": "gfiqbb8la1",
+      "originalName": "file.png",
+      "storedName": "gfiqbb8la1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 335400,
+      "expiresAt": 1775982875042,
+      "url": "https://cdn.miranight.me/api/u/gfiqbb8la1.png",
+      "createdAt": 1775979275042
     }
   },
   "stats": {
-    "uploads": 1358,
+    "uploads": 1359,
     "deleted": 1146,
-    "totalBytes": 323483254
+    "totalBytes": 323818654
   }
 }
