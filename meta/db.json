@@ -2100,11 +2100,22 @@
       "expiresAt": 1775981638993,
       "url": "https://cdn.miranight.me/api/u/nyut7fuxvi.png",
       "createdAt": 1775978038993
+    },
+    "ruuhfwpfsr": {
+      "id": "ruuhfwpfsr",
+      "originalName": "file.png",
+      "storedName": "ruuhfwpfsr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 159135,
+      "expiresAt": 1775981687115,
+      "url": "https://cdn.miranight.me/api/u/ruuhfwpfsr.png",
+      "createdAt": 1775978087115
     }
   },
   "stats": {
-    "uploads": 1337,
+    "uploads": 1338,
     "deleted": 1146,
-    "totalBytes": 318746408
+    "totalBytes": 318905543
   }
 }
