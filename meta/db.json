@@ -5301,11 +5301,22 @@
       "expiresAt": 1776012076500,
       "url": "https://cdn.miranight.me/api/u/yog3zlf85e.png",
       "createdAt": 1776008476500
+    },
+    "nudyhh3j4e": {
+      "id": "nudyhh3j4e",
+      "originalName": "file.png",
+      "storedName": "nudyhh3j4e.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 267007,
+      "expiresAt": 1776012164537,
+      "url": "https://cdn.miranight.me/api/u/nudyhh3j4e.png",
+      "createdAt": 1776008564537
     }
   },
   "stats": {
-    "uploads": 1628,
+    "uploads": 1629,
     "deleted": 1146,
-    "totalBytes": 382369853
+    "totalBytes": 382636860
   }
 }
