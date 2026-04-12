@@ -5290,11 +5290,22 @@
       "expiresAt": 1776012074980,
       "url": "https://cdn.miranight.me/api/u/8kyf0fpslz.png",
       "createdAt": 1776008474980
+    },
+    "yog3zlf85e": {
+      "id": "yog3zlf85e",
+      "originalName": "file.png",
+      "storedName": "yog3zlf85e.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 63163,
+      "expiresAt": 1776012076500,
+      "url": "https://cdn.miranight.me/api/u/yog3zlf85e.png",
+      "createdAt": 1776008476500
     }
   },
   "stats": {
-    "uploads": 1627,
+    "uploads": 1628,
     "deleted": 1146,
-    "totalBytes": 382306690
+    "totalBytes": 382369853
   }
 }
