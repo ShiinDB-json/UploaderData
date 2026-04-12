@@ -2826,11 +2826,22 @@
       "expiresAt": 1775990402680,
       "url": "https://cdn.miranight.me/api/u/m0aq8cwj4g.png",
       "createdAt": 1775986802680
+    },
+    "cxqhfr2vml": {
+      "id": "cxqhfr2vml",
+      "originalName": "file.png",
+      "storedName": "cxqhfr2vml.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 160036,
+      "expiresAt": 1775990541080,
+      "url": "https://cdn.miranight.me/api/u/cxqhfr2vml.png",
+      "createdAt": 1775986941080
     }
   },
   "stats": {
-    "uploads": 1403,
+    "uploads": 1404,
     "deleted": 1146,
-    "totalBytes": 333905290
+    "totalBytes": 334065326
   }
 }
