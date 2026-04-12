@@ -3057,11 +3057,22 @@
       "expiresAt": 1775994153983,
       "url": "https://cdn.miranight.me/api/u/643b9ho766.png",
       "createdAt": 1775990553983
+    },
+    "loxwtrr864": {
+      "id": "loxwtrr864",
+      "originalName": "file.png",
+      "storedName": "loxwtrr864.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 263062,
+      "expiresAt": 1775994174480,
+      "url": "https://cdn.miranight.me/api/u/loxwtrr864.png",
+      "createdAt": 1775990574480
     }
   },
   "stats": {
-    "uploads": 1424,
+    "uploads": 1425,
     "deleted": 1146,
-    "totalBytes": 338868858
+    "totalBytes": 339131920
   }
 }
