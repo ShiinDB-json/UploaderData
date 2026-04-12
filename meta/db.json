@@ -1539,11 +1539,22 @@
       "expiresAt": 1775979231807,
       "url": "https://cdn.miranight.me/api/u/k7mfg6osou.png",
       "createdAt": 1775975631807
+    },
+    "wtytv4vnuj": {
+      "id": "wtytv4vnuj",
+      "originalName": "file.png",
+      "storedName": "wtytv4vnuj.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 497481,
+      "expiresAt": 1775979244212,
+      "url": "https://cdn.miranight.me/api/u/wtytv4vnuj.png",
+      "createdAt": 1775975644212
     }
   },
   "stats": {
-    "uploads": 1286,
+    "uploads": 1287,
     "deleted": 1146,
-    "totalBytes": 307183247
+    "totalBytes": 307680728
   }
 }
