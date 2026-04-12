@@ -2243,11 +2243,22 @@
       "expiresAt": 1775982401909,
       "url": "https://cdn.miranight.me/api/u/7vv23ulmvp.png",
       "createdAt": 1775978801909
+    },
+    "obngvphjdc": {
+      "id": "obngvphjdc",
+      "originalName": "file.png",
+      "storedName": "obngvphjdc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 308849,
+      "expiresAt": 1775982403850,
+      "url": "https://cdn.miranight.me/api/u/obngvphjdc.png",
+      "createdAt": 1775978803850
     }
   },
   "stats": {
-    "uploads": 1350,
+    "uploads": 1351,
     "deleted": 1146,
-    "totalBytes": 321905480
+    "totalBytes": 322214329
   }
 }
