@@ -2892,11 +2892,22 @@
       "expiresAt": 1775992682731,
       "url": "https://cdn.miranight.me/api/u/z3ogpl0iiv.png",
       "createdAt": 1775989082731
+    },
+    "afi2404jko": {
+      "id": "afi2404jko",
+      "originalName": "file.png",
+      "storedName": "afi2404jko.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 366374,
+      "expiresAt": 1775993093084,
+      "url": "https://cdn.miranight.me/api/u/afi2404jko.png",
+      "createdAt": 1775989493084
     }
   },
   "stats": {
-    "uploads": 1409,
+    "uploads": 1410,
     "deleted": 1146,
-    "totalBytes": 334878326
+    "totalBytes": 335244700
   }
 }
