@@ -3772,11 +3772,22 @@
       "expiresAt": 1775999382371,
       "url": "https://cdn.miranight.me/api/u/xu56bl15p0.png",
       "createdAt": 1775995782371
+    },
+    "tfb7rwea9t": {
+      "id": "tfb7rwea9t",
+      "originalName": "file.png",
+      "storedName": "tfb7rwea9t.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 249843,
+      "expiresAt": 1775999401494,
+      "url": "https://cdn.miranight.me/api/u/tfb7rwea9t.png",
+      "createdAt": 1775995801494
     }
   },
   "stats": {
-    "uploads": 1489,
+    "uploads": 1490,
     "deleted": 1146,
-    "totalBytes": 354132508
+    "totalBytes": 354382351
   }
 }
