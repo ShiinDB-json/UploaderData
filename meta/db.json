@@ -1627,11 +1627,22 @@
       "expiresAt": 1775979325582,
       "url": "https://cdn.miranight.me/api/u/valvpao7jr.png",
       "createdAt": 1775975725582
+    },
+    "t72y3mhhr4": {
+      "id": "t72y3mhhr4",
+      "originalName": "file.png",
+      "storedName": "t72y3mhhr4.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 234282,
+      "expiresAt": 1775979328576,
+      "url": "https://cdn.miranight.me/api/u/t72y3mhhr4.png",
+      "createdAt": 1775975728576
     }
   },
   "stats": {
-    "uploads": 1294,
+    "uploads": 1295,
     "deleted": 1146,
-    "totalBytes": 309190543
+    "totalBytes": 309424825
   }
 }
