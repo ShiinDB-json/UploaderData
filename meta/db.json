@@ -4443,11 +4443,22 @@
       "expiresAt": 1776005419559,
       "url": "https://cdn.miranight.me/api/u/rt1ur9shjv.png",
       "createdAt": 1776001819559
+    },
+    "ltgybsg95o": {
+      "id": "ltgybsg95o",
+      "originalName": "file.png",
+      "storedName": "ltgybsg95o.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 185344,
+      "expiresAt": 1776005472272,
+      "url": "https://cdn.miranight.me/api/u/ltgybsg95o.png",
+      "createdAt": 1776001872272
     }
   },
   "stats": {
-    "uploads": 1550,
+    "uploads": 1551,
     "deleted": 1146,
-    "totalBytes": 367126992
+    "totalBytes": 367312336
   }
 }
