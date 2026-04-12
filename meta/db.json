@@ -2848,11 +2848,22 @@
       "expiresAt": 1775990572629,
       "url": "https://cdn.miranight.me/api/u/os7k71cdn0.png",
       "createdAt": 1775986972629
+    },
+    "crwcrt4f7d": {
+      "id": "crwcrt4f7d",
+      "originalName": "file.png",
+      "storedName": "crwcrt4f7d.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 43322,
+      "expiresAt": 1775990651818,
+      "url": "https://cdn.miranight.me/api/u/crwcrt4f7d.png",
+      "createdAt": 1775987051818
     }
   },
   "stats": {
-    "uploads": 1405,
+    "uploads": 1406,
     "deleted": 1146,
-    "totalBytes": 334225362
+    "totalBytes": 334268684
   }
 }
