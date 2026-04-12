@@ -4047,11 +4047,22 @@
       "expiresAt": 1776002358169,
       "url": "https://cdn.miranight.me/api/u/mnk4ksc29r.png",
       "createdAt": 1775998758169
+    },
+    "zlt84a4uad": {
+      "id": "zlt84a4uad",
+      "originalName": "file.png",
+      "storedName": "zlt84a4uad.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 281499,
+      "expiresAt": 1776002390653,
+      "url": "https://cdn.miranight.me/api/u/zlt84a4uad.png",
+      "createdAt": 1775998790653
     }
   },
   "stats": {
-    "uploads": 1514,
+    "uploads": 1515,
     "deleted": 1146,
-    "totalBytes": 359313324
+    "totalBytes": 359594823
   }
 }
