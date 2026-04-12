@@ -4355,11 +4355,22 @@
       "expiresAt": 1776004883565,
       "url": "https://cdn.miranight.me/api/u/s1g259fgzl.png",
       "createdAt": 1776001283565
+    },
+    "nx760a5eu8": {
+      "id": "nx760a5eu8",
+      "originalName": "file.png",
+      "storedName": "nx760a5eu8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 185344,
+      "expiresAt": 1776004893118,
+      "url": "https://cdn.miranight.me/api/u/nx760a5eu8.png",
+      "createdAt": 1776001293118
     }
   },
   "stats": {
-    "uploads": 1542,
+    "uploads": 1543,
     "deleted": 1146,
-    "totalBytes": 365682440
+    "totalBytes": 365867784
   }
 }
