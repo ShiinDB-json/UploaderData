@@ -417,11 +417,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/kl7j8y85rv.png",
       "createdAt": 1775886733095
+    },
+    "j0cmeph50v": {
+      "id": "j0cmeph50v",
+      "originalName": "file.jpg",
+      "storedName": "j0cmeph50v.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 58555,
+      "expiresAt": 1775966089458,
+      "url": "https://cdn.miranight.me/api/u/j0cmeph50v.jpg",
+      "createdAt": 1775962489458
     }
   },
   "stats": {
-    "uploads": 1184,
+    "uploads": 1185,
     "deleted": 1146,
-    "totalBytes": 282188724
+    "totalBytes": 282247279
   }
 }
