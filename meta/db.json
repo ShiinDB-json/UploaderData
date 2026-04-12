@@ -2430,11 +2430,22 @@
       "expiresAt": 1775984364593,
       "url": "https://cdn.miranight.me/api/u/bf60aszedv.png",
       "createdAt": 1775980764593
+    },
+    "wewid5quug": {
+      "id": "wewid5quug",
+      "originalName": "file.png",
+      "storedName": "wewid5quug.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 333733,
+      "expiresAt": 1775984369505,
+      "url": "https://cdn.miranight.me/api/u/wewid5quug.png",
+      "createdAt": 1775980769505
     }
   },
   "stats": {
-    "uploads": 1367,
+    "uploads": 1368,
     "deleted": 1146,
-    "totalBytes": 325420967
+    "totalBytes": 325754700
   }
 }
