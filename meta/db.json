@@ -1275,11 +1275,22 @@
       "expiresAt": 1775978675391,
       "url": "https://cdn.miranight.me/api/u/ttek5bgce2.png",
       "createdAt": 1775975075391
+    },
+    "ieshtllo4h": {
+      "id": "ieshtllo4h",
+      "originalName": "file.png",
+      "storedName": "ieshtllo4h.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 392552,
+      "expiresAt": 1775978735275,
+      "url": "https://cdn.miranight.me/api/u/ieshtllo4h.png",
+      "createdAt": 1775975135275
     }
   },
   "stats": {
-    "uploads": 1262,
+    "uploads": 1263,
     "deleted": 1146,
-    "totalBytes": 301296328
+    "totalBytes": 301688880
   }
 }
