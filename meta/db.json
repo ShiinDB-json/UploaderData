@@ -5620,11 +5620,22 @@
       "expiresAt": 1776016830888,
       "url": "https://cdn.miranight.me/api/u/vggav35q4e.png",
       "createdAt": 1776013230888
+    },
+    "aa9nxv094m": {
+      "id": "aa9nxv094m",
+      "originalName": "file.png",
+      "storedName": "aa9nxv094m.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 390686,
+      "expiresAt": 1776017126823,
+      "url": "https://cdn.miranight.me/api/u/aa9nxv094m.png",
+      "createdAt": 1776013526823
     }
   },
   "stats": {
-    "uploads": 1657,
+    "uploads": 1658,
     "deleted": 1146,
-    "totalBytes": 388974134
+    "totalBytes": 389364820
   }
 }
