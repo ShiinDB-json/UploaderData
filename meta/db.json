@@ -725,11 +725,22 @@
       "expiresAt": 1775972610827,
       "url": "https://cdn.miranight.me/api/u/fgmmd4h2dk.png",
       "createdAt": 1775969010828
+    },
+    "lerdnb6brz": {
+      "id": "lerdnb6brz",
+      "originalName": "file.png",
+      "storedName": "lerdnb6brz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 266028,
+      "expiresAt": 1775972619212,
+      "url": "https://cdn.miranight.me/api/u/lerdnb6brz.png",
+      "createdAt": 1775969019212
     }
   },
   "stats": {
-    "uploads": 1212,
+    "uploads": 1213,
     "deleted": 1146,
-    "totalBytes": 289301655
+    "totalBytes": 289567683
   }
 }
