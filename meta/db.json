@@ -879,11 +879,22 @@
       "expiresAt": 1775972867434,
       "url": "https://cdn.miranight.me/api/u/oomnki1s1g.png",
       "createdAt": 1775969267434
+    },
+    "rtry80jopo": {
+      "id": "rtry80jopo",
+      "originalName": "file.png",
+      "storedName": "rtry80jopo.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 184806,
+      "expiresAt": 1775972886611,
+      "url": "https://cdn.miranight.me/api/u/rtry80jopo.png",
+      "createdAt": 1775969286611
     }
   },
   "stats": {
-    "uploads": 1226,
+    "uploads": 1227,
     "deleted": 1146,
-    "totalBytes": 292567014
+    "totalBytes": 292751820
   }
 }
