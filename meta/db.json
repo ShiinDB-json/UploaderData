@@ -5697,11 +5697,22 @@
       "expiresAt": 1776024704087,
       "url": "https://cdn.miranight.me/api/u/661mdg1700.png",
       "createdAt": 1776021104087
+    },
+    "ccxe4ok7nv": {
+      "id": "ccxe4ok7nv",
+      "originalName": "file.png",
+      "storedName": "ccxe4ok7nv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 202575,
+      "expiresAt": 1776028275148,
+      "url": "https://cdn.miranight.me/api/u/ccxe4ok7nv.png",
+      "createdAt": 1776024675148
     }
   },
   "stats": {
-    "uploads": 1664,
+    "uploads": 1665,
     "deleted": 1146,
-    "totalBytes": 390760087
+    "totalBytes": 390962662
   }
 }
