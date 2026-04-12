@@ -5059,11 +5059,22 @@
       "expiresAt": 1776010669338,
       "url": "https://cdn.miranight.me/api/u/xbau08000o.png",
       "createdAt": 1776007069338
+    },
+    "de1ohmv2sn": {
+      "id": "de1ohmv2sn",
+      "originalName": "file.png",
+      "storedName": "de1ohmv2sn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 231136,
+      "expiresAt": 1776010684640,
+      "url": "https://cdn.miranight.me/api/u/de1ohmv2sn.png",
+      "createdAt": 1776007084640
     }
   },
   "stats": {
-    "uploads": 1606,
+    "uploads": 1607,
     "deleted": 1146,
-    "totalBytes": 378553048
+    "totalBytes": 378784184
   }
 }
