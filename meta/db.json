@@ -2419,11 +2419,22 @@
       "expiresAt": 1775984340085,
       "url": "https://cdn.miranight.me/api/u/thy7wyb8zj.png",
       "createdAt": 1775980740085
+    },
+    "bf60aszedv": {
+      "id": "bf60aszedv",
+      "originalName": "file.png",
+      "storedName": "bf60aszedv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 285448,
+      "expiresAt": 1775984364593,
+      "url": "https://cdn.miranight.me/api/u/bf60aszedv.png",
+      "createdAt": 1775980764593
     }
   },
   "stats": {
-    "uploads": 1366,
+    "uploads": 1367,
     "deleted": 1146,
-    "totalBytes": 325135519
+    "totalBytes": 325420967
   }
 }
