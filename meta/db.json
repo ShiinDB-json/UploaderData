@@ -2584,11 +2584,22 @@
       "expiresAt": 1775986044950,
       "url": "https://cdn.miranight.me/api/u/s45a24riga.png",
       "createdAt": 1775982444950
+    },
+    "jikymi6h0e": {
+      "id": "jikymi6h0e",
+      "originalName": "file.png",
+      "storedName": "jikymi6h0e.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 326463,
+      "expiresAt": 1775986061014,
+      "url": "https://cdn.miranight.me/api/u/jikymi6h0e.png",
+      "createdAt": 1775982461014
     }
   },
   "stats": {
-    "uploads": 1381,
+    "uploads": 1382,
     "deleted": 1146,
-    "totalBytes": 328953295
+    "totalBytes": 329279758
   }
 }
