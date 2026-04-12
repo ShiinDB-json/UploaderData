@@ -1187,11 +1187,22 @@
       "expiresAt": 1775978258066,
       "url": "https://cdn.miranight.me/api/u/li713rkygn.png",
       "createdAt": 1775974658066
+    },
+    "ysmy48pov5": {
+      "id": "ysmy48pov5",
+      "originalName": "file.png",
+      "storedName": "ysmy48pov5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 259455,
+      "expiresAt": 1775978361742,
+      "url": "https://cdn.miranight.me/api/u/ysmy48pov5.png",
+      "createdAt": 1775974761742
     }
   },
   "stats": {
-    "uploads": 1254,
+    "uploads": 1255,
     "deleted": 1146,
-    "totalBytes": 299209733
+    "totalBytes": 299469188
   }
 }
