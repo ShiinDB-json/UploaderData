@@ -3497,11 +3497,22 @@
       "expiresAt": 1775997575759,
       "url": "https://cdn.miranight.me/api/u/ift7lm5rqr.png",
       "createdAt": 1775993975759
+    },
+    "n04aumbgvs": {
+      "id": "n04aumbgvs",
+      "originalName": "file.png",
+      "storedName": "n04aumbgvs.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 192900,
+      "expiresAt": 1775997688557,
+      "url": "https://cdn.miranight.me/api/u/n04aumbgvs.png",
+      "createdAt": 1775994088557
     }
   },
   "stats": {
-    "uploads": 1464,
+    "uploads": 1465,
     "deleted": 1146,
-    "totalBytes": 349130766
+    "totalBytes": 349323666
   }
 }
