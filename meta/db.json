@@ -5048,11 +5048,22 @@
       "expiresAt": 1776010668360,
       "url": "https://cdn.miranight.me/api/u/sbw3s4z9jr.png",
       "createdAt": 1776007068360
+    },
+    "xbau08000o": {
+      "id": "xbau08000o",
+      "originalName": "file.png",
+      "storedName": "xbau08000o.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 331453,
+      "expiresAt": 1776010669338,
+      "url": "https://cdn.miranight.me/api/u/xbau08000o.png",
+      "createdAt": 1776007069338
     }
   },
   "stats": {
-    "uploads": 1605,
+    "uploads": 1606,
     "deleted": 1146,
-    "totalBytes": 378221595
+    "totalBytes": 378553048
   }
 }
