@@ -5433,11 +5433,22 @@
       "expiresAt": 1776013407027,
       "url": "https://cdn.miranight.me/api/u/pll0chktwe.png",
       "createdAt": 1776009807027
+    },
+    "npmplbe67u": {
+      "id": "npmplbe67u",
+      "originalName": "file.png",
+      "storedName": "npmplbe67u.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 130539,
+      "expiresAt": 1776013598205,
+      "url": "https://cdn.miranight.me/api/u/npmplbe67u.png",
+      "createdAt": 1776009998205
     }
   },
   "stats": {
-    "uploads": 1640,
+    "uploads": 1641,
     "deleted": 1146,
-    "totalBytes": 384779573
+    "totalBytes": 384910112
   }
 }
