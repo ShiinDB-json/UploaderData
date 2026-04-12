@@ -1506,11 +1506,22 @@
       "expiresAt": 1775979138031,
       "url": "https://cdn.miranight.me/api/u/ossh6jkabc.png",
       "createdAt": 1775975538031
+    },
+    "wx45zwugyz": {
+      "id": "wx45zwugyz",
+      "originalName": "file.png",
+      "storedName": "wx45zwugyz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 333733,
+      "expiresAt": 1775979187297,
+      "url": "https://cdn.miranight.me/api/u/wx45zwugyz.png",
+      "createdAt": 1775975587297
     }
   },
   "stats": {
-    "uploads": 1283,
+    "uploads": 1284,
     "deleted": 1146,
-    "totalBytes": 306400148
+    "totalBytes": 306733881
   }
 }
