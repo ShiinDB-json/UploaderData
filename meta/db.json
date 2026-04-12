@@ -5004,11 +5004,22 @@
       "expiresAt": 1776010610899,
       "url": "https://cdn.miranight.me/api/u/9dxn4zjthl.png",
       "createdAt": 1776007010899
+    },
+    "jz6h1vmmmc": {
+      "id": "jz6h1vmmmc",
+      "originalName": "file.png",
+      "storedName": "jz6h1vmmmc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 213099,
+      "expiresAt": 1776010612562,
+      "url": "https://cdn.miranight.me/api/u/jz6h1vmmmc.png",
+      "createdAt": 1776007012562
     }
   },
   "stats": {
-    "uploads": 1601,
+    "uploads": 1602,
     "deleted": 1146,
-    "totalBytes": 377292169
+    "totalBytes": 377505268
   }
 }
