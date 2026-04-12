@@ -2089,11 +2089,22 @@
       "expiresAt": 1775981578803,
       "url": "https://cdn.miranight.me/api/u/ifslpvyt7y.png",
       "createdAt": 1775977978803
+    },
+    "nyut7fuxvi": {
+      "id": "nyut7fuxvi",
+      "originalName": "file.png",
+      "storedName": "nyut7fuxvi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 200996,
+      "expiresAt": 1775981638993,
+      "url": "https://cdn.miranight.me/api/u/nyut7fuxvi.png",
+      "createdAt": 1775978038993
     }
   },
   "stats": {
-    "uploads": 1336,
+    "uploads": 1337,
     "deleted": 1146,
-    "totalBytes": 318545412
+    "totalBytes": 318746408
   }
 }
