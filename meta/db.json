@@ -1352,11 +1352,22 @@
       "expiresAt": 1775978790646,
       "url": "https://cdn.miranight.me/api/u/bhm7vptjv3.png",
       "createdAt": 1775975190646
+    },
+    "svt90qq94j": {
+      "id": "svt90qq94j",
+      "originalName": "file.png",
+      "storedName": "svt90qq94j.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 287550,
+      "expiresAt": 1775978797848,
+      "url": "https://cdn.miranight.me/api/u/svt90qq94j.png",
+      "createdAt": 1775975197848
     }
   },
   "stats": {
-    "uploads": 1269,
+    "uploads": 1270,
     "deleted": 1146,
-    "totalBytes": 302832697
+    "totalBytes": 303120247
   }
 }
