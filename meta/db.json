@@ -2012,11 +2012,22 @@
       "expiresAt": 1775981258590,
       "url": "https://cdn.miranight.me/api/u/v4azp35w98.png",
       "createdAt": 1775977658590
+    },
+    "nny4p6p38m": {
+      "id": "nny4p6p38m",
+      "originalName": "file.png",
+      "storedName": "nny4p6p38m.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 213778,
+      "expiresAt": 1775981346552,
+      "url": "https://cdn.miranight.me/api/u/nny4p6p38m.png",
+      "createdAt": 1775977746552
     }
   },
   "stats": {
-    "uploads": 1329,
+    "uploads": 1330,
     "deleted": 1146,
-    "totalBytes": 317390841
+    "totalBytes": 317604619
   }
 }
