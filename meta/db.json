@@ -1891,11 +1891,22 @@
       "expiresAt": 1775980418830,
       "url": "https://cdn.miranight.me/api/u/hpz1y4am5r.png",
       "createdAt": 1775976818830
+    },
+    "4fwm80xiod": {
+      "id": "4fwm80xiod",
+      "originalName": "file.png",
+      "storedName": "4fwm80xiod.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 234361,
+      "expiresAt": 1775980464052,
+      "url": "https://cdn.miranight.me/api/u/4fwm80xiod.png",
+      "createdAt": 1775976864052
     }
   },
   "stats": {
-    "uploads": 1318,
+    "uploads": 1319,
     "deleted": 1146,
-    "totalBytes": 315186144
+    "totalBytes": 315420505
   }
 }
