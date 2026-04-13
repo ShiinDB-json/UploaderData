@@ -4201,11 +4201,22 @@
       "expiresAt": 1776087819520,
       "url": "https://cdn.miranight.me/api/u/0fykgi9xii.png",
       "createdAt": 1776084219520
+    },
+    "njtlkipet1": {
+      "id": "njtlkipet1",
+      "originalName": "file.png",
+      "storedName": "njtlkipet1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 209215,
+      "expiresAt": 1776088161655,
+      "url": "https://cdn.miranight.me/api/u/njtlkipet1.png",
+      "createdAt": 1776084561655
     }
   },
   "stats": {
-    "uploads": 2012,
+    "uploads": 2013,
     "deleted": 1630,
-    "totalBytes": 468178433
+    "totalBytes": 468387648
   }
 }
