@@ -1275,11 +1275,22 @@
       "expiresAt": 1776051517287,
       "url": "https://cdn.miranight.me/api/u/jmhlpun0jk.png",
       "createdAt": 1776047917288
+    },
+    "pr660wk5cv": {
+      "id": "pr660wk5cv",
+      "originalName": "file.png",
+      "storedName": "pr660wk5cv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 259455,
+      "expiresAt": 1776051528473,
+      "url": "https://cdn.miranight.me/api/u/pr660wk5cv.png",
+      "createdAt": 1776047928473
     }
   },
   "stats": {
-    "uploads": 1746,
+    "uploads": 1747,
     "deleted": 1630,
-    "totalBytes": 408439381
+    "totalBytes": 408698836
   }
 }
