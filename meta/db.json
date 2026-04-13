@@ -4410,11 +4410,22 @@
       "expiresAt": 1776089631144,
       "url": "https://cdn.miranight.me/api/u/6t3bz06ors.png",
       "createdAt": 1776086031144
+    },
+    "gviem362n9": {
+      "id": "gviem362n9",
+      "originalName": "file.png",
+      "storedName": "gviem362n9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 102883,
+      "expiresAt": 1776089638507,
+      "url": "https://cdn.miranight.me/api/u/gviem362n9.png",
+      "createdAt": 1776086038507
     }
   },
   "stats": {
-    "uploads": 2031,
+    "uploads": 2032,
     "deleted": 1630,
-    "totalBytes": 472919393
+    "totalBytes": 473022276
   }
 }
