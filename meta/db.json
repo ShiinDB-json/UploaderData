@@ -5488,11 +5488,22 @@
       "expiresAt": 1776126399344,
       "url": "https://cdn.miranight.me/api/u/6y6k38cch2.png",
       "createdAt": 1776122799344
+    },
+    "fxwbo77nta": {
+      "id": "fxwbo77nta",
+      "originalName": "file.png",
+      "storedName": "fxwbo77nta.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 319973,
+      "expiresAt": 1776126430859,
+      "url": "https://cdn.miranight.me/api/u/fxwbo77nta.png",
+      "createdAt": 1776122830859
     }
   },
   "stats": {
-    "uploads": 2129,
+    "uploads": 2130,
     "deleted": 1630,
-    "totalBytes": 498461460
+    "totalBytes": 498781433
   }
 }
