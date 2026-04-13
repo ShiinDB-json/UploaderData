@@ -1396,11 +1396,22 @@
       "expiresAt": 1776052125584,
       "url": "https://cdn.miranight.me/api/u/v36aph69j1.png",
       "createdAt": 1776048525584
+    },
+    "uxset3neef": {
+      "id": "uxset3neef",
+      "originalName": "file.png",
+      "storedName": "uxset3neef.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 277442,
+      "expiresAt": 1776052149672,
+      "url": "https://cdn.miranight.me/api/u/uxset3neef.png",
+      "createdAt": 1776048549672
     }
   },
   "stats": {
-    "uploads": 1757,
+    "uploads": 1758,
     "deleted": 1630,
-    "totalBytes": 410771147
+    "totalBytes": 411048589
   }
 }
