@@ -2496,11 +2496,22 @@
       "expiresAt": 1776072660141,
       "url": "https://cdn.miranight.me/api/u/hoxkewuq20.png",
       "createdAt": 1776069060141
+    },
+    "nth53s36us": {
+      "id": "nth53s36us",
+      "originalName": "file.png",
+      "storedName": "nth53s36us.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 396621,
+      "expiresAt": 1776072676081,
+      "url": "https://cdn.miranight.me/api/u/nth53s36us.png",
+      "createdAt": 1776069076081
     }
   },
   "stats": {
-    "uploads": 1857,
+    "uploads": 1858,
     "deleted": 1630,
-    "totalBytes": 431651813
+    "totalBytes": 432048434
   }
 }
