@@ -1902,11 +1902,22 @@
       "expiresAt": 1776065251731,
       "url": "https://cdn.miranight.me/api/u/tvuislgzpo.png",
       "createdAt": 1776061651731
+    },
+    "am80c482xz": {
+      "id": "am80c482xz",
+      "originalName": "file.png",
+      "storedName": "am80c482xz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 314527,
+      "expiresAt": 1776065304926,
+      "url": "https://cdn.miranight.me/api/u/am80c482xz.png",
+      "createdAt": 1776061704926
     }
   },
   "stats": {
-    "uploads": 1803,
+    "uploads": 1804,
     "deleted": 1630,
-    "totalBytes": 421385597
+    "totalBytes": 421700124
   }
 }
