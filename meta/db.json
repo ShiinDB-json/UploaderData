@@ -4366,11 +4366,22 @@
       "expiresAt": 1776088949569,
       "url": "https://cdn.miranight.me/api/u/58x0caqqf9.png",
       "createdAt": 1776085349569
+    },
+    "h6lnfppaai": {
+      "id": "h6lnfppaai",
+      "originalName": "file.png",
+      "storedName": "h6lnfppaai.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 317020,
+      "expiresAt": 1776088994432,
+      "url": "https://cdn.miranight.me/api/u/h6lnfppaai.png",
+      "createdAt": 1776085394432
     }
   },
   "stats": {
-    "uploads": 2027,
+    "uploads": 2028,
     "deleted": 1630,
-    "totalBytes": 471777519
+    "totalBytes": 472094539
   }
 }
