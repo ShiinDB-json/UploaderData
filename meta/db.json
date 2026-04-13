@@ -736,11 +736,22 @@
       "expiresAt": 1776046802330,
       "url": "https://cdn.miranight.me/api/u/bhz8g9rnz1.png",
       "createdAt": 1776043202330
+    },
+    "w7maodteas": {
+      "id": "w7maodteas",
+      "originalName": "file.png",
+      "storedName": "w7maodteas.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 170955,
+      "expiresAt": 1776046858954,
+      "url": "https://cdn.miranight.me/api/u/w7maodteas.png",
+      "createdAt": 1776043258954
     }
   },
   "stats": {
-    "uploads": 1697,
+    "uploads": 1698,
     "deleted": 1630,
-    "totalBytes": 397212362
+    "totalBytes": 397383317
   }
 }
