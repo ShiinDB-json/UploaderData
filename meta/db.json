@@ -2298,11 +2298,22 @@
       "expiresAt": 1776068842096,
       "url": "https://cdn.miranight.me/api/u/m8n1ggxnec.png",
       "createdAt": 1776065242096
+    },
+    "qiife72nfd": {
+      "id": "qiife72nfd",
+      "originalName": "file.png",
+      "storedName": "qiife72nfd.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 128145,
+      "expiresAt": 1776068870977,
+      "url": "https://cdn.miranight.me/api/u/qiife72nfd.png",
+      "createdAt": 1776065270977
     }
   },
   "stats": {
-    "uploads": 1839,
+    "uploads": 1840,
     "deleted": 1630,
-    "totalBytes": 429332790
+    "totalBytes": 429460935
   }
 }
