@@ -3233,11 +3233,22 @@
       "expiresAt": 1776078686260,
       "url": "https://cdn.miranight.me/api/u/f0tsfyr3sx.png",
       "createdAt": 1776075086260
+    },
+    "tlkuu931tt": {
+      "id": "tlkuu931tt",
+      "originalName": "file.png",
+      "storedName": "tlkuu931tt.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 206406,
+      "expiresAt": 1776078700320,
+      "url": "https://cdn.miranight.me/api/u/tlkuu931tt.png",
+      "createdAt": 1776075100320
     }
   },
   "stats": {
-    "uploads": 1924,
+    "uploads": 1925,
     "deleted": 1630,
-    "totalBytes": 448260934
+    "totalBytes": 448467340
   }
 }
