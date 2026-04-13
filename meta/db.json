@@ -780,11 +780,22 @@
       "expiresAt": 1776047019932,
       "url": "https://cdn.miranight.me/api/u/j6bz901m8i.png",
       "createdAt": 1776043419932
+    },
+    "m1q1ticfun": {
+      "id": "m1q1ticfun",
+      "originalName": "file.png",
+      "storedName": "m1q1ticfun.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 304244,
+      "expiresAt": 1776047021600,
+      "url": "https://cdn.miranight.me/api/u/m1q1ticfun.png",
+      "createdAt": 1776043421600
     }
   },
   "stats": {
-    "uploads": 1701,
+    "uploads": 1702,
     "deleted": 1630,
-    "totalBytes": 398158843
+    "totalBytes": 398463087
   }
 }
