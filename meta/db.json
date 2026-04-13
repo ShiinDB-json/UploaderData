@@ -5356,11 +5356,22 @@
       "expiresAt": 1776125793674,
       "url": "https://cdn.miranight.me/api/u/s1kyerjq0f.png",
       "createdAt": 1776122193674
+    },
+    "jfka0004dd": {
+      "id": "jfka0004dd",
+      "originalName": "file.png",
+      "storedName": "jfka0004dd.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 253617,
+      "expiresAt": 1776125799355,
+      "url": "https://cdn.miranight.me/api/u/jfka0004dd.png",
+      "createdAt": 1776122199355
     }
   },
   "stats": {
-    "uploads": 2117,
+    "uploads": 2118,
     "deleted": 1630,
-    "totalBytes": 495480142
+    "totalBytes": 495733759
   }
 }
