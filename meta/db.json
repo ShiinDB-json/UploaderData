@@ -648,11 +648,22 @@
       "expiresAt": 1776044771812,
       "url": "https://cdn.miranight.me/api/u/dq9ccwgrn2.png",
       "createdAt": 1776041171812
+    },
+    "colfuzmq3f": {
+      "id": "colfuzmq3f",
+      "originalName": "file.png",
+      "storedName": "colfuzmq3f.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 170746,
+      "expiresAt": 1776045345402,
+      "url": "https://cdn.miranight.me/api/u/colfuzmq3f.png",
+      "createdAt": 1776041745402
     }
   },
   "stats": {
-    "uploads": 1689,
+    "uploads": 1690,
     "deleted": 1630,
-    "totalBytes": 395556704
+    "totalBytes": 395727450
   }
 }
