@@ -3805,11 +3805,22 @@
       "expiresAt": 1776085513941,
       "url": "https://cdn.miranight.me/api/u/1961dth76e.png",
       "createdAt": 1776081913941
+    },
+    "pqxi1i60ge": {
+      "id": "pqxi1i60ge",
+      "originalName": "file.png",
+      "storedName": "pqxi1i60ge.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 312759,
+      "expiresAt": 1776085906767,
+      "url": "https://cdn.miranight.me/api/u/pqxi1i60ge.png",
+      "createdAt": 1776082306767
     }
   },
   "stats": {
-    "uploads": 1976,
+    "uploads": 1977,
     "deleted": 1630,
-    "totalBytes": 459371718
+    "totalBytes": 459684477
   }
 }
