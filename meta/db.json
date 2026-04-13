@@ -4894,11 +4894,22 @@
       "expiresAt": 1776096933769,
       "url": "https://cdn.miranight.me/api/u/ry6v74r44r.png",
       "createdAt": 1776093333769
+    },
+    "x27qandbt1": {
+      "id": "x27qandbt1",
+      "originalName": "file.png",
+      "storedName": "x27qandbt1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 288324,
+      "expiresAt": 1776097133544,
+      "url": "https://cdn.miranight.me/api/u/x27qandbt1.png",
+      "createdAt": 1776093533544
     }
   },
   "stats": {
-    "uploads": 2075,
+    "uploads": 2076,
     "deleted": 1630,
-    "totalBytes": 483696613
+    "totalBytes": 483984937
   }
 }
