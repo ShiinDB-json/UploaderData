@@ -1253,11 +1253,22 @@
       "expiresAt": 1776051484713,
       "url": "https://cdn.miranight.me/api/u/xofdyh5sjp.png",
       "createdAt": 1776047884713
+    },
+    "ajg06kloly": {
+      "id": "ajg06kloly",
+      "originalName": "file.png",
+      "storedName": "ajg06kloly.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 197715,
+      "expiresAt": 1776051501596,
+      "url": "https://cdn.miranight.me/api/u/ajg06kloly.png",
+      "createdAt": 1776047901596
     }
   },
   "stats": {
-    "uploads": 1744,
+    "uploads": 1745,
     "deleted": 1630,
-    "totalBytes": 407989156
+    "totalBytes": 408186871
   }
 }
