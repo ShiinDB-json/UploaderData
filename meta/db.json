@@ -747,11 +747,22 @@
       "expiresAt": 1776046858954,
       "url": "https://cdn.miranight.me/api/u/w7maodteas.png",
       "createdAt": 1776043258954
+    },
+    "th5yvgneb0": {
+      "id": "th5yvgneb0",
+      "originalName": "file.png",
+      "storedName": "th5yvgneb0.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 245958,
+      "expiresAt": 1776046911528,
+      "url": "https://cdn.miranight.me/api/u/th5yvgneb0.png",
+      "createdAt": 1776043311528
     }
   },
   "stats": {
-    "uploads": 1698,
+    "uploads": 1699,
     "deleted": 1630,
-    "totalBytes": 397383317
+    "totalBytes": 397629275
   }
 }
