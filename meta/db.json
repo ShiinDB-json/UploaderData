@@ -5213,11 +5213,22 @@
       "expiresAt": 1776123525624,
       "url": "https://cdn.miranight.me/api/u/drh668ohs0.png",
       "createdAt": 1776119925624
+    },
+    "nkbv06p2bw": {
+      "id": "nkbv06p2bw",
+      "originalName": "file.png",
+      "storedName": "nkbv06p2bw.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 257821,
+      "expiresAt": 1776123713428,
+      "url": "https://cdn.miranight.me/api/u/nkbv06p2bw.png",
+      "createdAt": 1776120113428
     }
   },
   "stats": {
-    "uploads": 2104,
+    "uploads": 2105,
     "deleted": 1630,
-    "totalBytes": 491843396
+    "totalBytes": 492101217
   }
 }
