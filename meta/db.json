@@ -791,11 +791,22 @@
       "expiresAt": 1776047021600,
       "url": "https://cdn.miranight.me/api/u/m1q1ticfun.png",
       "createdAt": 1776043421600
+    },
+    "dbkdjpucp6": {
+      "id": "dbkdjpucp6",
+      "originalName": "file.png",
+      "storedName": "dbkdjpucp6.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 307861,
+      "expiresAt": 1776047155332,
+      "url": "https://cdn.miranight.me/api/u/dbkdjpucp6.png",
+      "createdAt": 1776043555332
     }
   },
   "stats": {
-    "uploads": 1702,
+    "uploads": 1703,
     "deleted": 1630,
-    "totalBytes": 398463087
+    "totalBytes": 398770948
   }
 }
