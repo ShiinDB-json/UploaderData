@@ -670,11 +670,22 @@
       "expiresAt": 1776045528962,
       "url": "https://cdn.miranight.me/api/u/vjozfvxa1i.png",
       "createdAt": 1776041928962
+    },
+    "xccgep90vo": {
+      "id": "xccgep90vo",
+      "originalName": "file.png",
+      "storedName": "xccgep90vo.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 78890,
+      "expiresAt": 1776045895731,
+      "url": "https://cdn.miranight.me/api/u/xccgep90vo.png",
+      "createdAt": 1776042295731
     }
   },
   "stats": {
-    "uploads": 1691,
+    "uploads": 1692,
     "deleted": 1630,
-    "totalBytes": 395942208
+    "totalBytes": 396021098
   }
 }
