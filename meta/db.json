@@ -2936,11 +2936,22 @@
       "expiresAt": 1776076283940,
       "url": "https://cdn.miranight.me/api/u/w0e9iihgg2.png",
       "createdAt": 1776072683940
+    },
+    "cuuxkg58ig": {
+      "id": "cuuxkg58ig",
+      "originalName": "file.png",
+      "storedName": "cuuxkg58ig.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 372004,
+      "expiresAt": 1776076392216,
+      "url": "https://cdn.miranight.me/api/u/cuuxkg58ig.png",
+      "createdAt": 1776072792216
     }
   },
   "stats": {
-    "uploads": 1897,
+    "uploads": 1898,
     "deleted": 1630,
-    "totalBytes": 440795212
+    "totalBytes": 441167216
   }
 }
