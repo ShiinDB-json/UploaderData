@@ -2078,11 +2078,22 @@
       "expiresAt": 1776067005946,
       "url": "https://cdn.miranight.me/api/u/gimyea670z.png",
       "createdAt": 1776063405946
+    },
+    "oi73kq4kf5": {
+      "id": "oi73kq4kf5",
+      "originalName": "file.png",
+      "storedName": "oi73kq4kf5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 237200,
+      "expiresAt": 1776067013121,
+      "url": "https://cdn.miranight.me/api/u/oi73kq4kf5.png",
+      "createdAt": 1776063413121
     }
   },
   "stats": {
-    "uploads": 1819,
+    "uploads": 1820,
     "deleted": 1630,
-    "totalBytes": 425278615
+    "totalBytes": 425515815
   }
 }
