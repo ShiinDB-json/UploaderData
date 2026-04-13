@@ -2265,11 +2265,22 @@
       "expiresAt": 1776068708206,
       "url": "https://cdn.miranight.me/api/u/vzahmd68t8.png",
       "createdAt": 1776065108206
+    },
+    "vlgvkbn9iv": {
+      "id": "vlgvkbn9iv",
+      "originalName": "file.png",
+      "storedName": "vlgvkbn9iv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 299443,
+      "expiresAt": 1776068761924,
+      "url": "https://cdn.miranight.me/api/u/vlgvkbn9iv.png",
+      "createdAt": 1776065161924
     }
   },
   "stats": {
-    "uploads": 1836,
+    "uploads": 1837,
     "deleted": 1630,
-    "totalBytes": 428476797
+    "totalBytes": 428776240
   }
 }
