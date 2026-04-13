@@ -3563,11 +3563,22 @@
       "expiresAt": 1776083059940,
       "url": "https://cdn.miranight.me/api/u/jwe1nx4mos.png",
       "createdAt": 1776079459940
+    },
+    "73384rabiv": {
+      "id": "73384rabiv",
+      "originalName": "file.png",
+      "storedName": "73384rabiv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 312104,
+      "expiresAt": 1776083200466,
+      "url": "https://cdn.miranight.me/api/u/73384rabiv.png",
+      "createdAt": 1776079600466
     }
   },
   "stats": {
-    "uploads": 1954,
+    "uploads": 1955,
     "deleted": 1630,
-    "totalBytes": 454885285
+    "totalBytes": 455197389
   }
 }
