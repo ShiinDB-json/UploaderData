@@ -626,11 +626,22 @@
       "expiresAt": 1776044418128,
       "url": "https://cdn.miranight.me/api/u/fga36sjo2b.png",
       "createdAt": 1776040818128
+    },
+    "xoarmtxidj": {
+      "id": "xoarmtxidj",
+      "originalName": "file.png",
+      "storedName": "xoarmtxidj.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 190529,
+      "expiresAt": 1776044461015,
+      "url": "https://cdn.miranight.me/api/u/xoarmtxidj.png",
+      "createdAt": 1776040861015
     }
   },
   "stats": {
-    "uploads": 1687,
+    "uploads": 1688,
     "deleted": 1630,
-    "totalBytes": 395084700
+    "totalBytes": 395275229
   }
 }
