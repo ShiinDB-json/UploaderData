@@ -4542,11 +4542,22 @@
       "expiresAt": 1776090520124,
       "url": "https://cdn.miranight.me/api/u/3qw11lzb0o.png",
       "createdAt": 1776086920124
+    },
+    "vav8ics2ww": {
+      "id": "vav8ics2ww",
+      "originalName": "file.png",
+      "storedName": "vav8ics2ww.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 240908,
+      "expiresAt": 1776090540442,
+      "url": "https://cdn.miranight.me/api/u/vav8ics2ww.png",
+      "createdAt": 1776086940442
     }
   },
   "stats": {
-    "uploads": 2043,
+    "uploads": 2044,
     "deleted": 1630,
-    "totalBytes": 475962413
+    "totalBytes": 476203321
   }
 }
