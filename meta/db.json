@@ -3629,11 +3629,22 @@
       "expiresAt": 1776084044109,
       "url": "https://cdn.miranight.me/api/u/d7n75l94nh.png",
       "createdAt": 1776080444109
+    },
+    "pxvkjpivib": {
+      "id": "pxvkjpivib",
+      "originalName": "file.png",
+      "storedName": "pxvkjpivib.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 296963,
+      "expiresAt": 1776084132388,
+      "url": "https://cdn.miranight.me/api/u/pxvkjpivib.png",
+      "createdAt": 1776080532388
     }
   },
   "stats": {
-    "uploads": 1960,
+    "uploads": 1961,
     "deleted": 1630,
-    "totalBytes": 456008925
+    "totalBytes": 456305888
   }
 }
