@@ -3981,11 +3981,22 @@
       "expiresAt": 1776087321846,
       "url": "https://cdn.miranight.me/api/u/idh0bldfrp.png",
       "createdAt": 1776083721846
+    },
+    "sf2bquarll": {
+      "id": "sf2bquarll",
+      "originalName": "file.png",
+      "storedName": "sf2bquarll.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 224047,
+      "expiresAt": 1776087358260,
+      "url": "https://cdn.miranight.me/api/u/sf2bquarll.png",
+      "createdAt": 1776083758260
     }
   },
   "stats": {
-    "uploads": 1992,
+    "uploads": 1993,
     "deleted": 1630,
-    "totalBytes": 463985591
+    "totalBytes": 464209638
   }
 }
