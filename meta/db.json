@@ -4685,11 +4685,22 @@
       "expiresAt": 1776093022456,
       "url": "https://cdn.miranight.me/api/u/weebnawbkf.png",
       "createdAt": 1776089422456
+    },
+    "kysnt13dmv": {
+      "id": "kysnt13dmv",
+      "originalName": "file.png",
+      "storedName": "kysnt13dmv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 290003,
+      "expiresAt": 1776093141451,
+      "url": "https://cdn.miranight.me/api/u/kysnt13dmv.png",
+      "createdAt": 1776089541452
     }
   },
   "stats": {
-    "uploads": 2056,
+    "uploads": 2057,
     "deleted": 1630,
-    "totalBytes": 479667266
+    "totalBytes": 479957269
   }
 }
