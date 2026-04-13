@@ -1803,11 +1803,22 @@
       "expiresAt": 1776062402217,
       "url": "https://cdn.miranight.me/api/u/ndltayy4ne.png",
       "createdAt": 1776058802217
+    },
+    "m3v04smnob": {
+      "id": "m3v04smnob",
+      "originalName": "file.png",
+      "storedName": "m3v04smnob.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 291264,
+      "expiresAt": 1776062542177,
+      "url": "https://cdn.miranight.me/api/u/m3v04smnob.png",
+      "createdAt": 1776058942177
     }
   },
   "stats": {
-    "uploads": 1794,
+    "uploads": 1795,
     "deleted": 1630,
-    "totalBytes": 419182240
+    "totalBytes": 419473504
   }
 }
