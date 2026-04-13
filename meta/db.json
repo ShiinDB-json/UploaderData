@@ -2507,11 +2507,22 @@
       "expiresAt": 1776072676081,
       "url": "https://cdn.miranight.me/api/u/nth53s36us.png",
       "createdAt": 1776069076081
+    },
+    "vclrks81zf": {
+      "id": "vclrks81zf",
+      "originalName": "file.png",
+      "storedName": "vclrks81zf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 102883,
+      "expiresAt": 1776072683249,
+      "url": "https://cdn.miranight.me/api/u/vclrks81zf.png",
+      "createdAt": 1776069083249
     }
   },
   "stats": {
-    "uploads": 1858,
+    "uploads": 1859,
     "deleted": 1630,
-    "totalBytes": 432048434
+    "totalBytes": 432151317
   }
 }
