@@ -1308,11 +1308,22 @@
       "expiresAt": 1776051560311,
       "url": "https://cdn.miranight.me/api/u/l0n9w98hlz.png",
       "createdAt": 1776047960311
+    },
+    "zrg25mkyph": {
+      "id": "zrg25mkyph",
+      "originalName": "file.png",
+      "storedName": "zrg25mkyph.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 300935,
+      "expiresAt": 1776051611404,
+      "url": "https://cdn.miranight.me/api/u/zrg25mkyph.png",
+      "createdAt": 1776048011404
     }
   },
   "stats": {
-    "uploads": 1749,
+    "uploads": 1750,
     "deleted": 1630,
-    "totalBytes": 409241750
+    "totalBytes": 409542685
   }
 }
