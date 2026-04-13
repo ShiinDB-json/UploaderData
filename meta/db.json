@@ -5202,11 +5202,22 @@
       "expiresAt": 1776121505150,
       "url": "https://cdn.miranight.me/api/u/bi2u8s5n9k.png",
       "createdAt": 1776117905150
+    },
+    "drh668ohs0": {
+      "id": "drh668ohs0",
+      "originalName": "file.png",
+      "storedName": "drh668ohs0.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 271127,
+      "expiresAt": 1776123525624,
+      "url": "https://cdn.miranight.me/api/u/drh668ohs0.png",
+      "createdAt": 1776119925624
     }
   },
   "stats": {
-    "uploads": 2103,
+    "uploads": 2104,
     "deleted": 1630,
-    "totalBytes": 491572269
+    "totalBytes": 491843396
   }
 }
