@@ -4047,11 +4047,22 @@
       "expiresAt": 1776087455172,
       "url": "https://cdn.miranight.me/api/u/zpvng7mwoi.png",
       "createdAt": 1776083855172
+    },
+    "hppo66ira0": {
+      "id": "hppo66ira0",
+      "originalName": "file.png",
+      "storedName": "hppo66ira0.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 366374,
+      "expiresAt": 1776087468907,
+      "url": "https://cdn.miranight.me/api/u/hppo66ira0.png",
+      "createdAt": 1776083868907
     }
   },
   "stats": {
-    "uploads": 1998,
+    "uploads": 1999,
     "deleted": 1630,
-    "totalBytes": 465561971
+    "totalBytes": 465928345
   }
 }
