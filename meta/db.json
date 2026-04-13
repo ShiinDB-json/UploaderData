@@ -1990,11 +1990,22 @@
       "expiresAt": 1776066532759,
       "url": "https://cdn.miranight.me/api/u/8gkjp1l9wb.png",
       "createdAt": 1776062932759
+    },
+    "9tbedbabma": {
+      "id": "9tbedbabma",
+      "originalName": "file.png",
+      "storedName": "9tbedbabma.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 128619,
+      "expiresAt": 1776066597445,
+      "url": "https://cdn.miranight.me/api/u/9tbedbabma.png",
+      "createdAt": 1776062997445
     }
   },
   "stats": {
-    "uploads": 1811,
+    "uploads": 1812,
     "deleted": 1630,
-    "totalBytes": 423597865
+    "totalBytes": 423726484
   }
 }
