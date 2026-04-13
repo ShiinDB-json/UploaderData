@@ -1154,11 +1154,22 @@
       "expiresAt": 1776050184931,
       "url": "https://cdn.miranight.me/api/u/odxof07by5.png",
       "createdAt": 1776046584931
+    },
+    "o3x5cmcydi": {
+      "id": "o3x5cmcydi",
+      "originalName": "file.png",
+      "storedName": "o3x5cmcydi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 287550,
+      "expiresAt": 1776050221225,
+      "url": "https://cdn.miranight.me/api/u/o3x5cmcydi.png",
+      "createdAt": 1776046621225
     }
   },
   "stats": {
-    "uploads": 1735,
+    "uploads": 1736,
     "deleted": 1630,
-    "totalBytes": 405866675
+    "totalBytes": 406154225
   }
 }
