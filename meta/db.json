@@ -5268,11 +5268,22 @@
       "expiresAt": 1776124235077,
       "url": "https://cdn.miranight.me/api/u/lkrj22e95f.png",
       "createdAt": 1776120635077
+    },
+    "tm68gm50g9": {
+      "id": "tm68gm50g9",
+      "originalName": "file.png",
+      "storedName": "tm68gm50g9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 298001,
+      "expiresAt": 1776124415175,
+      "url": "https://cdn.miranight.me/api/u/tm68gm50g9.png",
+      "createdAt": 1776120815175
     }
   },
   "stats": {
-    "uploads": 2109,
+    "uploads": 2110,
     "deleted": 1630,
-    "totalBytes": 493110146
+    "totalBytes": 493408147
   }
 }
