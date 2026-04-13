@@ -5092,11 +5092,22 @@
       "expiresAt": 1776114608393,
       "url": "https://cdn.miranight.me/api/u/vadqubv7fm.png",
       "createdAt": 1776111008393
+    },
+    "fp86a6orfz": {
+      "id": "fp86a6orfz",
+      "originalName": "file.png",
+      "storedName": "fp86a6orfz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 396621,
+      "expiresAt": 1776114963540,
+      "url": "https://cdn.miranight.me/api/u/fp86a6orfz.png",
+      "createdAt": 1776111363540
     }
   },
   "stats": {
-    "uploads": 2093,
+    "uploads": 2094,
     "deleted": 1630,
-    "totalBytes": 488590982
+    "totalBytes": 488987603
   }
 }
