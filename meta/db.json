@@ -1099,11 +1099,22 @@
       "expiresAt": 1776049702846,
       "url": "https://cdn.miranight.me/api/u/teek16i79c.png",
       "createdAt": 1776046102846
+    },
+    "t5op4mgg0c": {
+      "id": "t5op4mgg0c",
+      "originalName": "file.png",
+      "storedName": "t5op4mgg0c.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 275699,
+      "expiresAt": 1776049908224,
+      "url": "https://cdn.miranight.me/api/u/t5op4mgg0c.png",
+      "createdAt": 1776046308224
     }
   },
   "stats": {
-    "uploads": 1730,
+    "uploads": 1731,
     "deleted": 1630,
-    "totalBytes": 404743432
+    "totalBytes": 405019131
   }
 }
