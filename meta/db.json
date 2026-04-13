@@ -2870,11 +2870,22 @@
       "expiresAt": 1776074681919,
       "url": "https://cdn.miranight.me/api/u/3vo2mq9ewa.png",
       "createdAt": 1776071081919
+    },
+    "ip058q4nic": {
+      "id": "ip058q4nic",
+      "originalName": "file.png",
+      "storedName": "ip058q4nic.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 170955,
+      "expiresAt": 1776075010489,
+      "url": "https://cdn.miranight.me/api/u/ip058q4nic.png",
+      "createdAt": 1776071410489
     }
   },
   "stats": {
-    "uploads": 1891,
+    "uploads": 1892,
     "deleted": 1630,
-    "totalBytes": 439315967
+    "totalBytes": 439486922
   }
 }
