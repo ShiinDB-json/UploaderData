@@ -2254,11 +2254,22 @@
       "expiresAt": 1776068563744,
       "url": "https://cdn.miranight.me/api/u/z3o1svt9vs.png",
       "createdAt": 1776064963744
+    },
+    "vzahmd68t8": {
+      "id": "vzahmd68t8",
+      "originalName": "file.png",
+      "storedName": "vzahmd68t8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 300402,
+      "expiresAt": 1776068708206,
+      "url": "https://cdn.miranight.me/api/u/vzahmd68t8.png",
+      "createdAt": 1776065108206
     }
   },
   "stats": {
-    "uploads": 1835,
+    "uploads": 1836,
     "deleted": 1630,
-    "totalBytes": 428176395
+    "totalBytes": 428476797
   }
 }
