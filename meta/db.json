@@ -3112,11 +3112,22 @@
       "expiresAt": 1776077586771,
       "url": "https://cdn.miranight.me/api/u/new3mfntvw.png",
       "createdAt": 1776073986771
+    },
+    "iwhx9i2dzh": {
+      "id": "iwhx9i2dzh",
+      "originalName": "file.png",
+      "storedName": "iwhx9i2dzh.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 452763,
+      "expiresAt": 1776077699101,
+      "url": "https://cdn.miranight.me/api/u/iwhx9i2dzh.png",
+      "createdAt": 1776074099101
     }
   },
   "stats": {
-    "uploads": 1913,
+    "uploads": 1914,
     "deleted": 1630,
-    "totalBytes": 444987290
+    "totalBytes": 445440053
   }
 }
