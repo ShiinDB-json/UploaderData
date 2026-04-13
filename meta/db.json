@@ -3750,11 +3750,22 @@
       "expiresAt": 1776085207355,
       "url": "https://cdn.miranight.me/api/u/eae58kmzra.png",
       "createdAt": 1776081607355
+    },
+    "j8912ms38i": {
+      "id": "j8912ms38i",
+      "originalName": "file.png",
+      "storedName": "j8912ms38i.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 37026,
+      "expiresAt": 1776085390299,
+      "url": "https://cdn.miranight.me/api/u/j8912ms38i.png",
+      "createdAt": 1776081790299
     }
   },
   "stats": {
-    "uploads": 1971,
+    "uploads": 1972,
     "deleted": 1630,
-    "totalBytes": 458809145
+    "totalBytes": 458846171
   }
 }
