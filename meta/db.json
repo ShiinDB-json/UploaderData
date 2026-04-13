@@ -681,11 +681,22 @@
       "expiresAt": 1776045895731,
       "url": "https://cdn.miranight.me/api/u/xccgep90vo.png",
       "createdAt": 1776042295731
+    },
+    "5120ikv3ug": {
+      "id": "5120ikv3ug",
+      "originalName": "file.png",
+      "storedName": "5120ikv3ug.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 260090,
+      "expiresAt": 1776046431246,
+      "url": "https://cdn.miranight.me/api/u/5120ikv3ug.png",
+      "createdAt": 1776042831246
     }
   },
   "stats": {
-    "uploads": 1692,
+    "uploads": 1693,
     "deleted": 1630,
-    "totalBytes": 396021098
+    "totalBytes": 396281188
   }
 }
