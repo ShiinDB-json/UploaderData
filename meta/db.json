@@ -2815,11 +2815,22 @@
       "expiresAt": 1776074338884,
       "url": "https://cdn.miranight.me/api/u/dn7tcch14u.png",
       "createdAt": 1776070738884
+    },
+    "sk5iushajj": {
+      "id": "sk5iushajj",
+      "originalName": "file.png",
+      "storedName": "sk5iushajj.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 102883,
+      "expiresAt": 1776074366228,
+      "url": "https://cdn.miranight.me/api/u/sk5iushajj.png",
+      "createdAt": 1776070766228
     }
   },
   "stats": {
-    "uploads": 1886,
+    "uploads": 1887,
     "deleted": 1630,
-    "totalBytes": 438409152
+    "totalBytes": 438512035
   }
 }
