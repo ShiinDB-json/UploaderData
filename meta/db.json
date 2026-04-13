@@ -3013,11 +3013,22 @@
       "expiresAt": 1776076685801,
       "url": "https://cdn.miranight.me/api/u/ynuxwoznl8.png",
       "createdAt": 1776073085801
+    },
+    "pb33ymzf7b": {
+      "id": "pb33ymzf7b",
+      "originalName": "file.png",
+      "storedName": "pb33ymzf7b.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 170282,
+      "expiresAt": 1776077138869,
+      "url": "https://cdn.miranight.me/api/u/pb33ymzf7b.png",
+      "createdAt": 1776073538869
     }
   },
   "stats": {
-    "uploads": 1904,
+    "uploads": 1905,
     "deleted": 1630,
-    "totalBytes": 442717999
+    "totalBytes": 442888281
   }
 }
