@@ -2320,11 +2320,22 @@
       "expiresAt": 1776068913735,
       "url": "https://cdn.miranight.me/api/u/no99aolfzf.png",
       "createdAt": 1776065313735
+    },
+    "kd15di2hic": {
+      "id": "kd15di2hic",
+      "originalName": "file.png",
+      "storedName": "kd15di2hic.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 106268,
+      "expiresAt": 1776069177777,
+      "url": "https://cdn.miranight.me/api/u/kd15di2hic.png",
+      "createdAt": 1776065577777
     }
   },
   "stats": {
-    "uploads": 1841,
+    "uploads": 1842,
     "deleted": 1630,
-    "totalBytes": 429761337
+    "totalBytes": 429867605
   }
 }
