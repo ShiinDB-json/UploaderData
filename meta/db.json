@@ -2540,11 +2540,22 @@
       "expiresAt": 1776072726958,
       "url": "https://cdn.miranight.me/api/u/hqacgqvynn.png",
       "createdAt": 1776069126958
+    },
+    "inpsay2ber": {
+      "id": "inpsay2ber",
+      "originalName": "file.png",
+      "storedName": "inpsay2ber.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 396621,
+      "expiresAt": 1776072816937,
+      "url": "https://cdn.miranight.me/api/u/inpsay2ber.png",
+      "createdAt": 1776069216937
     }
   },
   "stats": {
-    "uploads": 1861,
+    "uploads": 1862,
     "deleted": 1630,
-    "totalBytes": 432619157
+    "totalBytes": 433015778
   }
 }
