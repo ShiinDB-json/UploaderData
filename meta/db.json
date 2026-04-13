@@ -5576,11 +5576,22 @@
       "expiresAt": 1776126808234,
       "url": "https://cdn.miranight.me/api/u/ajqw3r7sna.png",
       "createdAt": 1776123208234
+    },
+    "xeniy92ldo": {
+      "id": "xeniy92ldo",
+      "originalName": "file.png",
+      "storedName": "xeniy92ldo.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 256209,
+      "expiresAt": 1776126932432,
+      "url": "https://cdn.miranight.me/api/u/xeniy92ldo.png",
+      "createdAt": 1776123332432
     }
   },
   "stats": {
-    "uploads": 2137,
+    "uploads": 2138,
     "deleted": 1630,
-    "totalBytes": 500366625
+    "totalBytes": 500622834
   }
 }
