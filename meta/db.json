@@ -4036,11 +4036,22 @@
       "expiresAt": 1776087452389,
       "url": "https://cdn.miranight.me/api/u/j7cbxqyztj.png",
       "createdAt": 1776083852389
+    },
+    "zpvng7mwoi": {
+      "id": "zpvng7mwoi",
+      "originalName": "file.png",
+      "storedName": "zpvng7mwoi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 238547,
+      "expiresAt": 1776087455172,
+      "url": "https://cdn.miranight.me/api/u/zpvng7mwoi.png",
+      "createdAt": 1776083855172
     }
   },
   "stats": {
-    "uploads": 1997,
+    "uploads": 1998,
     "deleted": 1630,
-    "totalBytes": 465323424
+    "totalBytes": 465561971
   }
 }
