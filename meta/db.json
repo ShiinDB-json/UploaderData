@@ -4927,11 +4927,22 @@
       "expiresAt": 1776097517068,
       "url": "https://cdn.miranight.me/api/u/4jzghxsuex.png",
       "createdAt": 1776093917068
+    },
+    "6s0uocgyns": {
+      "id": "6s0uocgyns",
+      "originalName": "file.png",
+      "storedName": "6s0uocgyns.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 243107,
+      "expiresAt": 1776097651498,
+      "url": "https://cdn.miranight.me/api/u/6s0uocgyns.png",
+      "createdAt": 1776094051498
     }
   },
   "stats": {
-    "uploads": 2078,
+    "uploads": 2079,
     "deleted": 1630,
-    "totalBytes": 484545327
+    "totalBytes": 484788434
   }
 }
