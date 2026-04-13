@@ -1330,11 +1330,22 @@
       "expiresAt": 1776051677865,
       "url": "https://cdn.miranight.me/api/u/7qq73f6qd9.png",
       "createdAt": 1776048077865
+    },
+    "rakl3ei135": {
+      "id": "rakl3ei135",
+      "originalName": "file.png",
+      "storedName": "rakl3ei135.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 201177,
+      "expiresAt": 1776051755798,
+      "url": "https://cdn.miranight.me/api/u/rakl3ei135.png",
+      "createdAt": 1776048155798
     }
   },
   "stats": {
-    "uploads": 1751,
+    "uploads": 1752,
     "deleted": 1630,
-    "totalBytes": 409666468
+    "totalBytes": 409867645
   }
 }
