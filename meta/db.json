@@ -1891,11 +1891,22 @@
       "expiresAt": 1776065135137,
       "url": "https://cdn.miranight.me/api/u/pux2fbvkah.png",
       "createdAt": 1776061535137
+    },
+    "tvuislgzpo": {
+      "id": "tvuislgzpo",
+      "originalName": "file.png",
+      "storedName": "tvuislgzpo.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 443975,
+      "expiresAt": 1776065251731,
+      "url": "https://cdn.miranight.me/api/u/tvuislgzpo.png",
+      "createdAt": 1776061651731
     }
   },
   "stats": {
-    "uploads": 1802,
+    "uploads": 1803,
     "deleted": 1630,
-    "totalBytes": 420941622
+    "totalBytes": 421385597
   }
 }
