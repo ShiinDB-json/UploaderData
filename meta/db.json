@@ -3761,11 +3761,22 @@
       "expiresAt": 1776085390299,
       "url": "https://cdn.miranight.me/api/u/j8912ms38i.png",
       "createdAt": 1776081790299
+    },
+    "ci97i8htgh": {
+      "id": "ci97i8htgh",
+      "originalName": "file.png",
+      "storedName": "ci97i8htgh.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 37026,
+      "expiresAt": 1776085402227,
+      "url": "https://cdn.miranight.me/api/u/ci97i8htgh.png",
+      "createdAt": 1776081802227
     }
   },
   "stats": {
-    "uploads": 1972,
+    "uploads": 1973,
     "deleted": 1630,
-    "totalBytes": 458846171
+    "totalBytes": 458883197
   }
 }
