@@ -2485,11 +2485,22 @@
       "expiresAt": 1776072535609,
       "url": "https://cdn.miranight.me/api/u/m5jbk55fgv.png",
       "createdAt": 1776068935609
+    },
+    "hoxkewuq20": {
+      "id": "hoxkewuq20",
+      "originalName": "file.png",
+      "storedName": "hoxkewuq20.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 102883,
+      "expiresAt": 1776072660141,
+      "url": "https://cdn.miranight.me/api/u/hoxkewuq20.png",
+      "createdAt": 1776069060141
     }
   },
   "stats": {
-    "uploads": 1856,
+    "uploads": 1857,
     "deleted": 1630,
-    "totalBytes": 431548930
+    "totalBytes": 431651813
   }
 }
