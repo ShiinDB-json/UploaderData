@@ -2903,11 +2903,22 @@
       "expiresAt": 1776075331647,
       "url": "https://cdn.miranight.me/api/u/rz8gz3129i.png",
       "createdAt": 1776071731647
+    },
+    "tkm9721kf1": {
+      "id": "tkm9721kf1",
+      "originalName": "file.png",
+      "storedName": "tkm9721kf1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 256209,
+      "expiresAt": 1776075357193,
+      "url": "https://cdn.miranight.me/api/u/tkm9721kf1.png",
+      "createdAt": 1776071757193
     }
   },
   "stats": {
-    "uploads": 1894,
+    "uploads": 1895,
     "deleted": 1630,
-    "totalBytes": 439909940
+    "totalBytes": 440166149
   }
 }
