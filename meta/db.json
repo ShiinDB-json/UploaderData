@@ -3849,11 +3849,22 @@
       "expiresAt": 1776086461696,
       "url": "https://cdn.miranight.me/api/u/5esom130jw.png",
       "createdAt": 1776082861696
+    },
+    "fs3bpy7hrh": {
+      "id": "fs3bpy7hrh",
+      "originalName": "file.png",
+      "storedName": "fs3bpy7hrh.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 298001,
+      "expiresAt": 1776086475408,
+      "url": "https://cdn.miranight.me/api/u/fs3bpy7hrh.png",
+      "createdAt": 1776082875408
     }
   },
   "stats": {
-    "uploads": 1980,
+    "uploads": 1981,
     "deleted": 1630,
-    "totalBytes": 460357169
+    "totalBytes": 460655170
   }
 }
