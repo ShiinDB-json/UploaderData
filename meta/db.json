@@ -1077,11 +1077,22 @@
       "expiresAt": 1776049335229,
       "url": "https://cdn.miranight.me/api/u/qz7n0aato2.png",
       "createdAt": 1776045735229
+    },
+    "wim2xm0nus": {
+      "id": "wim2xm0nus",
+      "originalName": "file.png",
+      "storedName": "wim2xm0nus.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 246656,
+      "expiresAt": 1776049392366,
+      "url": "https://cdn.miranight.me/api/u/wim2xm0nus.png",
+      "createdAt": 1776045792366
     }
   },
   "stats": {
-    "uploads": 1728,
+    "uploads": 1729,
     "deleted": 1630,
-    "totalBytes": 404209226
+    "totalBytes": 404455882
   }
 }
