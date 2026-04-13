@@ -2991,11 +2991,22 @@
       "expiresAt": 1776076676646,
       "url": "https://cdn.miranight.me/api/u/1u3nykrmro.png",
       "createdAt": 1776073076646
+    },
+    "ljvr151u79": {
+      "id": "ljvr151u79",
+      "originalName": "file.png",
+      "storedName": "ljvr151u79.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 333733,
+      "expiresAt": 1776076682349,
+      "url": "https://cdn.miranight.me/api/u/ljvr151u79.png",
+      "createdAt": 1776073082349
     }
   },
   "stats": {
-    "uploads": 1902,
+    "uploads": 1903,
     "deleted": 1630,
-    "totalBytes": 442265286
+    "totalBytes": 442599019
   }
 }
