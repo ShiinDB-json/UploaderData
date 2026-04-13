@@ -4344,11 +4344,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/yk3sxvczmg.jpg",
       "createdAt": 1776085293712
+    },
+    "fcnvbjobhi": {
+      "id": "fcnvbjobhi",
+      "originalName": "file.png",
+      "storedName": "fcnvbjobhi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 102883,
+      "expiresAt": 1776088934952,
+      "url": "https://cdn.miranight.me/api/u/fcnvbjobhi.png",
+      "createdAt": 1776085334952
     }
   },
   "stats": {
-    "uploads": 2025,
+    "uploads": 2026,
     "deleted": 1630,
-    "totalBytes": 471364192
+    "totalBytes": 471467075
   }
 }
