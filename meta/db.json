@@ -3288,11 +3288,22 @@
       "expiresAt": 1776078958832,
       "url": "https://cdn.miranight.me/api/u/poes0my6as.png",
       "createdAt": 1776075358832
+    },
+    "jo4ebfip65": {
+      "id": "jo4ebfip65",
+      "originalName": "file.png",
+      "storedName": "jo4ebfip65.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 225018,
+      "expiresAt": 1776078995044,
+      "url": "https://cdn.miranight.me/api/u/jo4ebfip65.png",
+      "createdAt": 1776075395044
     }
   },
   "stats": {
-    "uploads": 1929,
+    "uploads": 1930,
     "deleted": 1630,
-    "totalBytes": 449488146
+    "totalBytes": 449713164
   }
 }
