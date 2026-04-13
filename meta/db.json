@@ -5411,11 +5411,22 @@
       "expiresAt": 1776125957015,
       "url": "https://cdn.miranight.me/api/u/fmgzgwb1p5.png",
       "createdAt": 1776122357015
+    },
+    "cfdyxx7uic": {
+      "id": "cfdyxx7uic",
+      "originalName": "file.png",
+      "storedName": "cfdyxx7uic.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 275335,
+      "expiresAt": 1776125973176,
+      "url": "https://cdn.miranight.me/api/u/cfdyxx7uic.png",
+      "createdAt": 1776122373176
     }
   },
   "stats": {
-    "uploads": 2122,
+    "uploads": 2123,
     "deleted": 1630,
-    "totalBytes": 496681346
+    "totalBytes": 496956681
   }
 }
