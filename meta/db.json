@@ -3046,11 +3046,22 @@
       "expiresAt": 1776077359475,
       "url": "https://cdn.miranight.me/api/u/uk4uwjcesp.png",
       "createdAt": 1776073759475
+    },
+    "cfpcypn8pi": {
+      "id": "cfpcypn8pi",
+      "originalName": "file.png",
+      "storedName": "cfpcypn8pi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 267197,
+      "expiresAt": 1776077361432,
+      "url": "https://cdn.miranight.me/api/u/cfpcypn8pi.png",
+      "createdAt": 1776073761432
     }
   },
   "stats": {
-    "uploads": 1907,
+    "uploads": 1908,
     "deleted": 1630,
-    "totalBytes": 443390371
+    "totalBytes": 443657568
   }
 }
