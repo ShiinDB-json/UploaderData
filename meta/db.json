@@ -4135,11 +4135,22 @@
       "expiresAt": 1776087635510,
       "url": "https://cdn.miranight.me/api/u/t4e9ddcja6.png",
       "createdAt": 1776084035510
+    },
+    "udjp59l4pr": {
+      "id": "udjp59l4pr",
+      "originalName": "file.png",
+      "storedName": "udjp59l4pr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 238547,
+      "expiresAt": 1776087661249,
+      "url": "https://cdn.miranight.me/api/u/udjp59l4pr.png",
+      "createdAt": 1776084061249
     }
   },
   "stats": {
-    "uploads": 2006,
+    "uploads": 2007,
     "deleted": 1630,
-    "totalBytes": 466859960
+    "totalBytes": 467098507
   }
 }
