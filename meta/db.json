@@ -2023,11 +2023,22 @@
       "expiresAt": 1776066896643,
       "url": "https://cdn.miranight.me/api/u/s7o5dbghm4.png",
       "createdAt": 1776063296643
+    },
+    "i4bunsbe4g": {
+      "id": "i4bunsbe4g",
+      "originalName": "file.png",
+      "storedName": "i4bunsbe4g.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 102883,
+      "expiresAt": 1776066901207,
+      "url": "https://cdn.miranight.me/api/u/i4bunsbe4g.png",
+      "createdAt": 1776063301207
     }
   },
   "stats": {
-    "uploads": 1814,
+    "uploads": 1815,
     "deleted": 1630,
-    "totalBytes": 424080446
+    "totalBytes": 424183329
   }
 }
