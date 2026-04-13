@@ -2430,11 +2430,22 @@
       "expiresAt": 1776072340958,
       "url": "https://cdn.miranight.me/api/u/za53oqfwes.png",
       "createdAt": 1776068740958
+    },
+    "ciin4ws84d": {
+      "id": "ciin4ws84d",
+      "originalName": "file.png",
+      "storedName": "ciin4ws84d.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 33424,
+      "expiresAt": 1776072355770,
+      "url": "https://cdn.miranight.me/api/u/ciin4ws84d.png",
+      "createdAt": 1776068755770
     }
   },
   "stats": {
-    "uploads": 1851,
+    "uploads": 1852,
     "deleted": 1630,
-    "totalBytes": 430805508
+    "totalBytes": 430838932
   }
 }
