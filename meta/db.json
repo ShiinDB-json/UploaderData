@@ -1165,11 +1165,22 @@
       "expiresAt": 1776050221225,
       "url": "https://cdn.miranight.me/api/u/o3x5cmcydi.png",
       "createdAt": 1776046621225
+    },
+    "kvb0423tgn": {
+      "id": "kvb0423tgn",
+      "originalName": "file.png",
+      "storedName": "kvb0423tgn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 250285,
+      "expiresAt": 1776050359265,
+      "url": "https://cdn.miranight.me/api/u/kvb0423tgn.png",
+      "createdAt": 1776046759265
     }
   },
   "stats": {
-    "uploads": 1736,
+    "uploads": 1737,
     "deleted": 1630,
-    "totalBytes": 406154225
+    "totalBytes": 406404510
   }
 }
