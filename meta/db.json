@@ -3310,11 +3310,22 @@
       "expiresAt": 1776079334562,
       "url": "https://cdn.miranight.me/api/u/jsnrkoliba.png",
       "createdAt": 1776075734562
+    },
+    "p5b0hhmy8h": {
+      "id": "p5b0hhmy8h",
+      "originalName": "file.png",
+      "storedName": "p5b0hhmy8h.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 282029,
+      "expiresAt": 1776079367756,
+      "url": "https://cdn.miranight.me/api/u/p5b0hhmy8h.png",
+      "createdAt": 1776075767756
     }
   },
   "stats": {
-    "uploads": 1931,
+    "uploads": 1932,
     "deleted": 1630,
-    "totalBytes": 449995193
+    "totalBytes": 450277222
   }
 }
