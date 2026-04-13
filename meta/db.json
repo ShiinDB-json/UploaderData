@@ -4575,11 +4575,22 @@
       "expiresAt": 1776091025168,
       "url": "https://cdn.miranight.me/api/u/lbk3lbtk2p.png",
       "createdAt": 1776087425168
+    },
+    "mwlkzotga1": {
+      "id": "mwlkzotga1",
+      "originalName": "file.png",
+      "storedName": "mwlkzotga1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 282134,
+      "expiresAt": 1776091182685,
+      "url": "https://cdn.miranight.me/api/u/mwlkzotga1.png",
+      "createdAt": 1776087582685
     }
   },
   "stats": {
-    "uploads": 2046,
+    "uploads": 2047,
     "deleted": 1630,
-    "totalBytes": 476839430
+    "totalBytes": 477121564
   }
 }
