@@ -4223,11 +4223,22 @@
       "expiresAt": 1776088198965,
       "url": "https://cdn.miranight.me/api/u/g0k37mb2hw.png",
       "createdAt": 1776084598965
+    },
+    "gtl95xcfni": {
+      "id": "gtl95xcfni",
+      "originalName": "file.png",
+      "storedName": "gtl95xcfni.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 270753,
+      "expiresAt": 1776088261229,
+      "url": "https://cdn.miranight.me/api/u/gtl95xcfni.png",
+      "createdAt": 1776084661229
     }
   },
   "stats": {
-    "uploads": 2014,
+    "uploads": 2015,
     "deleted": 1630,
-    "totalBytes": 468673946
+    "totalBytes": 468944699
   }
 }
