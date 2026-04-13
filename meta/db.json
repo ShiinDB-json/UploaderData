@@ -3244,11 +3244,22 @@
       "expiresAt": 1776078700320,
       "url": "https://cdn.miranight.me/api/u/tlkuu931tt.png",
       "createdAt": 1776075100320
+    },
+    "ss96ruxr8e": {
+      "id": "ss96ruxr8e",
+      "originalName": "file.png",
+      "storedName": "ss96ruxr8e.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 282029,
+      "expiresAt": 1776078741060,
+      "url": "https://cdn.miranight.me/api/u/ss96ruxr8e.png",
+      "createdAt": 1776075141060
     }
   },
   "stats": {
-    "uploads": 1925,
+    "uploads": 1926,
     "deleted": 1630,
-    "totalBytes": 448467340
+    "totalBytes": 448749369
   }
 }
