@@ -1968,11 +1968,22 @@
       "expiresAt": 1776066364453,
       "url": "https://cdn.miranight.me/api/u/benyotrcie.png",
       "createdAt": 1776062764453
+    },
+    "90nkdnspd3": {
+      "id": "90nkdnspd3",
+      "originalName": "file.png",
+      "storedName": "90nkdnspd3.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 255047,
+      "expiresAt": 1776066377754,
+      "url": "https://cdn.miranight.me/api/u/90nkdnspd3.png",
+      "createdAt": 1776062777755
     }
   },
   "stats": {
-    "uploads": 1809,
+    "uploads": 1810,
     "deleted": 1630,
-    "totalBytes": 423091739
+    "totalBytes": 423346786
   }
 }
