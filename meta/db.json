@@ -5081,11 +5081,22 @@
       "expiresAt": 1776114443814,
       "url": "https://cdn.miranight.me/api/u/e3mhxlyfvo.png",
       "createdAt": 1776110843814
+    },
+    "vadqubv7fm": {
+      "id": "vadqubv7fm",
+      "originalName": "file.png",
+      "storedName": "vadqubv7fm.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 396621,
+      "expiresAt": 1776114608393,
+      "url": "https://cdn.miranight.me/api/u/vadqubv7fm.png",
+      "createdAt": 1776111008393
     }
   },
   "stats": {
-    "uploads": 2092,
+    "uploads": 2093,
     "deleted": 1630,
-    "totalBytes": 488194361
+    "totalBytes": 488590982
   }
 }
