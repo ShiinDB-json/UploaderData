@@ -2672,11 +2672,22 @@
       "expiresAt": 1776073404442,
       "url": "https://cdn.miranight.me/api/u/akn05c12kg.png",
       "createdAt": 1776069804442
+    },
+    "pskh70c4xj": {
+      "id": "pskh70c4xj",
+      "originalName": "file.png",
+      "storedName": "pskh70c4xj.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 397562,
+      "expiresAt": 1776073428385,
+      "url": "https://cdn.miranight.me/api/u/pskh70c4xj.png",
+      "createdAt": 1776069828385
     }
   },
   "stats": {
-    "uploads": 1873,
+    "uploads": 1874,
     "deleted": 1630,
-    "totalBytes": 435669258
+    "totalBytes": 436066820
   }
 }
