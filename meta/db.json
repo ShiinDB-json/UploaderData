@@ -4993,11 +4993,22 @@
       "expiresAt": 1776103317162,
       "url": "https://cdn.miranight.me/api/u/s473f3wwp5.png",
       "createdAt": 1776099717162
+    },
+    "zray5mnonm": {
+      "id": "zray5mnonm",
+      "originalName": "file.png",
+      "storedName": "zray5mnonm.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 326751,
+      "expiresAt": 1776105280271,
+      "url": "https://cdn.miranight.me/api/u/zray5mnonm.png",
+      "createdAt": 1776101680271
     }
   },
   "stats": {
-    "uploads": 2084,
+    "uploads": 2085,
     "deleted": 1630,
-    "totalBytes": 485920477
+    "totalBytes": 486247228
   }
 }
