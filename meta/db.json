@@ -3101,11 +3101,22 @@
       "expiresAt": 1776077568800,
       "url": "https://cdn.miranight.me/api/u/67229ykpnt.png",
       "createdAt": 1776073968800
+    },
+    "new3mfntvw": {
+      "id": "new3mfntvw",
+      "originalName": "file.png",
+      "storedName": "new3mfntvw.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 251333,
+      "expiresAt": 1776077586771,
+      "url": "https://cdn.miranight.me/api/u/new3mfntvw.png",
+      "createdAt": 1776073986771
     }
   },
   "stats": {
-    "uploads": 1912,
+    "uploads": 1913,
     "deleted": 1630,
-    "totalBytes": 444735957
+    "totalBytes": 444987290
   }
 }
