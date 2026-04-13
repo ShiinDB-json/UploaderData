@@ -692,11 +692,22 @@
       "expiresAt": 1776046431246,
       "url": "https://cdn.miranight.me/api/u/5120ikv3ug.png",
       "createdAt": 1776042831246
+    },
+    "dvbdxivjor": {
+      "id": "dvbdxivjor",
+      "originalName": "file.png",
+      "storedName": "dvbdxivjor.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 280866,
+      "expiresAt": 1776046690792,
+      "url": "https://cdn.miranight.me/api/u/dvbdxivjor.png",
+      "createdAt": 1776043090792
     }
   },
   "stats": {
-    "uploads": 1693,
+    "uploads": 1694,
     "deleted": 1630,
-    "totalBytes": 396281188
+    "totalBytes": 396562054
   }
 }
