@@ -3915,11 +3915,22 @@
       "expiresAt": 1776086678323,
       "url": "https://cdn.miranight.me/api/u/oifn9ipair.png",
       "createdAt": 1776083078323
+    },
+    "of318n1m42": {
+      "id": "of318n1m42",
+      "originalName": "file.png",
+      "storedName": "of318n1m42.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 366374,
+      "expiresAt": 1776087090956,
+      "url": "https://cdn.miranight.me/api/u/of318n1m42.png",
+      "createdAt": 1776083490956
     }
   },
   "stats": {
-    "uploads": 1986,
+    "uploads": 1987,
     "deleted": 1630,
-    "totalBytes": 462132040
+    "totalBytes": 462498414
   }
 }
