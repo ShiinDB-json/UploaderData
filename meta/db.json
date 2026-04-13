@@ -857,11 +857,22 @@
       "expiresAt": 1776047469863,
       "url": "https://cdn.miranight.me/api/u/qzh8c4e3g7.png",
       "createdAt": 1776043869863
+    },
+    "hcu3yqpazp": {
+      "id": "hcu3yqpazp",
+      "originalName": "file.png",
+      "storedName": "hcu3yqpazp.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 130539,
+      "expiresAt": 1776047650602,
+      "url": "https://cdn.miranight.me/api/u/hcu3yqpazp.png",
+      "createdAt": 1776044050602
     }
   },
   "stats": {
-    "uploads": 1708,
+    "uploads": 1709,
     "deleted": 1630,
-    "totalBytes": 399654335
+    "totalBytes": 399784874
   }
 }
