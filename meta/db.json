@@ -1264,11 +1264,22 @@
       "expiresAt": 1776051501596,
       "url": "https://cdn.miranight.me/api/u/ajg06kloly.png",
       "createdAt": 1776047901596
+    },
+    "jmhlpun0jk": {
+      "id": "jmhlpun0jk",
+      "originalName": "file.png",
+      "storedName": "jmhlpun0jk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 252510,
+      "expiresAt": 1776051517287,
+      "url": "https://cdn.miranight.me/api/u/jmhlpun0jk.png",
+      "createdAt": 1776047917288
     }
   },
   "stats": {
-    "uploads": 1745,
+    "uploads": 1746,
     "deleted": 1630,
-    "totalBytes": 408186871
+    "totalBytes": 408439381
   }
 }
