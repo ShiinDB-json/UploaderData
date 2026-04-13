@@ -615,11 +615,22 @@
       "expiresAt": 1776043698909,
       "url": "https://cdn.miranight.me/api/u/72pauc8ige.png",
       "createdAt": 1776040098909
+    },
+    "fga36sjo2b": {
+      "id": "fga36sjo2b",
+      "originalName": "file.png",
+      "storedName": "fga36sjo2b.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 244969,
+      "expiresAt": 1776044418128,
+      "url": "https://cdn.miranight.me/api/u/fga36sjo2b.png",
+      "createdAt": 1776040818128
     }
   },
   "stats": {
-    "uploads": 1686,
+    "uploads": 1687,
     "deleted": 1630,
-    "totalBytes": 394839731
+    "totalBytes": 395084700
   }
 }
