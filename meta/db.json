@@ -5587,11 +5587,22 @@
       "expiresAt": 1776126932432,
       "url": "https://cdn.miranight.me/api/u/xeniy92ldo.png",
       "createdAt": 1776123332432
+    },
+    "wb6prioks1": {
+      "id": "wb6prioks1",
+      "originalName": "file.png",
+      "storedName": "wb6prioks1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 170715,
+      "expiresAt": 1776127046137,
+      "url": "https://cdn.miranight.me/api/u/wb6prioks1.png",
+      "createdAt": 1776123446137
     }
   },
   "stats": {
-    "uploads": 2138,
+    "uploads": 2139,
     "deleted": 1630,
-    "totalBytes": 500622834
+    "totalBytes": 500793549
   }
 }
