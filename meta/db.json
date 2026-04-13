@@ -3673,11 +3673,22 @@
       "expiresAt": 1776084823396,
       "url": "https://cdn.miranight.me/api/u/b80kxdn827.png",
       "createdAt": 1776081223396
+    },
+    "s8zrloiczo": {
+      "id": "s8zrloiczo",
+      "originalName": "file.png",
+      "storedName": "s8zrloiczo.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 240908,
+      "expiresAt": 1776084870267,
+      "url": "https://cdn.miranight.me/api/u/s8zrloiczo.png",
+      "createdAt": 1776081270267
     }
   },
   "stats": {
-    "uploads": 1964,
+    "uploads": 1965,
     "deleted": 1630,
-    "totalBytes": 457137201
+    "totalBytes": 457378109
   }
 }
