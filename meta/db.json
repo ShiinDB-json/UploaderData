@@ -4696,11 +4696,22 @@
       "expiresAt": 1776093141451,
       "url": "https://cdn.miranight.me/api/u/kysnt13dmv.png",
       "createdAt": 1776089541452
+    },
+    "98xy5r3zdd": {
+      "id": "98xy5r3zdd",
+      "originalName": "file.png",
+      "storedName": "98xy5r3zdd.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 290003,
+      "expiresAt": 1776093160770,
+      "url": "https://cdn.miranight.me/api/u/98xy5r3zdd.png",
+      "createdAt": 1776089560770
     }
   },
   "stats": {
-    "uploads": 2057,
+    "uploads": 2058,
     "deleted": 1630,
-    "totalBytes": 479957269
+    "totalBytes": 480247272
   }
 }
