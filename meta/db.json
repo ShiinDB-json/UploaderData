@@ -4091,11 +4091,22 @@
       "expiresAt": 1776087582563,
       "url": "https://cdn.miranight.me/api/u/r211t7acqr.png",
       "createdAt": 1776083982563
+    },
+    "twskve6kn6": {
+      "id": "twskve6kn6",
+      "originalName": "file.png",
+      "storedName": "twskve6kn6.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 43259,
+      "expiresAt": 1776087600823,
+      "url": "https://cdn.miranight.me/api/u/twskve6kn6.png",
+      "createdAt": 1776084000823
     }
   },
   "stats": {
-    "uploads": 2002,
+    "uploads": 2003,
     "deleted": 1630,
-    "totalBytes": 466251079
+    "totalBytes": 466294338
   }
 }
