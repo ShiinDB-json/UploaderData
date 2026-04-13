@@ -4674,11 +4674,22 @@
       "expiresAt": 1776092954745,
       "url": "https://cdn.miranight.me/api/u/a67ph6krik.png",
       "createdAt": 1776089354745
+    },
+    "weebnawbkf": {
+      "id": "weebnawbkf",
+      "originalName": "file.png",
+      "storedName": "weebnawbkf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 290003,
+      "expiresAt": 1776093022456,
+      "url": "https://cdn.miranight.me/api/u/weebnawbkf.png",
+      "createdAt": 1776089422456
     }
   },
   "stats": {
-    "uploads": 2055,
+    "uploads": 2056,
     "deleted": 1630,
-    "totalBytes": 479377263
+    "totalBytes": 479667266
   }
 }
