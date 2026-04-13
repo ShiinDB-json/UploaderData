@@ -5499,11 +5499,22 @@
       "expiresAt": 1776126430859,
       "url": "https://cdn.miranight.me/api/u/fxwbo77nta.png",
       "createdAt": 1776122830859
+    },
+    "peb87jlbr0": {
+      "id": "peb87jlbr0",
+      "originalName": "file.png",
+      "storedName": "peb87jlbr0.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 192733,
+      "expiresAt": 1776126479794,
+      "url": "https://cdn.miranight.me/api/u/peb87jlbr0.png",
+      "createdAt": 1776122879795
     }
   },
   "stats": {
-    "uploads": 2130,
+    "uploads": 2131,
     "deleted": 1630,
-    "totalBytes": 498781433
+    "totalBytes": 498974166
   }
 }
