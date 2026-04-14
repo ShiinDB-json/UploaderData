@@ -1154,11 +1154,22 @@
       "expiresAt": 1776139261912,
       "url": "https://cdn.miranight.me/api/u/pja170znax.png",
       "createdAt": 1776135661912
+    },
+    "xap38jupxc": {
+      "id": "xap38jupxc",
+      "originalName": "file.png",
+      "storedName": "xap38jupxc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 258767,
+      "expiresAt": 1776139305943,
+      "url": "https://cdn.miranight.me/api/u/xap38jupxc.png",
+      "createdAt": 1776135705943
     }
   },
   "stats": {
-    "uploads": 2176,
+    "uploads": 2177,
     "deleted": 2071,
-    "totalBytes": 509355728
+    "totalBytes": 509614495
   }
 }
