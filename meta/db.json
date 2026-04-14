@@ -3783,11 +3783,22 @@
       "expiresAt": 1776185454521,
       "url": "https://cdn.miranight.me/api/u/p0oegkliuu.png",
       "createdAt": 1776181854521
+    },
+    "7ytv50oma9": {
+      "id": "7ytv50oma9",
+      "originalName": "file.png",
+      "storedName": "7ytv50oma9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 182886,
+      "expiresAt": 1776185471992,
+      "url": "https://cdn.miranight.me/api/u/7ytv50oma9.png",
+      "createdAt": 1776181871992
     }
   },
   "stats": {
-    "uploads": 2415,
+    "uploads": 2416,
     "deleted": 2071,
-    "totalBytes": 563234306
+    "totalBytes": 563417192
   }
 }
