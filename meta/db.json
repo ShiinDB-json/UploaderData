@@ -4124,11 +4124,22 @@
       "expiresAt": 1776194806416,
       "url": "https://cdn.miranight.me/api/u/dicz3qbvur.png",
       "createdAt": 1776191206416
+    },
+    "buxjho6llm": {
+      "id": "buxjho6llm",
+      "originalName": "file.png",
+      "storedName": "buxjho6llm.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 311443,
+      "expiresAt": 1776196268625,
+      "url": "https://cdn.miranight.me/api/u/buxjho6llm.png",
+      "createdAt": 1776192668625
     }
   },
   "stats": {
-    "uploads": 2446,
+    "uploads": 2447,
     "deleted": 2071,
-    "totalBytes": 570260786
+    "totalBytes": 570572229
   }
 }
