@@ -934,11 +934,22 @@
       "expiresAt": 1776132800887,
       "url": "https://cdn.miranight.me/api/u/lmsmzxdg39.png",
       "createdAt": 1776129200887
+    },
+    "39pdf604qk": {
+      "id": "39pdf604qk",
+      "originalName": "file.png",
+      "storedName": "39pdf604qk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 326351,
+      "expiresAt": 1776132809052,
+      "url": "https://cdn.miranight.me/api/u/39pdf604qk.png",
+      "createdAt": 1776129209052
     }
   },
   "stats": {
-    "uploads": 2156,
+    "uploads": 2157,
     "deleted": 2071,
-    "totalBytes": 504517509
+    "totalBytes": 504843860
   }
 }
