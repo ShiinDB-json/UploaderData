@@ -3266,11 +3266,22 @@
       "expiresAt": 1776180415212,
       "url": "https://cdn.miranight.me/api/u/jxf4zc4wny.png",
       "createdAt": 1776176815212
+    },
+    "4ci1dpf250": {
+      "id": "4ci1dpf250",
+      "originalName": "file.webp",
+      "storedName": "4ci1dpf250.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 42946,
+      "expiresAt": 1776180418290,
+      "url": "https://cdn.miranight.me/api/u/4ci1dpf250.webp",
+      "createdAt": 1776176818290
     }
   },
   "stats": {
-    "uploads": 2368,
+    "uploads": 2369,
     "deleted": 2071,
-    "totalBytes": 555436239
+    "totalBytes": 555479185
   }
 }
