@@ -2826,11 +2826,22 @@
       "expiresAt": 1776164759186,
       "url": "https://cdn.miranight.me/api/u/nobssxv8hl.png",
       "createdAt": 1776161159186
+    },
+    "scg0ufflwv": {
+      "id": "scg0ufflwv",
+      "originalName": "file.png",
+      "storedName": "scg0ufflwv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 128145,
+      "expiresAt": 1776164852924,
+      "url": "https://cdn.miranight.me/api/u/scg0ufflwv.png",
+      "createdAt": 1776161252924
     }
   },
   "stats": {
-    "uploads": 2328,
+    "uploads": 2329,
     "deleted": 2071,
-    "totalBytes": 547067553
+    "totalBytes": 547195698
   }
 }
