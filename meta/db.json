@@ -2298,11 +2298,22 @@
       "expiresAt": 1776158789157,
       "url": "https://cdn.miranight.me/api/u/ilf6f243us.png",
       "createdAt": 1776155189157
+    },
+    "ov6pcvo2la": {
+      "id": "ov6pcvo2la",
+      "originalName": "file.png",
+      "storedName": "ov6pcvo2la.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 161081,
+      "expiresAt": 1776158825783,
+      "url": "https://cdn.miranight.me/api/u/ov6pcvo2la.png",
+      "createdAt": 1776155225783
     }
   },
   "stats": {
-    "uploads": 2280,
+    "uploads": 2281,
     "deleted": 2071,
-    "totalBytes": 535654902
+    "totalBytes": 535815983
   }
 }
