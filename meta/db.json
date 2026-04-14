@@ -1814,11 +1814,22 @@
       "expiresAt": 1776153646174,
       "url": "https://cdn.miranight.me/api/u/9fcrdyovuy.png",
       "createdAt": 1776150046174
+    },
+    "yb6despemx": {
+      "id": "yb6despemx",
+      "originalName": "file.png",
+      "storedName": "yb6despemx.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 280866,
+      "expiresAt": 1776153661846,
+      "url": "https://cdn.miranight.me/api/u/yb6despemx.png",
+      "createdAt": 1776150061846
     }
   },
   "stats": {
-    "uploads": 2236,
+    "uploads": 2237,
     "deleted": 2071,
-    "totalBytes": 524873571
+    "totalBytes": 525154437
   }
 }
