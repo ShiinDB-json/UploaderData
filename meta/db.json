@@ -1990,11 +1990,22 @@
       "expiresAt": 1776154776427,
       "url": "https://cdn.miranight.me/api/u/vj9dzqsvnt.png",
       "createdAt": 1776151176427
+    },
+    "qnkck8vvai": {
+      "id": "qnkck8vvai",
+      "originalName": "file.png",
+      "storedName": "qnkck8vvai.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 219675,
+      "expiresAt": 1776155198527,
+      "url": "https://cdn.miranight.me/api/u/qnkck8vvai.png",
+      "createdAt": 1776151598527
     }
   },
   "stats": {
-    "uploads": 2252,
+    "uploads": 2253,
     "deleted": 2071,
-    "totalBytes": 528929263
+    "totalBytes": 529148938
   }
 }
