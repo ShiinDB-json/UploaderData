@@ -1627,11 +1627,22 @@
       "expiresAt": 1776151235689,
       "url": "https://cdn.miranight.me/api/u/btg4jxj8i6.png",
       "createdAt": 1776147635690
+    },
+    "ndidq4in45": {
+      "id": "ndidq4in45",
+      "originalName": "file.png",
+      "storedName": "ndidq4in45.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 302903,
+      "expiresAt": 1776151323736,
+      "url": "https://cdn.miranight.me/api/u/ndidq4in45.png",
+      "createdAt": 1776147723736
     }
   },
   "stats": {
-    "uploads": 2219,
+    "uploads": 2220,
     "deleted": 2071,
-    "totalBytes": 520594582
+    "totalBytes": 520897485
   }
 }
