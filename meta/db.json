@@ -1715,11 +1715,22 @@
       "expiresAt": 1776153060136,
       "url": "https://cdn.miranight.me/api/u/f8khndcevx.png",
       "createdAt": 1776149460136
+    },
+    "34ibcad2ab": {
+      "id": "34ibcad2ab",
+      "originalName": "file.png",
+      "storedName": "34ibcad2ab.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 207709,
+      "expiresAt": 1776153074258,
+      "url": "https://cdn.miranight.me/api/u/34ibcad2ab.png",
+      "createdAt": 1776149474258
     }
   },
   "stats": {
-    "uploads": 2227,
+    "uploads": 2228,
     "deleted": 2071,
-    "totalBytes": 522695062
+    "totalBytes": 522902771
   }
 }
