@@ -2210,11 +2210,22 @@
       "expiresAt": 1776157960136,
       "url": "https://cdn.miranight.me/api/u/wf2qehl3mn.png",
       "createdAt": 1776154360136
+    },
+    "rnayx17bal": {
+      "id": "rnayx17bal",
+      "originalName": "file.png",
+      "storedName": "rnayx17bal.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 280866,
+      "expiresAt": 1776158330169,
+      "url": "https://cdn.miranight.me/api/u/rnayx17bal.png",
+      "createdAt": 1776154730169
     }
   },
   "stats": {
-    "uploads": 2272,
+    "uploads": 2273,
     "deleted": 2071,
-    "totalBytes": 533377344
+    "totalBytes": 533658210
   }
 }
