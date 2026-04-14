@@ -3376,11 +3376,22 @@
       "expiresAt": 1776180466387,
       "url": "https://cdn.miranight.me/api/u/a5t80t25bu.png",
       "createdAt": 1776176866387
+    },
+    "mzy7yojfgg": {
+      "id": "mzy7yojfgg",
+      "originalName": "file.webp",
+      "storedName": "mzy7yojfgg.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 14784,
+      "expiresAt": 1776180472795,
+      "url": "https://cdn.miranight.me/api/u/mzy7yojfgg.webp",
+      "createdAt": 1776176872795
     }
   },
   "stats": {
-    "uploads": 2378,
+    "uploads": 2379,
     "deleted": 2071,
-    "totalBytes": 556121124
+    "totalBytes": 556135908
   }
 }
