@@ -3574,11 +3574,22 @@
       "expiresAt": 1776182300731,
       "url": "https://cdn.miranight.me/api/u/exxb0pdi2n.png",
       "createdAt": 1776178700731
+    },
+    "zm514sa1vl": {
+      "id": "zm514sa1vl",
+      "originalName": "file.png",
+      "storedName": "zm514sa1vl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 80485,
+      "expiresAt": 1776182474525,
+      "url": "https://cdn.miranight.me/api/u/zm514sa1vl.png",
+      "createdAt": 1776178874525
     }
   },
   "stats": {
-    "uploads": 2396,
+    "uploads": 2397,
     "deleted": 2071,
-    "totalBytes": 558932426
+    "totalBytes": 559012911
   }
 }
