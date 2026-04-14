@@ -2474,11 +2474,22 @@
       "expiresAt": 1776162406412,
       "url": "https://cdn.miranight.me/api/u/wlh113c0qi.png",
       "createdAt": 1776158806412
+    },
+    "udskthi8ka": {
+      "id": "udskthi8ka",
+      "originalName": "file.png",
+      "storedName": "udskthi8ka.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 166508,
+      "expiresAt": 1776162506412,
+      "url": "https://cdn.miranight.me/api/u/udskthi8ka.png",
+      "createdAt": 1776158906412
     }
   },
   "stats": {
-    "uploads": 2296,
+    "uploads": 2297,
     "deleted": 2071,
-    "totalBytes": 539438312
+    "totalBytes": 539604820
   }
 }
