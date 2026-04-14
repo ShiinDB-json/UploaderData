@@ -3134,11 +3134,22 @@
       "expiresAt": 1776174004373,
       "url": "https://cdn.miranight.me/api/u/q346ah5746.png",
       "createdAt": 1776170404373
+    },
+    "ryz763d9vu": {
+      "id": "ryz763d9vu",
+      "originalName": "file.mp4",
+      "storedName": "ryz763d9vu.mp4",
+      "folder": "video",
+      "mimeType": "video/mp4",
+      "size": 280804,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/ryz763d9vu.mp4",
+      "createdAt": 1776172558973
     }
   },
   "stats": {
-    "uploads": 2356,
+    "uploads": 2357,
     "deleted": 2071,
-    "totalBytes": 552978072
+    "totalBytes": 553258876
   }
 }
