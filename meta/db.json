@@ -3310,11 +3310,22 @@
       "expiresAt": 1776180432274,
       "url": "https://cdn.miranight.me/api/u/yhkjmb6rx7.png",
       "createdAt": 1776176832274
+    },
+    "mzhg0rec36": {
+      "id": "mzhg0rec36",
+      "originalName": "file.webp",
+      "storedName": "mzhg0rec36.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 23142,
+      "expiresAt": 1776180441243,
+      "url": "https://cdn.miranight.me/api/u/mzhg0rec36.webp",
+      "createdAt": 1776176841243
     }
   },
   "stats": {
-    "uploads": 2372,
+    "uploads": 2373,
     "deleted": 2071,
-    "totalBytes": 555908457
+    "totalBytes": 555931599
   }
 }
