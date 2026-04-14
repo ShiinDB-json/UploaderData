@@ -3211,11 +3211,22 @@
       "expiresAt": 1776179996532,
       "url": "https://cdn.miranight.me/api/u/aktf1fmsko.png",
       "createdAt": 1776176396533
+    },
+    "qiyk34aesn": {
+      "id": "qiyk34aesn",
+      "originalName": "file.png",
+      "storedName": "qiyk34aesn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 276351,
+      "expiresAt": 1776180270202,
+      "url": "https://cdn.miranight.me/api/u/qiyk34aesn.png",
+      "createdAt": 1776176670202
     }
   },
   "stats": {
-    "uploads": 2363,
+    "uploads": 2364,
     "deleted": 2071,
-    "totalBytes": 554481183
+    "totalBytes": 554757534
   }
 }
