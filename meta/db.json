@@ -1319,11 +1319,22 @@
       "expiresAt": 1776145985706,
       "url": "https://cdn.miranight.me/api/u/zdrbicuipr.png",
       "createdAt": 1776142385706
+    },
+    "rso24fhwos": {
+      "id": "rso24fhwos",
+      "originalName": "file.png",
+      "storedName": "rso24fhwos.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 270696,
+      "expiresAt": 1776146027678,
+      "url": "https://cdn.miranight.me/api/u/rso24fhwos.png",
+      "createdAt": 1776142427678
     }
   },
   "stats": {
-    "uploads": 2191,
+    "uploads": 2192,
     "deleted": 2071,
-    "totalBytes": 513083510
+    "totalBytes": 513354206
   }
 }
