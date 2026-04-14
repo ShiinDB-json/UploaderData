@@ -1616,11 +1616,22 @@
       "expiresAt": 1776151064495,
       "url": "https://cdn.miranight.me/api/u/frmgyihney.png",
       "createdAt": 1776147464495
+    },
+    "btg4jxj8i6": {
+      "id": "btg4jxj8i6",
+      "originalName": "file.png",
+      "storedName": "btg4jxj8i6.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 219675,
+      "expiresAt": 1776151235689,
+      "url": "https://cdn.miranight.me/api/u/btg4jxj8i6.png",
+      "createdAt": 1776147635690
     }
   },
   "stats": {
-    "uploads": 2218,
+    "uploads": 2219,
     "deleted": 2071,
-    "totalBytes": 520374907
+    "totalBytes": 520594582
   }
 }
