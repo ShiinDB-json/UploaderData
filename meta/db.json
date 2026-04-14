@@ -2496,11 +2496,22 @@
       "expiresAt": 1776162633564,
       "url": "https://cdn.miranight.me/api/u/smrk37nevu.png",
       "createdAt": 1776159033564
+    },
+    "xh22j2toap": {
+      "id": "xh22j2toap",
+      "originalName": "file.png",
+      "storedName": "xh22j2toap.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 285448,
+      "expiresAt": 1776162659972,
+      "url": "https://cdn.miranight.me/api/u/xh22j2toap.png",
+      "createdAt": 1776159059972
     }
   },
   "stats": {
-    "uploads": 2298,
+    "uploads": 2299,
     "deleted": 2071,
-    "totalBytes": 539672611
+    "totalBytes": 539958059
   }
 }
