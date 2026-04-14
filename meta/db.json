@@ -2991,11 +2991,22 @@
       "expiresAt": 1776166510169,
       "url": "https://cdn.miranight.me/api/u/8ixplbokf3.png",
       "createdAt": 1776162910169
+    },
+    "ivysddr9l8": {
+      "id": "ivysddr9l8",
+      "originalName": "file.png",
+      "storedName": "ivysddr9l8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 337682,
+      "expiresAt": 1776167085253,
+      "url": "https://cdn.miranight.me/api/u/ivysddr9l8.png",
+      "createdAt": 1776163485253
     }
   },
   "stats": {
-    "uploads": 2343,
+    "uploads": 2344,
     "deleted": 2071,
-    "totalBytes": 550138620
+    "totalBytes": 550476302
   }
 }
