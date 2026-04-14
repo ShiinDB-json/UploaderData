@@ -3090,11 +3090,22 @@
       "expiresAt": 1776171895461,
       "url": "https://cdn.miranight.me/api/u/rnelkifgbb.png",
       "createdAt": 1776168295461
+    },
+    "r6666y8t99": {
+      "id": "r6666y8t99",
+      "originalName": "file.png",
+      "storedName": "r6666y8t99.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 184981,
+      "expiresAt": 1776172177054,
+      "url": "https://cdn.miranight.me/api/u/r6666y8t99.png",
+      "createdAt": 1776168577055
     }
   },
   "stats": {
-    "uploads": 2352,
+    "uploads": 2353,
     "deleted": 2071,
-    "totalBytes": 552181053
+    "totalBytes": 552366034
   }
 }
