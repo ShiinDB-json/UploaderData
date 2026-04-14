@@ -2342,11 +2342,22 @@
       "expiresAt": 1776159331300,
       "url": "https://cdn.miranight.me/api/u/wfs8lnrec7.png",
       "createdAt": 1776155731300
+    },
+    "2apc9x05ov": {
+      "id": "2apc9x05ov",
+      "originalName": "file.png",
+      "storedName": "2apc9x05ov.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 258133,
+      "expiresAt": 1776159479085,
+      "url": "https://cdn.miranight.me/api/u/2apc9x05ov.png",
+      "createdAt": 1776155879085
     }
   },
   "stats": {
-    "uploads": 2284,
+    "uploads": 2285,
     "deleted": 2071,
-    "totalBytes": 536613162
+    "totalBytes": 536871295
   }
 }
