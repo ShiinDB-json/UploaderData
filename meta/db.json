@@ -3739,11 +3739,22 @@
       "expiresAt": 1776185078731,
       "url": "https://cdn.miranight.me/api/u/v1vx3i1cwe.png",
       "createdAt": 1776181478731
+    },
+    "hantr5byrt": {
+      "id": "hantr5byrt",
+      "originalName": "file.png",
+      "storedName": "hantr5byrt.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 234692,
+      "expiresAt": 1776185151520,
+      "url": "https://cdn.miranight.me/api/u/hantr5byrt.png",
+      "createdAt": 1776181551520
     }
   },
   "stats": {
-    "uploads": 2411,
+    "uploads": 2412,
     "deleted": 2071,
-    "totalBytes": 562482972
+    "totalBytes": 562717664
   }
 }
