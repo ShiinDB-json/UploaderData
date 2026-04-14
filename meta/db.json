@@ -2903,11 +2903,22 @@
       "expiresAt": 1776165714508,
       "url": "https://cdn.miranight.me/api/u/vujyx29j8l.png",
       "createdAt": 1776162114508
+    },
+    "dn3okphlyr": {
+      "id": "dn3okphlyr",
+      "originalName": "file.png",
+      "storedName": "dn3okphlyr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 158966,
+      "expiresAt": 1776165757373,
+      "url": "https://cdn.miranight.me/api/u/dn3okphlyr.png",
+      "createdAt": 1776162157373
     }
   },
   "stats": {
-    "uploads": 2335,
+    "uploads": 2336,
     "deleted": 2071,
-    "totalBytes": 548653167
+    "totalBytes": 548812133
   }
 }
