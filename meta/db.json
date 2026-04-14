@@ -1638,11 +1638,22 @@
       "expiresAt": 1776151323736,
       "url": "https://cdn.miranight.me/api/u/ndidq4in45.png",
       "createdAt": 1776147723736
+    },
+    "whyc5ifjap": {
+      "id": "whyc5ifjap",
+      "originalName": "file.png",
+      "storedName": "whyc5ifjap.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 302903,
+      "expiresAt": 1776151360963,
+      "url": "https://cdn.miranight.me/api/u/whyc5ifjap.png",
+      "createdAt": 1776147760963
     }
   },
   "stats": {
-    "uploads": 2220,
+    "uploads": 2221,
     "deleted": 2071,
-    "totalBytes": 520897485
+    "totalBytes": 521200388
   }
 }
