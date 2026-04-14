@@ -3585,11 +3585,22 @@
       "expiresAt": 1776182474525,
       "url": "https://cdn.miranight.me/api/u/zm514sa1vl.png",
       "createdAt": 1776178874525
+    },
+    "fgtyu4d6it": {
+      "id": "fgtyu4d6it",
+      "originalName": "file.png",
+      "storedName": "fgtyu4d6it.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 404692,
+      "expiresAt": 1776182849466,
+      "url": "https://cdn.miranight.me/api/u/fgtyu4d6it.png",
+      "createdAt": 1776179249466
     }
   },
   "stats": {
-    "uploads": 2397,
+    "uploads": 2398,
     "deleted": 2071,
-    "totalBytes": 559012911
+    "totalBytes": 559417603
   }
 }
