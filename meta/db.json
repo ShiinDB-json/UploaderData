@@ -1242,11 +1242,22 @@
       "expiresAt": 1776143761077,
       "url": "https://cdn.miranight.me/api/u/eqf4j9gtqg.png",
       "createdAt": 1776140161077
+    },
+    "gp4968ramf": {
+      "id": "gp4968ramf",
+      "originalName": "file.png",
+      "storedName": "gp4968ramf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 177368,
+      "expiresAt": 1776143783404,
+      "url": "https://cdn.miranight.me/api/u/gp4968ramf.png",
+      "createdAt": 1776140183404
     }
   },
   "stats": {
-    "uploads": 2184,
+    "uploads": 2185,
     "deleted": 2071,
-    "totalBytes": 511250039
+    "totalBytes": 511427407
   }
 }
