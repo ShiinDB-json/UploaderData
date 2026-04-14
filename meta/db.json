@@ -3959,11 +3959,22 @@
       "expiresAt": 1776185854304,
       "url": "https://cdn.miranight.me/api/u/iacodwbj8o.png",
       "createdAt": 1776182254304
+    },
+    "dmte885pbs": {
+      "id": "dmte885pbs",
+      "originalName": "file.png",
+      "storedName": "dmte885pbs.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 251849,
+      "expiresAt": 1776185878781,
+      "url": "https://cdn.miranight.me/api/u/dmte885pbs.png",
+      "createdAt": 1776182278781
     }
   },
   "stats": {
-    "uploads": 2431,
+    "uploads": 2432,
     "deleted": 2071,
-    "totalBytes": 567174704
+    "totalBytes": 567426553
   }
 }
