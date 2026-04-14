@@ -3244,11 +3244,22 @@
       "expiresAt": 1776180404024,
       "url": "https://cdn.miranight.me/api/u/q34l12q2lh.png",
       "createdAt": 1776176804024
+    },
+    "k7dmu14uov": {
+      "id": "k7dmu14uov",
+      "originalName": "file.webp",
+      "storedName": "k7dmu14uov.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 18156,
+      "expiresAt": 1776180405316,
+      "url": "https://cdn.miranight.me/api/u/k7dmu14uov.webp",
+      "createdAt": 1776176805316
     }
   },
   "stats": {
-    "uploads": 2366,
+    "uploads": 2367,
     "deleted": 2071,
-    "totalBytes": 555240094
+    "totalBytes": 555258250
   }
 }
