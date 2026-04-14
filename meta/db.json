@@ -1495,11 +1495,22 @@
       "expiresAt": 1776149564315,
       "url": "https://cdn.miranight.me/api/u/cnygeyvl2i.png",
       "createdAt": 1776145964315
+    },
+    "qtg2vhbs8l": {
+      "id": "qtg2vhbs8l",
+      "originalName": "file.png",
+      "storedName": "qtg2vhbs8l.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 173542,
+      "expiresAt": 1776149865689,
+      "url": "https://cdn.miranight.me/api/u/qtg2vhbs8l.png",
+      "createdAt": 1776146265689
     }
   },
   "stats": {
-    "uploads": 2207,
+    "uploads": 2208,
     "deleted": 2071,
-    "totalBytes": 517453341
+    "totalBytes": 517626883
   }
 }
