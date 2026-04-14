@@ -1594,11 +1594,22 @@
       "expiresAt": 1776150325854,
       "url": "https://cdn.miranight.me/api/u/7la76f4i8q.png",
       "createdAt": 1776146725854
+    },
+    "lsvf43xplg": {
+      "id": "lsvf43xplg",
+      "originalName": "file.png",
+      "storedName": "lsvf43xplg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 382269,
+      "expiresAt": 1776151024872,
+      "url": "https://cdn.miranight.me/api/u/lsvf43xplg.png",
+      "createdAt": 1776147424872
     }
   },
   "stats": {
-    "uploads": 2216,
+    "uploads": 2217,
     "deleted": 2071,
-    "totalBytes": 519701374
+    "totalBytes": 520083643
   }
 }
