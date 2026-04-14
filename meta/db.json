@@ -2188,11 +2188,22 @@
       "expiresAt": 1776157804996,
       "url": "https://cdn.miranight.me/api/u/sw8c2e98bl.png",
       "createdAt": 1776154204996
+    },
+    "xiq7962wi6": {
+      "id": "xiq7962wi6",
+      "originalName": "file.png",
+      "storedName": "xiq7962wi6.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 219675,
+      "expiresAt": 1776157926978,
+      "url": "https://cdn.miranight.me/api/u/xiq7962wi6.png",
+      "createdAt": 1776154326978
     }
   },
   "stats": {
-    "uploads": 2270,
+    "uploads": 2271,
     "deleted": 2071,
-    "totalBytes": 533054786
+    "totalBytes": 533274461
   }
 }
