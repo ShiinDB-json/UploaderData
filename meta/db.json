@@ -2001,11 +2001,22 @@
       "expiresAt": 1776155198527,
       "url": "https://cdn.miranight.me/api/u/qnkck8vvai.png",
       "createdAt": 1776151598527
+    },
+    "rtl4mfak1b": {
+      "id": "rtl4mfak1b",
+      "originalName": "file.png",
+      "storedName": "rtl4mfak1b.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 159160,
+      "expiresAt": 1776155452366,
+      "url": "https://cdn.miranight.me/api/u/rtl4mfak1b.png",
+      "createdAt": 1776151852366
     }
   },
   "stats": {
-    "uploads": 2253,
+    "uploads": 2254,
     "deleted": 2071,
-    "totalBytes": 529148938
+    "totalBytes": 529308098
   }
 }
