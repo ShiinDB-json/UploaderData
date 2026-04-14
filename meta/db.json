@@ -2738,11 +2738,22 @@
       "expiresAt": 1776163592708,
       "url": "https://cdn.miranight.me/api/u/mbg3r4y8rj.png",
       "createdAt": 1776159992708
+    },
+    "fz63x4h16u": {
+      "id": "fz63x4h16u",
+      "originalName": "file.png",
+      "storedName": "fz63x4h16u.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 276344,
+      "expiresAt": 1776163624307,
+      "url": "https://cdn.miranight.me/api/u/fz63x4h16u.png",
+      "createdAt": 1776160024307
     }
   },
   "stats": {
-    "uploads": 2320,
+    "uploads": 2321,
     "deleted": 2071,
-    "totalBytes": 544842414
+    "totalBytes": 545118758
   }
 }
