@@ -1935,11 +1935,22 @@
       "expiresAt": 1776154409867,
       "url": "https://cdn.miranight.me/api/u/5fehcd5muz.png",
       "createdAt": 1776150809867
+    },
+    "tvez3vytic": {
+      "id": "tvez3vytic",
+      "originalName": "file.png",
+      "storedName": "tvez3vytic.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 259455,
+      "expiresAt": 1776154433757,
+      "url": "https://cdn.miranight.me/api/u/tvez3vytic.png",
+      "createdAt": 1776150833757
     }
   },
   "stats": {
-    "uploads": 2247,
+    "uploads": 2248,
     "deleted": 2071,
-    "totalBytes": 527601718
+    "totalBytes": 527861173
   }
 }
