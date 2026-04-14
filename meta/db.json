@@ -1077,11 +1077,22 @@
       "expiresAt": 1776135424245,
       "url": "https://cdn.miranight.me/api/u/jblgmb2m43.png",
       "createdAt": 1776131824245
+    },
+    "hot9ev0tvw": {
+      "id": "hot9ev0tvw",
+      "originalName": "file.png",
+      "storedName": "hot9ev0tvw.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 271127,
+      "expiresAt": 1776136398787,
+      "url": "https://cdn.miranight.me/api/u/hot9ev0tvw.png",
+      "createdAt": 1776132798787
     }
   },
   "stats": {
-    "uploads": 2169,
+    "uploads": 2170,
     "deleted": 2071,
-    "totalBytes": 507610340
+    "totalBytes": 507881467
   }
 }
