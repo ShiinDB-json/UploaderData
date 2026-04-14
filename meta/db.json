@@ -1605,11 +1605,22 @@
       "expiresAt": 1776151024872,
       "url": "https://cdn.miranight.me/api/u/lsvf43xplg.png",
       "createdAt": 1776147424872
+    },
+    "frmgyihney": {
+      "id": "frmgyihney",
+      "originalName": "file.png",
+      "storedName": "frmgyihney.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 291264,
+      "expiresAt": 1776151064495,
+      "url": "https://cdn.miranight.me/api/u/frmgyihney.png",
+      "createdAt": 1776147464495
     }
   },
   "stats": {
-    "uploads": 2217,
+    "uploads": 2218,
     "deleted": 2071,
-    "totalBytes": 520083643
+    "totalBytes": 520374907
   }
 }
