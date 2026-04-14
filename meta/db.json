@@ -2760,11 +2760,22 @@
       "expiresAt": 1776163697424,
       "url": "https://cdn.miranight.me/api/u/2mkjnbtcrk.png",
       "createdAt": 1776160097424
+    },
+    "uqdm44xls8": {
+      "id": "uqdm44xls8",
+      "originalName": "file.png",
+      "storedName": "uqdm44xls8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 407028,
+      "expiresAt": 1776163706127,
+      "url": "https://cdn.miranight.me/api/u/uqdm44xls8.png",
+      "createdAt": 1776160106127
     }
   },
   "stats": {
-    "uploads": 2322,
+    "uploads": 2323,
     "deleted": 2071,
-    "totalBytes": 545352678
+    "totalBytes": 545759706
   }
 }
