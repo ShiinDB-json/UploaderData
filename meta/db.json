@@ -2639,11 +2639,22 @@
       "expiresAt": 1776163392119,
       "url": "https://cdn.miranight.me/api/u/6boj3wgamy.png",
       "createdAt": 1776159792119
+    },
+    "6leznigxyd": {
+      "id": "6leznigxyd",
+      "originalName": "file.png",
+      "storedName": "6leznigxyd.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 251608,
+      "expiresAt": 1776163404141,
+      "url": "https://cdn.miranight.me/api/u/6leznigxyd.png",
+      "createdAt": 1776159804141
     }
   },
   "stats": {
-    "uploads": 2311,
+    "uploads": 2312,
     "deleted": 2071,
-    "totalBytes": 542463916
+    "totalBytes": 542715524
   }
 }
