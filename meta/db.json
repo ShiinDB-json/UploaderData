@@ -3805,11 +3805,22 @@
       "expiresAt": 1776185485383,
       "url": "https://cdn.miranight.me/api/u/hzgxz12cpa.png",
       "createdAt": 1776181885383
+    },
+    "gwueu4axa1": {
+      "id": "gwueu4axa1",
+      "originalName": "file.png",
+      "storedName": "gwueu4axa1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 93745,
+      "expiresAt": 1776185491299,
+      "url": "https://cdn.miranight.me/api/u/gwueu4axa1.png",
+      "createdAt": 1776181891299
     }
   },
   "stats": {
-    "uploads": 2417,
+    "uploads": 2418,
     "deleted": 2071,
-    "totalBytes": 563683169
+    "totalBytes": 563776914
   }
 }
