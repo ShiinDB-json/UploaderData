@@ -1264,11 +1264,22 @@
       "expiresAt": 1776144889758,
       "url": "https://cdn.miranight.me/api/u/7u71pkb0fn.png",
       "createdAt": 1776141289759
+    },
+    "epg8ywx500": {
+      "id": "epg8ywx500",
+      "originalName": "file.png",
+      "storedName": "epg8ywx500.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 277015,
+      "expiresAt": 1776145039061,
+      "url": "https://cdn.miranight.me/api/u/epg8ywx500.png",
+      "createdAt": 1776141439061
     }
   },
   "stats": {
-    "uploads": 2186,
+    "uploads": 2187,
     "deleted": 2071,
-    "totalBytes": 511725408
+    "totalBytes": 512002423
   }
 }
