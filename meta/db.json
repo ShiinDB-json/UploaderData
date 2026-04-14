@@ -1286,11 +1286,22 @@
       "expiresAt": 1776145105327,
       "url": "https://cdn.miranight.me/api/u/o36lkiz5pl.png",
       "createdAt": 1776141505327
+    },
+    "rfaxp0ls4p": {
+      "id": "rfaxp0ls4p",
+      "originalName": "file.png",
+      "storedName": "rfaxp0ls4p.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 243764,
+      "expiresAt": 1776145123464,
+      "url": "https://cdn.miranight.me/api/u/rfaxp0ls4p.png",
+      "createdAt": 1776141523464
     }
   },
   "stats": {
-    "uploads": 2188,
+    "uploads": 2189,
     "deleted": 2071,
-    "totalBytes": 512263037
+    "totalBytes": 512506801
   }
 }
