@@ -2925,11 +2925,22 @@
       "expiresAt": 1776165765684,
       "url": "https://cdn.miranight.me/api/u/h1mr5wdtfo.png",
       "createdAt": 1776162165684
+    },
+    "1ds4i34lcu": {
+      "id": "1ds4i34lcu",
+      "originalName": "file.png",
+      "storedName": "1ds4i34lcu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 211785,
+      "expiresAt": 1776165879651,
+      "url": "https://cdn.miranight.me/api/u/1ds4i34lcu.png",
+      "createdAt": 1776162279651
     }
   },
   "stats": {
-    "uploads": 2337,
+    "uploads": 2338,
     "deleted": 2071,
-    "totalBytes": 548857579
+    "totalBytes": 549069364
   }
 }
