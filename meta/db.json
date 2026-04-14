@@ -1396,11 +1396,22 @@
       "expiresAt": 1776147860458,
       "url": "https://cdn.miranight.me/api/u/mmvcpiqyme.png",
       "createdAt": 1776144260458
+    },
+    "jbe09omigu": {
+      "id": "jbe09omigu",
+      "originalName": "file.png",
+      "storedName": "jbe09omigu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 238851,
+      "expiresAt": 1776148303429,
+      "url": "https://cdn.miranight.me/api/u/jbe09omigu.png",
+      "createdAt": 1776144703429
     }
   },
   "stats": {
-    "uploads": 2198,
+    "uploads": 2199,
     "deleted": 2071,
-    "totalBytes": 515117969
+    "totalBytes": 515356820
   }
 }
