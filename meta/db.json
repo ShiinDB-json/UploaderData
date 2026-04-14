@@ -1011,11 +1011,22 @@
       "expiresAt": 1776133162552,
       "url": "https://cdn.miranight.me/api/u/fxgl19bdmw.png",
       "createdAt": 1776129562552
+    },
+    "805isfmg3v": {
+      "id": "805isfmg3v",
+      "originalName": "file.png",
+      "storedName": "805isfmg3v.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 260614,
+      "expiresAt": 1776133210119,
+      "url": "https://cdn.miranight.me/api/u/805isfmg3v.png",
+      "createdAt": 1776129610119
     }
   },
   "stats": {
-    "uploads": 2163,
+    "uploads": 2164,
     "deleted": 2071,
-    "totalBytes": 506027298
+    "totalBytes": 506287912
   }
 }
