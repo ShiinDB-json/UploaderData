@@ -3618,11 +3618,22 @@
       "expiresAt": 1776183305661,
       "url": "https://cdn.miranight.me/api/u/rotxfcvl2a.png",
       "createdAt": 1776179705661
+    },
+    "2juk2bpr94": {
+      "id": "2juk2bpr94",
+      "originalName": "file.png",
+      "storedName": "2juk2bpr94.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 366635,
+      "expiresAt": 1776183327123,
+      "url": "https://cdn.miranight.me/api/u/2juk2bpr94.png",
+      "createdAt": 1776179727123
     }
   },
   "stats": {
-    "uploads": 2400,
+    "uploads": 2401,
     "deleted": 2071,
-    "totalBytes": 560025460
+    "totalBytes": 560392095
   }
 }
