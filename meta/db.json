@@ -3288,11 +3288,22 @@
       "expiresAt": 1776180423714,
       "url": "https://cdn.miranight.me/api/u/0s48glc45i.png",
       "createdAt": 1776176823714
+    },
+    "ubq7kampne": {
+      "id": "ubq7kampne",
+      "originalName": "file.webp",
+      "storedName": "ubq7kampne.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 30604,
+      "expiresAt": 1776180427031,
+      "url": "https://cdn.miranight.me/api/u/ubq7kampne.webp",
+      "createdAt": 1776176827031
     }
   },
   "stats": {
-    "uploads": 2370,
+    "uploads": 2371,
     "deleted": 2071,
-    "totalBytes": 555596354
+    "totalBytes": 555626958
   }
 }
