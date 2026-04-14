@@ -3750,11 +3750,22 @@
       "expiresAt": 1776185151520,
       "url": "https://cdn.miranight.me/api/u/hantr5byrt.png",
       "createdAt": 1776181551520
+    },
+    "hcc023fi4u": {
+      "id": "hcc023fi4u",
+      "originalName": "file.png",
+      "storedName": "hcc023fi4u.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 93745,
+      "expiresAt": 1776185271222,
+      "url": "https://cdn.miranight.me/api/u/hcc023fi4u.png",
+      "createdAt": 1776181671222
     }
   },
   "stats": {
-    "uploads": 2412,
+    "uploads": 2413,
     "deleted": 2071,
-    "totalBytes": 562717664
+    "totalBytes": 562811409
   }
 }
