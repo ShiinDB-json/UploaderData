@@ -1297,11 +1297,22 @@
       "expiresAt": 1776145123464,
       "url": "https://cdn.miranight.me/api/u/rfaxp0ls4p.png",
       "createdAt": 1776141523464
+    },
+    "812zc5dyke": {
+      "id": "812zc5dyke",
+      "originalName": "file.png",
+      "storedName": "812zc5dyke.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 229225,
+      "expiresAt": 1776145139484,
+      "url": "https://cdn.miranight.me/api/u/812zc5dyke.png",
+      "createdAt": 1776141539484
     }
   },
   "stats": {
-    "uploads": 2189,
+    "uploads": 2190,
     "deleted": 2071,
-    "totalBytes": 512506801
+    "totalBytes": 512736026
   }
 }
