@@ -5631,11 +5631,22 @@
       "expiresAt": 1776127962007,
       "url": "https://cdn.miranight.me/api/u/w2uw22z7qx.png",
       "createdAt": 1776124362007
+    },
+    "eev55trmb8": {
+      "id": "eev55trmb8",
+      "originalName": "file.png",
+      "storedName": "eev55trmb8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 102883,
+      "expiresAt": 1776128688014,
+      "url": "https://cdn.miranight.me/api/u/eev55trmb8.png",
+      "createdAt": 1776125088014
     }
   },
   "stats": {
-    "uploads": 2142,
+    "uploads": 2143,
     "deleted": 1630,
-    "totalBytes": 501861599
+    "totalBytes": 501964482
   }
 }
