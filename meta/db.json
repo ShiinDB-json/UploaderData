@@ -3365,11 +3365,22 @@
       "expiresAt": 1776180462511,
       "url": "https://cdn.miranight.me/api/u/5petamlbn2.webp",
       "createdAt": 1776176862511
+    },
+    "a5t80t25bu": {
+      "id": "a5t80t25bu",
+      "originalName": "file.png",
+      "storedName": "a5t80t25bu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 44004,
+      "expiresAt": 1776180466387,
+      "url": "https://cdn.miranight.me/api/u/a5t80t25bu.png",
+      "createdAt": 1776176866387
     }
   },
   "stats": {
-    "uploads": 2377,
+    "uploads": 2378,
     "deleted": 2071,
-    "totalBytes": 556077120
+    "totalBytes": 556121124
   }
 }
