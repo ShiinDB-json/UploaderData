@@ -1484,11 +1484,22 @@
       "expiresAt": 1776149517809,
       "url": "https://cdn.miranight.me/api/u/fhswf2ocrf.png",
       "createdAt": 1776145917809
+    },
+    "cnygeyvl2i": {
+      "id": "cnygeyvl2i",
+      "originalName": "file.png",
+      "storedName": "cnygeyvl2i.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 315621,
+      "expiresAt": 1776149564315,
+      "url": "https://cdn.miranight.me/api/u/cnygeyvl2i.png",
+      "createdAt": 1776145964315
     }
   },
   "stats": {
-    "uploads": 2206,
+    "uploads": 2207,
     "deleted": 2071,
-    "totalBytes": 517137720
+    "totalBytes": 517453341
   }
 }
