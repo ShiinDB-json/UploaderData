@@ -2485,11 +2485,22 @@
       "expiresAt": 1776162506412,
       "url": "https://cdn.miranight.me/api/u/udskthi8ka.png",
       "createdAt": 1776158906412
+    },
+    "smrk37nevu": {
+      "id": "smrk37nevu",
+      "originalName": "file.png",
+      "storedName": "smrk37nevu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 67791,
+      "expiresAt": 1776162633564,
+      "url": "https://cdn.miranight.me/api/u/smrk37nevu.png",
+      "createdAt": 1776159033564
     }
   },
   "stats": {
-    "uploads": 2297,
+    "uploads": 2298,
     "deleted": 2071,
-    "totalBytes": 539604820
+    "totalBytes": 539672611
   }
 }
