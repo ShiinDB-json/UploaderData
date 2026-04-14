@@ -3607,11 +3607,22 @@
       "expiresAt": 1776183058892,
       "url": "https://cdn.miranight.me/api/u/0hjuc5j8lc.png",
       "createdAt": 1776179458892
+    },
+    "rotxfcvl2a": {
+      "id": "rotxfcvl2a",
+      "originalName": "file.png",
+      "storedName": "rotxfcvl2a.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 416834,
+      "expiresAt": 1776183305661,
+      "url": "https://cdn.miranight.me/api/u/rotxfcvl2a.png",
+      "createdAt": 1776179705661
     }
   },
   "stats": {
-    "uploads": 2399,
+    "uploads": 2400,
     "deleted": 2071,
-    "totalBytes": 559608626
+    "totalBytes": 560025460
   }
 }
