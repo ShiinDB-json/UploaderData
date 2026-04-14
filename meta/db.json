@@ -1308,11 +1308,22 @@
       "expiresAt": 1776145139484,
       "url": "https://cdn.miranight.me/api/u/812zc5dyke.png",
       "createdAt": 1776141539484
+    },
+    "zdrbicuipr": {
+      "id": "zdrbicuipr",
+      "originalName": "file.png",
+      "storedName": "zdrbicuipr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 347484,
+      "expiresAt": 1776145985706,
+      "url": "https://cdn.miranight.me/api/u/zdrbicuipr.png",
+      "createdAt": 1776142385706
     }
   },
   "stats": {
-    "uploads": 2190,
+    "uploads": 2191,
     "deleted": 2071,
-    "totalBytes": 512736026
+    "totalBytes": 513083510
   }
 }
