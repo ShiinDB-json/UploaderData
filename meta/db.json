@@ -3354,11 +3354,22 @@
       "expiresAt": 1776180457500,
       "url": "https://cdn.miranight.me/api/u/1i632gephy.png",
       "createdAt": 1776176857500
+    },
+    "5petamlbn2": {
+      "id": "5petamlbn2",
+      "originalName": "file.webp",
+      "storedName": "5petamlbn2.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 16206,
+      "expiresAt": 1776180462511,
+      "url": "https://cdn.miranight.me/api/u/5petamlbn2.webp",
+      "createdAt": 1776176862511
     }
   },
   "stats": {
-    "uploads": 2376,
+    "uploads": 2377,
     "deleted": 2071,
-    "totalBytes": 556060914
+    "totalBytes": 556077120
   }
 }
