@@ -4278,11 +4278,22 @@
       "expiresAt": 1776213439054,
       "url": "https://cdn.miranight.me/api/u/zecu3a4a5g.png",
       "createdAt": 1776209839055
+    },
+    "lvmart6l3h": {
+      "id": "lvmart6l3h",
+      "originalName": "file.png",
+      "storedName": "lvmart6l3h.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 285459,
+      "expiresAt": 1776213574629,
+      "url": "https://cdn.miranight.me/api/u/lvmart6l3h.png",
+      "createdAt": 1776209974629
     }
   },
   "stats": {
-    "uploads": 2460,
+    "uploads": 2461,
     "deleted": 2071,
-    "totalBytes": 574879884
+    "totalBytes": 575165343
   }
 }
