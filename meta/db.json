@@ -1363,11 +1363,22 @@
       "expiresAt": 1776146338741,
       "url": "https://cdn.miranight.me/api/u/s545dwe2vq.png",
       "createdAt": 1776142738742
+    },
+    "6qana32mvs": {
+      "id": "6qana32mvs",
+      "originalName": "file.png",
+      "storedName": "6qana32mvs.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 212098,
+      "expiresAt": 1776147241665,
+      "url": "https://cdn.miranight.me/api/u/6qana32mvs.png",
+      "createdAt": 1776143641665
     }
   },
   "stats": {
-    "uploads": 2195,
+    "uploads": 2196,
     "deleted": 2071,
-    "totalBytes": 514211249
+    "totalBytes": 514423347
   }
 }
