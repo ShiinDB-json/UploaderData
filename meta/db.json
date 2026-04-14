@@ -1044,11 +1044,22 @@
       "expiresAt": 1776134766818,
       "url": "https://cdn.miranight.me/api/u/4jp6tvcg8g.png",
       "createdAt": 1776131166818
+    },
+    "dx56n7touw": {
+      "id": "dx56n7touw",
+      "originalName": "file.png",
+      "storedName": "dx56n7touw.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 243411,
+      "expiresAt": 1776134797859,
+      "url": "https://cdn.miranight.me/api/u/dx56n7touw.png",
+      "createdAt": 1776131197859
     }
   },
   "stats": {
-    "uploads": 2166,
+    "uploads": 2167,
     "deleted": 2071,
-    "totalBytes": 506807280
+    "totalBytes": 507050691
   }
 }
