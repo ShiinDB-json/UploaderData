@@ -2628,11 +2628,22 @@
       "expiresAt": 1776163358355,
       "url": "https://cdn.miranight.me/api/u/smc1b6wfgz.png",
       "createdAt": 1776159758355
+    },
+    "6boj3wgamy": {
+      "id": "6boj3wgamy",
+      "originalName": "file.png",
+      "storedName": "6boj3wgamy.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 196111,
+      "expiresAt": 1776163392119,
+      "url": "https://cdn.miranight.me/api/u/6boj3wgamy.png",
+      "createdAt": 1776159792119
     }
   },
   "stats": {
-    "uploads": 2310,
+    "uploads": 2311,
     "deleted": 2071,
-    "totalBytes": 542267805
+    "totalBytes": 542463916
   }
 }
