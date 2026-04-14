@@ -1275,11 +1275,22 @@
       "expiresAt": 1776145039061,
       "url": "https://cdn.miranight.me/api/u/epg8ywx500.png",
       "createdAt": 1776141439061
+    },
+    "o36lkiz5pl": {
+      "id": "o36lkiz5pl",
+      "originalName": "file.png",
+      "storedName": "o36lkiz5pl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 260614,
+      "expiresAt": 1776145105327,
+      "url": "https://cdn.miranight.me/api/u/o36lkiz5pl.png",
+      "createdAt": 1776141505327
     }
   },
   "stats": {
-    "uploads": 2187,
+    "uploads": 2188,
     "deleted": 2071,
-    "totalBytes": 512002423
+    "totalBytes": 512263037
   }
 }
