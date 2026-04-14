@@ -3420,11 +3420,22 @@
       "expiresAt": 1776180486804,
       "url": "https://cdn.miranight.me/api/u/rkkcj1bxq0.png",
       "createdAt": 1776176886804
+    },
+    "bz15lip1os": {
+      "id": "bz15lip1os",
+      "originalName": "file.png",
+      "storedName": "bz15lip1os.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 39703,
+      "expiresAt": 1776180526956,
+      "url": "https://cdn.miranight.me/api/u/bz15lip1os.png",
+      "createdAt": 1776176926956
     }
   },
   "stats": {
-    "uploads": 2382,
+    "uploads": 2383,
     "deleted": 2071,
-    "totalBytes": 556230973
+    "totalBytes": 556270676
   }
 }
