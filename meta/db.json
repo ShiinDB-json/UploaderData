@@ -4245,11 +4245,22 @@
       "expiresAt": 1776212321385,
       "url": "https://cdn.miranight.me/api/u/ux485np4cl.png",
       "createdAt": 1776208721385
+    },
+    "io05jatyw0": {
+      "id": "io05jatyw0",
+      "originalName": "file.png",
+      "storedName": "io05jatyw0.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 20335,
+      "expiresAt": 1776213093251,
+      "url": "https://cdn.miranight.me/api/u/io05jatyw0.png",
+      "createdAt": 1776209493251
     }
   },
   "stats": {
-    "uploads": 2457,
+    "uploads": 2458,
     "deleted": 2071,
-    "totalBytes": 574106687
+    "totalBytes": 574127022
   }
 }
