@@ -3970,11 +3970,22 @@
       "expiresAt": 1776185878781,
       "url": "https://cdn.miranight.me/api/u/dmte885pbs.png",
       "createdAt": 1776182278781
+    },
+    "d831ml3pq5": {
+      "id": "d831ml3pq5",
+      "originalName": "file.png",
+      "storedName": "d831ml3pq5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 461662,
+      "expiresAt": 1776185880316,
+      "url": "https://cdn.miranight.me/api/u/d831ml3pq5.png",
+      "createdAt": 1776182280316
     }
   },
   "stats": {
-    "uploads": 2432,
+    "uploads": 2433,
     "deleted": 2071,
-    "totalBytes": 567426553
+    "totalBytes": 567888215
   }
 }
