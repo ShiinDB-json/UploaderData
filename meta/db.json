@@ -3112,11 +3112,22 @@
       "expiresAt": 1776172501108,
       "url": "https://cdn.miranight.me/api/u/m8ivjl7wtt.png",
       "createdAt": 1776168901108
+    },
+    "zsjykqdb60": {
+      "id": "zsjykqdb60",
+      "originalName": "file.png",
+      "storedName": "zsjykqdb60.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 298001,
+      "expiresAt": 1776173643531,
+      "url": "https://cdn.miranight.me/api/u/zsjykqdb60.png",
+      "createdAt": 1776170043531
     }
   },
   "stats": {
-    "uploads": 2354,
+    "uploads": 2355,
     "deleted": 2071,
-    "totalBytes": 552551015
+    "totalBytes": 552849016
   }
 }
