@@ -1330,11 +1330,22 @@
       "expiresAt": 1776146027678,
       "url": "https://cdn.miranight.me/api/u/rso24fhwos.png",
       "createdAt": 1776142427678
+    },
+    "anldul7qag": {
+      "id": "anldul7qag",
+      "originalName": "file.png",
+      "storedName": "anldul7qag.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 366914,
+      "expiresAt": 1776146218440,
+      "url": "https://cdn.miranight.me/api/u/anldul7qag.png",
+      "createdAt": 1776142618440
     }
   },
   "stats": {
-    "uploads": 2192,
+    "uploads": 2193,
     "deleted": 2071,
-    "totalBytes": 513354206
+    "totalBytes": 513721120
   }
 }
