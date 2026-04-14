@@ -3332,11 +3332,22 @@
       "expiresAt": 1776180446857,
       "url": "https://cdn.miranight.me/api/u/cai0a5mklr.png",
       "createdAt": 1776176846857
+    },
+    "tsiyzjk0at": {
+      "id": "tsiyzjk0at",
+      "originalName": "file.webp",
+      "storedName": "tsiyzjk0at.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 18668,
+      "expiresAt": 1776180453010,
+      "url": "https://cdn.miranight.me/api/u/tsiyzjk0at.webp",
+      "createdAt": 1776176853010
     }
   },
   "stats": {
-    "uploads": 2374,
+    "uploads": 2375,
     "deleted": 2071,
-    "totalBytes": 555992243
+    "totalBytes": 556010911
   }
 }
