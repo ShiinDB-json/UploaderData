@@ -4080,11 +4080,22 @@
       "expiresAt": 1776186831288,
       "url": "https://cdn.miranight.me/api/u/djz88ab213.png",
       "createdAt": 1776183231288
+    },
+    "xpuf8fjfsg": {
+      "id": "xpuf8fjfsg",
+      "originalName": "file.png",
+      "storedName": "xpuf8fjfsg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 223188,
+      "expiresAt": 1776187256649,
+      "url": "https://cdn.miranight.me/api/u/xpuf8fjfsg.png",
+      "createdAt": 1776183656649
     }
   },
   "stats": {
-    "uploads": 2442,
+    "uploads": 2443,
     "deleted": 2071,
-    "totalBytes": 569665299
+    "totalBytes": 569888487
   }
 }
