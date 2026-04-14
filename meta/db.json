@@ -4047,11 +4047,22 @@
       "expiresAt": 1776186689082,
       "url": "https://cdn.miranight.me/api/u/pji2jhyh3p.png",
       "createdAt": 1776183089082
+    },
+    "mx4d3xlo35": {
+      "id": "mx4d3xlo35",
+      "originalName": "file.png",
+      "storedName": "mx4d3xlo35.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 402989,
+      "expiresAt": 1776186713061,
+      "url": "https://cdn.miranight.me/api/u/mx4d3xlo35.png",
+      "createdAt": 1776183113061
     }
   },
   "stats": {
-    "uploads": 2439,
+    "uploads": 2440,
     "deleted": 2071,
-    "totalBytes": 568954223
+    "totalBytes": 569357212
   }
 }
