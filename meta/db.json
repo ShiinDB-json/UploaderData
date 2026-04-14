@@ -1385,11 +1385,22 @@
       "expiresAt": 1776147698544,
       "url": "https://cdn.miranight.me/api/u/q87bx6ia4j.png",
       "createdAt": 1776144098544
+    },
+    "mmvcpiqyme": {
+      "id": "mmvcpiqyme",
+      "originalName": "file.png",
+      "storedName": "mmvcpiqyme.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 396621,
+      "expiresAt": 1776147860458,
+      "url": "https://cdn.miranight.me/api/u/mmvcpiqyme.png",
+      "createdAt": 1776144260458
     }
   },
   "stats": {
-    "uploads": 2197,
+    "uploads": 2198,
     "deleted": 2071,
-    "totalBytes": 514721348
+    "totalBytes": 515117969
   }
 }
