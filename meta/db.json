@@ -2287,11 +2287,22 @@
       "expiresAt": 1776158671589,
       "url": "https://cdn.miranight.me/api/u/j3hul4y3w9.png",
       "createdAt": 1776155071589
+    },
+    "ilf6f243us": {
+      "id": "ilf6f243us",
+      "originalName": "file.png",
+      "storedName": "ilf6f243us.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 275335,
+      "expiresAt": 1776158789157,
+      "url": "https://cdn.miranight.me/api/u/ilf6f243us.png",
+      "createdAt": 1776155189157
     }
   },
   "stats": {
-    "uploads": 2279,
+    "uploads": 2280,
     "deleted": 2071,
-    "totalBytes": 535379567
+    "totalBytes": 535654902
   }
 }
