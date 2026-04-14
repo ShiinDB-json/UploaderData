@@ -3398,11 +3398,22 @@
       "expiresAt": 1776180477722,
       "url": "https://cdn.miranight.me/api/u/kf35budo8w.png",
       "createdAt": 1776176877722
+    },
+    "uhjyf4fxxw": {
+      "id": "uhjyf4fxxw",
+      "originalName": "file.webp",
+      "storedName": "uhjyf4fxxw.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 14030,
+      "expiresAt": 1776180481618,
+      "url": "https://cdn.miranight.me/api/u/uhjyf4fxxw.webp",
+      "createdAt": 1776176881618
     }
   },
   "stats": {
-    "uploads": 2380,
+    "uploads": 2381,
     "deleted": 2071,
-    "totalBytes": 556177240
+    "totalBytes": 556191270
   }
 }
