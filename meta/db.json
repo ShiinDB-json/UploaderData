@@ -1143,11 +1143,22 @@
       "expiresAt": 1776138660100,
       "url": "https://cdn.miranight.me/api/u/thy0qekxoo.png",
       "createdAt": 1776135060100
+    },
+    "pja170znax": {
+      "id": "pja170znax",
+      "originalName": "file.png",
+      "storedName": "pja170znax.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 69145,
+      "expiresAt": 1776139261912,
+      "url": "https://cdn.miranight.me/api/u/pja170znax.png",
+      "createdAt": 1776135661912
     }
   },
   "stats": {
-    "uploads": 2175,
+    "uploads": 2176,
     "deleted": 2071,
-    "totalBytes": 509286583
+    "totalBytes": 509355728
   }
 }
