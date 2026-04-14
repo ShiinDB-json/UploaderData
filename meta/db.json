@@ -3794,11 +3794,22 @@
       "expiresAt": 1776185471992,
       "url": "https://cdn.miranight.me/api/u/7ytv50oma9.png",
       "createdAt": 1776181871992
+    },
+    "hzgxz12cpa": {
+      "id": "hzgxz12cpa",
+      "originalName": "file.png",
+      "storedName": "hzgxz12cpa.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 265977,
+      "expiresAt": 1776185485383,
+      "url": "https://cdn.miranight.me/api/u/hzgxz12cpa.png",
+      "createdAt": 1776181885383
     }
   },
   "stats": {
-    "uploads": 2416,
+    "uploads": 2417,
     "deleted": 2071,
-    "totalBytes": 563417192
+    "totalBytes": 563683169
   }
 }
