@@ -3343,11 +3343,22 @@
       "expiresAt": 1776180453010,
       "url": "https://cdn.miranight.me/api/u/tsiyzjk0at.webp",
       "createdAt": 1776176853010
+    },
+    "1i632gephy": {
+      "id": "1i632gephy",
+      "originalName": "file.png",
+      "storedName": "1i632gephy.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 50003,
+      "expiresAt": 1776180457500,
+      "url": "https://cdn.miranight.me/api/u/1i632gephy.png",
+      "createdAt": 1776176857500
     }
   },
   "stats": {
-    "uploads": 2375,
+    "uploads": 2376,
     "deleted": 2071,
-    "totalBytes": 556010911
+    "totalBytes": 556060914
   }
 }
