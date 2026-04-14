@@ -2012,11 +2012,22 @@
       "expiresAt": 1776155452366,
       "url": "https://cdn.miranight.me/api/u/rtl4mfak1b.png",
       "createdAt": 1776151852366
+    },
+    "hhvauslnmb": {
+      "id": "hhvauslnmb",
+      "originalName": "file.png",
+      "storedName": "hhvauslnmb.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 159160,
+      "expiresAt": 1776155457231,
+      "url": "https://cdn.miranight.me/api/u/hhvauslnmb.png",
+      "createdAt": 1776151857231
     }
   },
   "stats": {
-    "uploads": 2254,
+    "uploads": 2255,
     "deleted": 2071,
-    "totalBytes": 529308098
+    "totalBytes": 529467258
   }
 }
