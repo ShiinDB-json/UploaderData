@@ -3277,11 +3277,22 @@
       "expiresAt": 1776180418290,
       "url": "https://cdn.miranight.me/api/u/4ci1dpf250.webp",
       "createdAt": 1776176818290
+    },
+    "0s48glc45i": {
+      "id": "0s48glc45i",
+      "originalName": "file.png",
+      "storedName": "0s48glc45i.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 117169,
+      "expiresAt": 1776180423714,
+      "url": "https://cdn.miranight.me/api/u/0s48glc45i.png",
+      "createdAt": 1776176823714
     }
   },
   "stats": {
-    "uploads": 2369,
+    "uploads": 2370,
     "deleted": 2071,
-    "totalBytes": 555479185
+    "totalBytes": 555596354
   }
 }
