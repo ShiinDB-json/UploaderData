@@ -2606,11 +2606,22 @@
       "expiresAt": 1776163075349,
       "url": "https://cdn.miranight.me/api/u/ux5n8x4rm3.png",
       "createdAt": 1776159475349
+    },
+    "3x85p506gv": {
+      "id": "3x85p506gv",
+      "originalName": "file.png",
+      "storedName": "3x85p506gv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 39928,
+      "expiresAt": 1776163103173,
+      "url": "https://cdn.miranight.me/api/u/3x85p506gv.png",
+      "createdAt": 1776159503173
     }
   },
   "stats": {
-    "uploads": 2308,
+    "uploads": 2309,
     "deleted": 2071,
-    "totalBytes": 542016092
+    "totalBytes": 542056020
   }
 }
