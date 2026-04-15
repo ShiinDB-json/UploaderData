@@ -1748,11 +1748,22 @@
       "expiresAt": 1776245817881,
       "url": "https://cdn.miranight.me/api/u/2tj3kdb46t.png",
       "createdAt": 1776242217881
+    },
+    "mpugcf45dp": {
+      "id": "mpugcf45dp",
+      "originalName": "file.png",
+      "storedName": "mpugcf45dp.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 259230,
+      "expiresAt": 1776245839598,
+      "url": "https://cdn.miranight.me/api/u/mpugcf45dp.png",
+      "createdAt": 1776242239598
     }
   },
   "stats": {
-    "uploads": 2571,
+    "uploads": 2572,
     "deleted": 2412,
-    "totalBytes": 602669632
+    "totalBytes": 602928862
   }
 }
