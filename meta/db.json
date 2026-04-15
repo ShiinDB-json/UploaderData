@@ -1209,11 +1209,22 @@
       "expiresAt": 1776229645177,
       "url": "https://cdn.miranight.me/api/u/48ligf9u4i.png",
       "createdAt": 1776226045177
+    },
+    "nuppoudbwo": {
+      "id": "nuppoudbwo",
+      "originalName": "file.png",
+      "storedName": "nuppoudbwo.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 346775,
+      "expiresAt": 1776229894586,
+      "url": "https://cdn.miranight.me/api/u/nuppoudbwo.png",
+      "createdAt": 1776226294586
     }
   },
   "stats": {
-    "uploads": 2522,
+    "uploads": 2523,
     "deleted": 2412,
-    "totalBytes": 589723647
+    "totalBytes": 590070422
   }
 }
