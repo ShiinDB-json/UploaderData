@@ -1770,11 +1770,22 @@
       "expiresAt": 1776245917243,
       "url": "https://cdn.miranight.me/api/u/arlkmnio3g.png",
       "createdAt": 1776242317243
+    },
+    "g82a2213kx": {
+      "id": "g82a2213kx",
+      "originalName": "file.png",
+      "storedName": "g82a2213kx.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 115998,
+      "expiresAt": 1776245939413,
+      "url": "https://cdn.miranight.me/api/u/g82a2213kx.png",
+      "createdAt": 1776242339413
     }
   },
   "stats": {
-    "uploads": 2573,
+    "uploads": 2574,
     "deleted": 2412,
-    "totalBytes": 603044860
+    "totalBytes": 603160858
   }
 }
