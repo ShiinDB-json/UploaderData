@@ -1528,11 +1528,22 @@
       "expiresAt": 1776239739819,
       "url": "https://cdn.miranight.me/api/u/aamlqorgk0.png",
       "createdAt": 1776236139819
+    },
+    "t63k32ev6d": {
+      "id": "t63k32ev6d",
+      "originalName": "file.png",
+      "storedName": "t63k32ev6d.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 380172,
+      "expiresAt": 1776240434613,
+      "url": "https://cdn.miranight.me/api/u/t63k32ev6d.png",
+      "createdAt": 1776236834613
     }
   },
   "stats": {
-    "uploads": 2551,
+    "uploads": 2552,
     "deleted": 2412,
-    "totalBytes": 597695561
+    "totalBytes": 598075733
   }
 }
