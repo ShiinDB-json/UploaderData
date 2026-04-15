@@ -648,11 +648,22 @@
       "expiresAt": 1776216582148,
       "url": "https://cdn.miranight.me/api/u/9mglu61nm4.png",
       "createdAt": 1776212982148
+    },
+    "byepkhoc52": {
+      "id": "byepkhoc52",
+      "originalName": "file.png",
+      "storedName": "byepkhoc52.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 234612,
+      "expiresAt": 1776217141112,
+      "url": "https://cdn.miranight.me/api/u/byepkhoc52.png",
+      "createdAt": 1776213541113
     }
   },
   "stats": {
-    "uploads": 2471,
+    "uploads": 2472,
     "deleted": 2412,
-    "totalBytes": 577818848
+    "totalBytes": 578053460
   }
 }
