@@ -2452,11 +2452,22 @@
       "expiresAt": 1776267014274,
       "url": "https://cdn.miranight.me/api/u/7bsovox8e7.png",
       "createdAt": 1776263414274
+    },
+    "jgroj4rf1a": {
+      "id": "jgroj4rf1a",
+      "originalName": "file.png",
+      "storedName": "jgroj4rf1a.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 225869,
+      "expiresAt": 1776267051794,
+      "url": "https://cdn.miranight.me/api/u/jgroj4rf1a.png",
+      "createdAt": 1776263451794
     }
   },
   "stats": {
-    "uploads": 2635,
+    "uploads": 2636,
     "deleted": 2412,
-    "totalBytes": 618130894
+    "totalBytes": 618356763
   }
 }
