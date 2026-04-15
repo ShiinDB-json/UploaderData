@@ -1990,11 +1990,22 @@
       "expiresAt": 1776247888998,
       "url": "https://cdn.miranight.me/api/u/b91qneebxg.png",
       "createdAt": 1776244288998
+    },
+    "bkdve2bem8": {
+      "id": "bkdve2bem8",
+      "originalName": "file.png",
+      "storedName": "bkdve2bem8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 298001,
+      "expiresAt": 1776247895435,
+      "url": "https://cdn.miranight.me/api/u/bkdve2bem8.png",
+      "createdAt": 1776244295435
     }
   },
   "stats": {
-    "uploads": 2593,
+    "uploads": 2594,
     "deleted": 2412,
-    "totalBytes": 607390713
+    "totalBytes": 607688714
   }
 }
