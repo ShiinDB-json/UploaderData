@@ -2012,11 +2012,22 @@
       "expiresAt": 1776247901025,
       "url": "https://cdn.miranight.me/api/u/9m78x4ba52.png",
       "createdAt": 1776244301025
+    },
+    "xqrx1mki51": {
+      "id": "xqrx1mki51",
+      "originalName": "file.png",
+      "storedName": "xqrx1mki51.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 294200,
+      "expiresAt": 1776247924759,
+      "url": "https://cdn.miranight.me/api/u/xqrx1mki51.png",
+      "createdAt": 1776244324759
     }
   },
   "stats": {
-    "uploads": 2595,
+    "uploads": 2596,
     "deleted": 2412,
-    "totalBytes": 607920790
+    "totalBytes": 608214990
   }
 }
