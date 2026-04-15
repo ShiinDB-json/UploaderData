@@ -978,11 +978,22 @@
       "expiresAt": 1776225311480,
       "url": "https://cdn.miranight.me/api/u/6rgkzd23lf.png",
       "createdAt": 1776221711480
+    },
+    "gteyldtj3s": {
+      "id": "gteyldtj3s",
+      "originalName": "file.png",
+      "storedName": "gteyldtj3s.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 258497,
+      "expiresAt": 1776225358110,
+      "url": "https://cdn.miranight.me/api/u/gteyldtj3s.png",
+      "createdAt": 1776221758110
     }
   },
   "stats": {
-    "uploads": 2501,
+    "uploads": 2502,
     "deleted": 2412,
-    "totalBytes": 584916648
+    "totalBytes": 585175145
   }
 }
