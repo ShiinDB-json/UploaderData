@@ -1385,11 +1385,22 @@
       "expiresAt": 1776234334921,
       "url": "https://cdn.miranight.me/api/u/c1at80ikyd.png",
       "createdAt": 1776230734921
+    },
+    "uwpsp6164m": {
+      "id": "uwpsp6164m",
+      "originalName": "file.png",
+      "storedName": "uwpsp6164m.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 236308,
+      "expiresAt": 1776234346380,
+      "url": "https://cdn.miranight.me/api/u/uwpsp6164m.png",
+      "createdAt": 1776230746380
     }
   },
   "stats": {
-    "uploads": 2538,
+    "uploads": 2539,
     "deleted": 2412,
-    "totalBytes": 594344590
+    "totalBytes": 594580898
   }
 }
