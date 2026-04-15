@@ -1858,11 +1858,22 @@
       "expiresAt": 1776246891099,
       "url": "https://cdn.miranight.me/api/u/ihgrem5l8t.png",
       "createdAt": 1776243291099
+    },
+    "zvy58ofrte": {
+      "id": "zvy58ofrte",
+      "originalName": "file.png",
+      "storedName": "zvy58ofrte.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 263801,
+      "expiresAt": 1776247207071,
+      "url": "https://cdn.miranight.me/api/u/zvy58ofrte.png",
+      "createdAt": 1776243607071
     }
   },
   "stats": {
-    "uploads": 2581,
+    "uploads": 2582,
     "deleted": 2412,
-    "totalBytes": 604305550
+    "totalBytes": 604569351
   }
 }
