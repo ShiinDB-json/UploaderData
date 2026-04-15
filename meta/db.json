@@ -1473,11 +1473,22 @@
       "expiresAt": 1776237592301,
       "url": "https://cdn.miranight.me/api/u/rs31dvfsgl.png",
       "createdAt": 1776233992301
+    },
+    "afjgl3syqa": {
+      "id": "afjgl3syqa",
+      "originalName": "file.png",
+      "storedName": "afjgl3syqa.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 145720,
+      "expiresAt": 1776237898992,
+      "url": "https://cdn.miranight.me/api/u/afjgl3syqa.png",
+      "createdAt": 1776234298992
     }
   },
   "stats": {
-    "uploads": 2546,
+    "uploads": 2547,
     "deleted": 2412,
-    "totalBytes": 596245785
+    "totalBytes": 596391505
   }
 }
