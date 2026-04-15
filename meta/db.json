@@ -1594,11 +1594,22 @@
       "expiresAt": 1776241571830,
       "url": "https://cdn.miranight.me/api/u/3wr0ldp9gu.png",
       "createdAt": 1776237971830
+    },
+    "oyd88h2wxv": {
+      "id": "oyd88h2wxv",
+      "originalName": "file.png",
+      "storedName": "oyd88h2wxv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 290114,
+      "expiresAt": 1776242925674,
+      "url": "https://cdn.miranight.me/api/u/oyd88h2wxv.png",
+      "createdAt": 1776239325675
     }
   },
   "stats": {
-    "uploads": 2557,
+    "uploads": 2558,
     "deleted": 2412,
-    "totalBytes": 598940531
+    "totalBytes": 599230645
   }
 }
