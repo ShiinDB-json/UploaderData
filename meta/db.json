@@ -2155,11 +2155,22 @@
       "expiresAt": 1776248415986,
       "url": "https://cdn.miranight.me/api/u/d1u3e5srny.png",
       "createdAt": 1776244815986
+    },
+    "gea207hxzo": {
+      "id": "gea207hxzo",
+      "originalName": "file.png",
+      "storedName": "gea207hxzo.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 9787,
+      "expiresAt": 1776248455443,
+      "url": "https://cdn.miranight.me/api/u/gea207hxzo.png",
+      "createdAt": 1776244855443
     }
   },
   "stats": {
-    "uploads": 2608,
+    "uploads": 2609,
     "deleted": 2412,
-    "totalBytes": 611043729
+    "totalBytes": 611053516
   }
 }
