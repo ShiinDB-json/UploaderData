@@ -1803,11 +1803,22 @@
       "expiresAt": 1776246014600,
       "url": "https://cdn.miranight.me/api/u/xvue46fuk1.png",
       "createdAt": 1776242414600
+    },
+    "2k3rz4nhcu": {
+      "id": "2k3rz4nhcu",
+      "originalName": "file.png",
+      "storedName": "2k3rz4nhcu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 285448,
+      "expiresAt": 1776246050117,
+      "url": "https://cdn.miranight.me/api/u/2k3rz4nhcu.png",
+      "createdAt": 1776242450117
     }
   },
   "stats": {
-    "uploads": 2576,
+    "uploads": 2577,
     "deleted": 2412,
-    "totalBytes": 603646135
+    "totalBytes": 603931583
   }
 }
