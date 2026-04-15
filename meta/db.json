@@ -1759,11 +1759,22 @@
       "expiresAt": 1776245839598,
       "url": "https://cdn.miranight.me/api/u/mpugcf45dp.png",
       "createdAt": 1776242239598
+    },
+    "arlkmnio3g": {
+      "id": "arlkmnio3g",
+      "originalName": "file.png",
+      "storedName": "arlkmnio3g.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 115998,
+      "expiresAt": 1776245917243,
+      "url": "https://cdn.miranight.me/api/u/arlkmnio3g.png",
+      "createdAt": 1776242317243
     }
   },
   "stats": {
-    "uploads": 2572,
+    "uploads": 2573,
     "deleted": 2412,
-    "totalBytes": 602928862
+    "totalBytes": 603044860
   }
 }
