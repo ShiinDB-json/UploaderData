@@ -1561,11 +1561,22 @@
       "expiresAt": 1776241149707,
       "url": "https://cdn.miranight.me/api/u/5jseq17s57.png",
       "createdAt": 1776237549707
+    },
+    "viv4zu90uv": {
+      "id": "viv4zu90uv",
+      "originalName": "file.png",
+      "storedName": "viv4zu90uv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 104286,
+      "expiresAt": 1776241188039,
+      "url": "https://cdn.miranight.me/api/u/viv4zu90uv.png",
+      "createdAt": 1776237588039
     }
   },
   "stats": {
-    "uploads": 2554,
+    "uploads": 2555,
     "deleted": 2412,
-    "totalBytes": 598525535
+    "totalBytes": 598629821
   }
 }
