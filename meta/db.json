@@ -1781,11 +1781,22 @@
       "expiresAt": 1776245939413,
       "url": "https://cdn.miranight.me/api/u/g82a2213kx.png",
       "createdAt": 1776242339413
+    },
+    "f1dnse450j": {
+      "id": "f1dnse450j",
+      "originalName": "file.png",
+      "storedName": "f1dnse450j.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 122515,
+      "expiresAt": 1776245966869,
+      "url": "https://cdn.miranight.me/api/u/f1dnse450j.png",
+      "createdAt": 1776242366869
     }
   },
   "stats": {
-    "uploads": 2574,
+    "uploads": 2575,
     "deleted": 2412,
-    "totalBytes": 603160858
+    "totalBytes": 603283373
   }
 }
