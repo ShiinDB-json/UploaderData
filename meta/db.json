@@ -1066,11 +1066,22 @@
       "expiresAt": 1776226510441,
       "url": "https://cdn.miranight.me/api/u/kd8t1kdsv8.png",
       "createdAt": 1776222910441
+    },
+    "itopp2pdtf": {
+      "id": "itopp2pdtf",
+      "originalName": "file.png",
+      "storedName": "itopp2pdtf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 313075,
+      "expiresAt": 1776226533362,
+      "url": "https://cdn.miranight.me/api/u/itopp2pdtf.png",
+      "createdAt": 1776222933362
     }
   },
   "stats": {
-    "uploads": 2509,
+    "uploads": 2510,
     "deleted": 2412,
-    "totalBytes": 586711558
+    "totalBytes": 587024633
   }
 }
