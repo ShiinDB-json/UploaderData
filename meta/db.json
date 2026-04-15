@@ -1792,11 +1792,22 @@
       "expiresAt": 1776245966869,
       "url": "https://cdn.miranight.me/api/u/f1dnse450j.png",
       "createdAt": 1776242366869
+    },
+    "xvue46fuk1": {
+      "id": "xvue46fuk1",
+      "originalName": "file.png",
+      "storedName": "xvue46fuk1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 362762,
+      "expiresAt": 1776246014600,
+      "url": "https://cdn.miranight.me/api/u/xvue46fuk1.png",
+      "createdAt": 1776242414600
     }
   },
   "stats": {
-    "uploads": 2575,
+    "uploads": 2576,
     "deleted": 2412,
-    "totalBytes": 603283373
+    "totalBytes": 603646135
   }
 }
