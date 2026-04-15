@@ -857,11 +857,22 @@
       "expiresAt": 1776224374823,
       "url": "https://cdn.miranight.me/api/u/eesnjc2s4n.png",
       "createdAt": 1776220774823
+    },
+    "dssnupw96s": {
+      "id": "dssnupw96s",
+      "originalName": "file.png",
+      "storedName": "dssnupw96s.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 61896,
+      "expiresAt": 1776224378862,
+      "url": "https://cdn.miranight.me/api/u/dssnupw96s.png",
+      "createdAt": 1776220778862
     }
   },
   "stats": {
-    "uploads": 2490,
+    "uploads": 2491,
     "deleted": 2412,
-    "totalBytes": 582729467
+    "totalBytes": 582791363
   }
 }
