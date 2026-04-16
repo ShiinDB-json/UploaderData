@@ -3156,11 +3156,22 @@
       "expiresAt": 1776354165720,
       "url": "https://cdn.miranight.me/api/u/nh0rim98gs.png",
       "createdAt": 1776350565720
+    },
+    "zbut55di1s": {
+      "id": "zbut55di1s",
+      "originalName": "file.png",
+      "storedName": "zbut55di1s.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 57719,
+      "expiresAt": 1776354243546,
+      "url": "https://cdn.miranight.me/api/u/zbut55di1s.png",
+      "createdAt": 1776350643546
     }
   },
   "stats": {
-    "uploads": 2887,
+    "uploads": 2888,
     "deleted": 2600,
-    "totalBytes": 678406318
+    "totalBytes": 678464037
   }
 }
