@@ -1924,11 +1924,22 @@
       "expiresAt": 1776342006123,
       "url": "https://cdn.miranight.me/api/u/crmdsesys9.png",
       "createdAt": 1776338406123
+    },
+    "ujjj2fn49k": {
+      "id": "ujjj2fn49k",
+      "originalName": "file.png",
+      "storedName": "ujjj2fn49k.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 141162,
+      "expiresAt": 1776342013330,
+      "url": "https://cdn.miranight.me/api/u/ujjj2fn49k.png",
+      "createdAt": 1776338413330
     }
   },
   "stats": {
-    "uploads": 2775,
+    "uploads": 2776,
     "deleted": 2600,
-    "totalBytes": 654350573
+    "totalBytes": 654491735
   }
 }
