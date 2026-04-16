@@ -780,11 +780,22 @@
       "expiresAt": 1776330208928,
       "url": "https://cdn.miranight.me/api/u/ryq242xems.png",
       "createdAt": 1776326608928
+    },
+    "3cpx55gp5r": {
+      "id": "3cpx55gp5r",
+      "originalName": "file.png",
+      "storedName": "3cpx55gp5r.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 238803,
+      "expiresAt": 1776330510549,
+      "url": "https://cdn.miranight.me/api/u/3cpx55gp5r.png",
+      "createdAt": 1776326910549
     }
   },
   "stats": {
-    "uploads": 2671,
+    "uploads": 2672,
     "deleted": 2600,
-    "totalBytes": 627013735
+    "totalBytes": 627252538
   }
 }
