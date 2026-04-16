@@ -1253,11 +1253,22 @@
       "expiresAt": 1776335416548,
       "url": "https://cdn.miranight.me/api/u/anbaf9sw66.png",
       "createdAt": 1776331816548
+    },
+    "grx22yo6ps": {
+      "id": "grx22yo6ps",
+      "originalName": "file.png",
+      "storedName": "grx22yo6ps.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 264010,
+      "expiresAt": 1776335543820,
+      "url": "https://cdn.miranight.me/api/u/grx22yo6ps.png",
+      "createdAt": 1776331943820
     }
   },
   "stats": {
-    "uploads": 2714,
+    "uploads": 2715,
     "deleted": 2600,
-    "totalBytes": 637603643
+    "totalBytes": 637867653
   }
 }
