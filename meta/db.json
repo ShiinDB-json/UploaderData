@@ -472,11 +472,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/z4r72x791n.mp4",
       "createdAt": 1776261889673
+    },
+    "dan8tzxs3x": {
+      "id": "dan8tzxs3x",
+      "originalName": "file.png",
+      "storedName": "dan8tzxs3x.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 314947,
+      "expiresAt": 1776302959530,
+      "url": "https://cdn.miranight.me/api/u/dan8tzxs3x.png",
+      "createdAt": 1776299359530
     }
   },
   "stats": {
-    "uploads": 2643,
+    "uploads": 2644,
     "deleted": 2600,
-    "totalBytes": 620583741
+    "totalBytes": 620898688
   }
 }
