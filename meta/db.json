@@ -3365,11 +3365,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/wuqr0vnpx8.mp4",
       "createdAt": 1776353570677
+    },
+    "yirvllsiln": {
+      "id": "yirvllsiln",
+      "originalName": "file.png",
+      "storedName": "yirvllsiln.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 297698,
+      "expiresAt": 1776357833654,
+      "url": "https://cdn.miranight.me/api/u/yirvllsiln.png",
+      "createdAt": 1776354233654
     }
   },
   "stats": {
-    "uploads": 2906,
+    "uploads": 2907,
     "deleted": 2600,
-    "totalBytes": 683115692
+    "totalBytes": 683413390
   }
 }
