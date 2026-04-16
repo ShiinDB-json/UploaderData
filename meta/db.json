@@ -3211,11 +3211,22 @@
       "expiresAt": 1776355026729,
       "url": "https://cdn.miranight.me/api/u/t0cpfmua7o.png",
       "createdAt": 1776351426729
+    },
+    "svkwmg49ai": {
+      "id": "svkwmg49ai",
+      "originalName": "file.png",
+      "storedName": "svkwmg49ai.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 161081,
+      "expiresAt": 1776355057807,
+      "url": "https://cdn.miranight.me/api/u/svkwmg49ai.png",
+      "createdAt": 1776351457807
     }
   },
   "stats": {
-    "uploads": 2892,
+    "uploads": 2893,
     "deleted": 2600,
-    "totalBytes": 679434706
+    "totalBytes": 679595787
   }
 }
