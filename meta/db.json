@@ -1792,11 +1792,22 @@
       "expiresAt": 1776341497174,
       "url": "https://cdn.miranight.me/api/u/7tgsj4nzlj.png",
       "createdAt": 1776337897174
+    },
+    "ezmoi9m64c": {
+      "id": "ezmoi9m64c",
+      "originalName": "file.png",
+      "storedName": "ezmoi9m64c.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 357294,
+      "expiresAt": 1776341645933,
+      "url": "https://cdn.miranight.me/api/u/ezmoi9m64c.png",
+      "createdAt": 1776338045933
     }
   },
   "stats": {
-    "uploads": 2763,
+    "uploads": 2764,
     "deleted": 2600,
-    "totalBytes": 651243480
+    "totalBytes": 651600774
   }
 }
