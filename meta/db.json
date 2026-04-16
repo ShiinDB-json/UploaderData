@@ -1462,11 +1462,22 @@
       "expiresAt": 1776339466809,
       "url": "https://cdn.miranight.me/api/u/u18van6x13.png",
       "createdAt": 1776335866809
+    },
+    "4gk662x4kf": {
+      "id": "4gk662x4kf",
+      "originalName": "file.png",
+      "storedName": "4gk662x4kf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 342526,
+      "expiresAt": 1776339548892,
+      "url": "https://cdn.miranight.me/api/u/4gk662x4kf.png",
+      "createdAt": 1776335948892
     }
   },
   "stats": {
-    "uploads": 2733,
+    "uploads": 2734,
     "deleted": 2600,
-    "totalBytes": 642614711
+    "totalBytes": 642957237
   }
 }
