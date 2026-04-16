@@ -1220,11 +1220,22 @@
       "expiresAt": 1776334774278,
       "url": "https://cdn.miranight.me/api/u/13p051ffnj.png",
       "createdAt": 1776331174278
+    },
+    "fbzvtgh8bn": {
+      "id": "fbzvtgh8bn",
+      "originalName": "file.png",
+      "storedName": "fbzvtgh8bn.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 64670,
+      "expiresAt": 1776334778456,
+      "url": "https://cdn.miranight.me/api/u/fbzvtgh8bn.png",
+      "createdAt": 1776331178456
     }
   },
   "stats": {
-    "uploads": 2711,
+    "uploads": 2712,
     "deleted": 2600,
-    "totalBytes": 637214923
+    "totalBytes": 637279593
   }
 }
