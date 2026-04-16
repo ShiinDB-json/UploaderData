@@ -2485,11 +2485,22 @@
       "expiresAt": 1776346142493,
       "url": "https://cdn.miranight.me/api/u/cgc33em6r0.png",
       "createdAt": 1776342542493
+    },
+    "28u3en40v5": {
+      "id": "28u3en40v5",
+      "originalName": "file.png",
+      "storedName": "28u3en40v5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 337002,
+      "expiresAt": 1776346264213,
+      "url": "https://cdn.miranight.me/api/u/28u3en40v5.png",
+      "createdAt": 1776342664213
     }
   },
   "stats": {
-    "uploads": 2826,
+    "uploads": 2827,
     "deleted": 2600,
-    "totalBytes": 665755176
+    "totalBytes": 666092178
   }
 }
