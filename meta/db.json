@@ -3420,11 +3420,22 @@
       "expiresAt": 1776358956882,
       "url": "https://cdn.miranight.me/api/u/w2n2028f2v.png",
       "createdAt": 1776355356882
+    },
+    "afbv9ln3au": {
+      "id": "afbv9ln3au",
+      "originalName": "file.png",
+      "storedName": "afbv9ln3au.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 85665,
+      "expiresAt": 1776358983480,
+      "url": "https://cdn.miranight.me/api/u/afbv9ln3au.png",
+      "createdAt": 1776355383481
     }
   },
   "stats": {
-    "uploads": 2911,
+    "uploads": 2912,
     "deleted": 2600,
-    "totalBytes": 684278333
+    "totalBytes": 684363998
   }
 }
