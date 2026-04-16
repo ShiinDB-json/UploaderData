@@ -2023,11 +2023,22 @@
       "expiresAt": 1776342300143,
       "url": "https://cdn.miranight.me/api/u/tb4n5zl1vn.png",
       "createdAt": 1776338700143
+    },
+    "zoixq53n3k": {
+      "id": "zoixq53n3k",
+      "originalName": "file.png",
+      "storedName": "zoixq53n3k.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 146586,
+      "expiresAt": 1776342309496,
+      "url": "https://cdn.miranight.me/api/u/zoixq53n3k.png",
+      "createdAt": 1776338709496
     }
   },
   "stats": {
-    "uploads": 2784,
+    "uploads": 2785,
     "deleted": 2600,
-    "totalBytes": 656514230
+    "totalBytes": 656660816
   }
 }
