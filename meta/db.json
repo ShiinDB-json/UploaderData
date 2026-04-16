@@ -2210,11 +2210,22 @@
       "expiresAt": 1776342886366,
       "url": "https://cdn.miranight.me/api/u/n883kptncs.png",
       "createdAt": 1776339286366
+    },
+    "ma46u1utk5": {
+      "id": "ma46u1utk5",
+      "originalName": "file.png",
+      "storedName": "ma46u1utk5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 273868,
+      "expiresAt": 1776342894018,
+      "url": "https://cdn.miranight.me/api/u/ma46u1utk5.png",
+      "createdAt": 1776339294018
     }
   },
   "stats": {
-    "uploads": 2801,
+    "uploads": 2802,
     "deleted": 2600,
-    "totalBytes": 660451230
+    "totalBytes": 660725098
   }
 }
