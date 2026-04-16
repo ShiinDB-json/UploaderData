@@ -3145,11 +3145,22 @@
       "expiresAt": 1776354164649,
       "url": "https://cdn.miranight.me/api/u/2l64cj4kkj.png",
       "createdAt": 1776350564649
+    },
+    "nh0rim98gs": {
+      "id": "nh0rim98gs",
+      "originalName": "file.png",
+      "storedName": "nh0rim98gs.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 51285,
+      "expiresAt": 1776354165720,
+      "url": "https://cdn.miranight.me/api/u/nh0rim98gs.png",
+      "createdAt": 1776350565720
     }
   },
   "stats": {
-    "uploads": 2886,
+    "uploads": 2887,
     "deleted": 2600,
-    "totalBytes": 678355033
+    "totalBytes": 678406318
   }
 }
