@@ -3321,11 +3321,22 @@
       "expiresAt": 1776355549384,
       "url": "https://cdn.miranight.me/api/u/ibmc1s01ad.png",
       "createdAt": 1776351949384
+    },
+    "dugchiut9d": {
+      "id": "dugchiut9d",
+      "originalName": "file.png",
+      "storedName": "dugchiut9d.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 241956,
+      "expiresAt": 1776355580271,
+      "url": "https://cdn.miranight.me/api/u/dugchiut9d.png",
+      "createdAt": 1776351980271
     }
   },
   "stats": {
-    "uploads": 2902,
+    "uploads": 2903,
     "deleted": 2600,
-    "totalBytes": 682056959
+    "totalBytes": 682298915
   }
 }
