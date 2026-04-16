@@ -1858,11 +1858,22 @@
       "expiresAt": 1776341936461,
       "url": "https://cdn.miranight.me/api/u/myedusvml7.png",
       "createdAt": 1776338336461
+    },
+    "0fhj21mx13": {
+      "id": "0fhj21mx13",
+      "originalName": "file.png",
+      "storedName": "0fhj21mx13.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 160716,
+      "expiresAt": 1776341953392,
+      "url": "https://cdn.miranight.me/api/u/0fhj21mx13.png",
+      "createdAt": 1776338353392
     }
   },
   "stats": {
-    "uploads": 2769,
+    "uploads": 2770,
     "deleted": 2600,
-    "totalBytes": 652885341
+    "totalBytes": 653046057
   }
 }
