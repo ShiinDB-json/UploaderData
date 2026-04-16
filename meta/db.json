@@ -3332,11 +3332,22 @@
       "expiresAt": 1776355580271,
       "url": "https://cdn.miranight.me/api/u/dugchiut9d.png",
       "createdAt": 1776351980271
+    },
+    "jczcdg0a6z": {
+      "id": "jczcdg0a6z",
+      "originalName": "file.png",
+      "storedName": "jczcdg0a6z.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 366374,
+      "expiresAt": 1776356276877,
+      "url": "https://cdn.miranight.me/api/u/jczcdg0a6z.png",
+      "createdAt": 1776352676877
     }
   },
   "stats": {
-    "uploads": 2903,
+    "uploads": 2904,
     "deleted": 2600,
-    "totalBytes": 682298915
+    "totalBytes": 682665289
   }
 }
