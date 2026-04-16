@@ -1484,11 +1484,22 @@
       "expiresAt": 1776339592509,
       "url": "https://cdn.miranight.me/api/u/pu520z2wsw.png",
       "createdAt": 1776335992509
+    },
+    "lwbzbhluk9": {
+      "id": "lwbzbhluk9",
+      "originalName": "file.png",
+      "storedName": "lwbzbhluk9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 332273,
+      "expiresAt": 1776339637745,
+      "url": "https://cdn.miranight.me/api/u/lwbzbhluk9.png",
+      "createdAt": 1776336037745
     }
   },
   "stats": {
-    "uploads": 2735,
+    "uploads": 2736,
     "deleted": 2600,
-    "totalBytes": 643158233
+    "totalBytes": 643490506
   }
 }
