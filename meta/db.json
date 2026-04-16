@@ -791,11 +791,22 @@
       "expiresAt": 1776330510549,
       "url": "https://cdn.miranight.me/api/u/3cpx55gp5r.png",
       "createdAt": 1776326910549
+    },
+    "frlrodle7a": {
+      "id": "frlrodle7a",
+      "originalName": "file.png",
+      "storedName": "frlrodle7a.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 498802,
+      "expiresAt": 1776331166213,
+      "url": "https://cdn.miranight.me/api/u/frlrodle7a.png",
+      "createdAt": 1776327566213
     }
   },
   "stats": {
-    "uploads": 2672,
+    "uploads": 2673,
     "deleted": 2600,
-    "totalBytes": 627252538
+    "totalBytes": 627751340
   }
 }
