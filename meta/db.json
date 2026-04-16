@@ -3739,11 +3739,22 @@
       "expiresAt": 1776386084285,
       "url": "https://cdn.miranight.me/api/u/rgkiygqbfr.png",
       "createdAt": 1776382484285
+    },
+    "tvspvxakaz": {
+      "id": "tvspvxakaz",
+      "originalName": "file.png",
+      "storedName": "tvspvxakaz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 121057,
+      "expiresAt": 1776386150168,
+      "url": "https://cdn.miranight.me/api/u/tvspvxakaz.png",
+      "createdAt": 1776382550168
     }
   },
   "stats": {
-    "uploads": 2940,
+    "uploads": 2941,
     "deleted": 2600,
-    "totalBytes": 691606058
+    "totalBytes": 691727115
   }
 }
