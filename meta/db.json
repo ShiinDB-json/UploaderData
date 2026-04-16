@@ -2507,11 +2507,22 @@
       "expiresAt": 1776346360796,
       "url": "https://cdn.miranight.me/api/u/rigghmbrip.png",
       "createdAt": 1776342760796
+    },
+    "4agowlwfx8": {
+      "id": "4agowlwfx8",
+      "originalName": "file.png",
+      "storedName": "4agowlwfx8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 194968,
+      "expiresAt": 1776346443467,
+      "url": "https://cdn.miranight.me/api/u/4agowlwfx8.png",
+      "createdAt": 1776342843467
     }
   },
   "stats": {
-    "uploads": 2828,
+    "uploads": 2829,
     "deleted": 2600,
-    "totalBytes": 666383442
+    "totalBytes": 666578410
   }
 }
