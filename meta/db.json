@@ -2199,11 +2199,22 @@
       "expiresAt": 1776342819322,
       "url": "https://cdn.miranight.me/api/u/wx96494nwl.png",
       "createdAt": 1776339219322
+    },
+    "n883kptncs": {
+      "id": "n883kptncs",
+      "originalName": "file.png",
+      "storedName": "n883kptncs.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 86884,
+      "expiresAt": 1776342886366,
+      "url": "https://cdn.miranight.me/api/u/n883kptncs.png",
+      "createdAt": 1776339286366
     }
   },
   "stats": {
-    "uploads": 2800,
+    "uploads": 2801,
     "deleted": 2600,
-    "totalBytes": 660364346
+    "totalBytes": 660451230
   }
 }
