@@ -2628,11 +2628,22 @@
       "expiresAt": 1776346703875,
       "url": "https://cdn.miranight.me/api/u/vmryc3o2s3.png",
       "createdAt": 1776343103875
+    },
+    "esi8mijgwg": {
+      "id": "esi8mijgwg",
+      "originalName": "file.png",
+      "storedName": "esi8mijgwg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 30227,
+      "expiresAt": 1776346708726,
+      "url": "https://cdn.miranight.me/api/u/esi8mijgwg.png",
+      "createdAt": 1776343108726
     }
   },
   "stats": {
-    "uploads": 2839,
+    "uploads": 2840,
     "deleted": 2600,
-    "totalBytes": 668448064
+    "totalBytes": 668478291
   }
 }
