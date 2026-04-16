@@ -967,11 +967,22 @@
       "expiresAt": 1776331987274,
       "url": "https://cdn.miranight.me/api/u/wwc2pdrv5m.png",
       "createdAt": 1776328387274
+    },
+    "bima5h7djf": {
+      "id": "bima5h7djf",
+      "originalName": "file.png",
+      "storedName": "bima5h7djf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 307589,
+      "expiresAt": 1776332175559,
+      "url": "https://cdn.miranight.me/api/u/bima5h7djf.png",
+      "createdAt": 1776328575559
     }
   },
   "stats": {
-    "uploads": 2688,
+    "uploads": 2689,
     "deleted": 2600,
-    "totalBytes": 630903303
+    "totalBytes": 631210892
   }
 }
