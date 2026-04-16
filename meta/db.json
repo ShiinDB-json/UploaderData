@@ -2309,11 +2309,22 @@
       "expiresAt": 1776343489820,
       "url": "https://cdn.miranight.me/api/u/u1n623cybp.png",
       "createdAt": 1776339889820
+    },
+    "pf0x4farca": {
+      "id": "pf0x4farca",
+      "originalName": "file.webp",
+      "storedName": "pf0x4farca.webp",
+      "folder": "image",
+      "mimeType": "image/webp",
+      "size": 39922,
+      "expiresAt": 1776343500468,
+      "url": "https://cdn.miranight.me/api/u/pf0x4farca.webp",
+      "createdAt": 1776339900468
     }
   },
   "stats": {
-    "uploads": 2810,
+    "uploads": 2811,
     "deleted": 2600,
-    "totalBytes": 662583461
+    "totalBytes": 662623383
   }
 }
