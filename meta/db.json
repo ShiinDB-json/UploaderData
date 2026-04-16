@@ -1671,11 +1671,22 @@
       "expiresAt": 1776340344438,
       "url": "https://cdn.miranight.me/api/u/cdz636goi7.png",
       "createdAt": 1776336744438
+    },
+    "hacj6o52rk": {
+      "id": "hacj6o52rk",
+      "originalName": "file.png",
+      "storedName": "hacj6o52rk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 183939,
+      "expiresAt": 1776340462835,
+      "url": "https://cdn.miranight.me/api/u/hacj6o52rk.png",
+      "createdAt": 1776336862835
     }
   },
   "stats": {
-    "uploads": 2752,
+    "uploads": 2753,
     "deleted": 2600,
-    "totalBytes": 647915244
+    "totalBytes": 648099183
   }
 }
