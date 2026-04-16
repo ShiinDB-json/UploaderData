@@ -1176,11 +1176,22 @@
       "expiresAt": 1776334339056,
       "url": "https://cdn.miranight.me/api/u/x874og2wmc.png",
       "createdAt": 1776330739056
+    },
+    "bc89ml8tlv": {
+      "id": "bc89ml8tlv",
+      "originalName": "file.png",
+      "storedName": "bc89ml8tlv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 221319,
+      "expiresAt": 1776334353242,
+      "url": "https://cdn.miranight.me/api/u/bc89ml8tlv.png",
+      "createdAt": 1776330753242
     }
   },
   "stats": {
-    "uploads": 2707,
+    "uploads": 2708,
     "deleted": 2600,
-    "totalBytes": 636127862
+    "totalBytes": 636349181
   }
 }
