@@ -2353,11 +2353,22 @@
       "expiresAt": 1776343549672,
       "url": "https://cdn.miranight.me/api/u/1s28i4dc26.png",
       "createdAt": 1776339949672
+    },
+    "db37lfhitz": {
+      "id": "db37lfhitz",
+      "originalName": "file.png",
+      "storedName": "db37lfhitz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 145411,
+      "expiresAt": 1776343575387,
+      "url": "https://cdn.miranight.me/api/u/db37lfhitz.png",
+      "createdAt": 1776339975387
     }
   },
   "stats": {
-    "uploads": 2814,
+    "uploads": 2815,
     "deleted": 2600,
-    "totalBytes": 662904421
+    "totalBytes": 663049832
   }
 }
