@@ -3497,11 +3497,22 @@
       "expiresAt": 1776359406807,
       "url": "https://cdn.miranight.me/api/u/yzfn88pqet.png",
       "createdAt": 1776355806807
+    },
+    "ngtidn2vtg": {
+      "id": "ngtidn2vtg",
+      "originalName": "file.png",
+      "storedName": "ngtidn2vtg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 312781,
+      "expiresAt": 1776359423070,
+      "url": "https://cdn.miranight.me/api/u/ngtidn2vtg.png",
+      "createdAt": 1776355823071
     }
   },
   "stats": {
-    "uploads": 2918,
+    "uploads": 2919,
     "deleted": 2600,
-    "totalBytes": 686547414
+    "totalBytes": 686860195
   }
 }
