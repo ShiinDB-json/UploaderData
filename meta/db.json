@@ -1099,11 +1099,22 @@
       "expiresAt": 1776333908183,
       "url": "https://cdn.miranight.me/api/u/wlnuey0ldz.png",
       "createdAt": 1776330308183
+    },
+    "kpgiljrbs7": {
+      "id": "kpgiljrbs7",
+      "originalName": "file.png",
+      "storedName": "kpgiljrbs7.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 156217,
+      "expiresAt": 1776333985353,
+      "url": "https://cdn.miranight.me/api/u/kpgiljrbs7.png",
+      "createdAt": 1776330385353
     }
   },
   "stats": {
-    "uploads": 2700,
+    "uploads": 2701,
     "deleted": 2600,
-    "totalBytes": 634215906
+    "totalBytes": 634372123
   }
 }
