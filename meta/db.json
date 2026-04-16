@@ -1715,11 +1715,22 @@
       "expiresAt": 1776340608608,
       "url": "https://cdn.miranight.me/api/u/rvjpwiit03.png",
       "createdAt": 1776337008608
+    },
+    "kx86a9jg3e": {
+      "id": "kx86a9jg3e",
+      "originalName": "file.png",
+      "storedName": "kx86a9jg3e.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 291264,
+      "expiresAt": 1776341007511,
+      "url": "https://cdn.miranight.me/api/u/kx86a9jg3e.png",
+      "createdAt": 1776337407511
     }
   },
   "stats": {
-    "uploads": 2756,
+    "uploads": 2757,
     "deleted": 2600,
-    "totalBytes": 649253003
+    "totalBytes": 649544267
   }
 }
