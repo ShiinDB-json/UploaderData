@@ -1737,11 +1737,22 @@
       "expiresAt": 1776341014898,
       "url": "https://cdn.miranight.me/api/u/q65qejc5b0.png",
       "createdAt": 1776337414898
+    },
+    "dxfnw8mzas": {
+      "id": "dxfnw8mzas",
+      "originalName": "file.png",
+      "storedName": "dxfnw8mzas.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 43322,
+      "expiresAt": 1776341102073,
+      "url": "https://cdn.miranight.me/api/u/dxfnw8mzas.png",
+      "createdAt": 1776337502073
     }
   },
   "stats": {
-    "uploads": 2758,
+    "uploads": 2759,
     "deleted": 2600,
-    "totalBytes": 649867362
+    "totalBytes": 649910684
   }
 }
