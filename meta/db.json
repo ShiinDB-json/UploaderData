@@ -2188,11 +2188,22 @@
       "expiresAt": 1776342785179,
       "url": "https://cdn.miranight.me/api/u/086lfq5her.png",
       "createdAt": 1776339185179
+    },
+    "wx96494nwl": {
+      "id": "wx96494nwl",
+      "originalName": "file.png",
+      "storedName": "wx96494nwl.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 249731,
+      "expiresAt": 1776342819322,
+      "url": "https://cdn.miranight.me/api/u/wx96494nwl.png",
+      "createdAt": 1776339219322
     }
   },
   "stats": {
-    "uploads": 2799,
+    "uploads": 2800,
     "deleted": 2600,
-    "totalBytes": 660114615
+    "totalBytes": 660364346
   }
 }
