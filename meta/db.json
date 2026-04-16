@@ -2298,11 +2298,22 @@
       "expiresAt": 1776343371263,
       "url": "https://cdn.miranight.me/api/u/dmav5t9enm.png",
       "createdAt": 1776339771263
+    },
+    "u1n623cybp": {
+      "id": "u1n623cybp",
+      "originalName": "file.png",
+      "storedName": "u1n623cybp.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 145411,
+      "expiresAt": 1776343489820,
+      "url": "https://cdn.miranight.me/api/u/u1n623cybp.png",
+      "createdAt": 1776339889820
     }
   },
   "stats": {
-    "uploads": 2809,
+    "uploads": 2810,
     "deleted": 2600,
-    "totalBytes": 662438050
+    "totalBytes": 662583461
   }
 }
