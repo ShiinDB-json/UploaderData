@@ -2265,11 +2265,22 @@
       "expiresAt": 1776343335265,
       "url": "https://cdn.miranight.me/api/u/fn8f43s944.png",
       "createdAt": 1776339735265
+    },
+    "fukdvmspov": {
+      "id": "fukdvmspov",
+      "originalName": "file.png",
+      "storedName": "fukdvmspov.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 282041,
+      "expiresAt": 1776343358340,
+      "url": "https://cdn.miranight.me/api/u/fukdvmspov.png",
+      "createdAt": 1776339758340
     }
   },
   "stats": {
-    "uploads": 2806,
+    "uploads": 2807,
     "deleted": 2600,
-    "totalBytes": 661721576
+    "totalBytes": 662003617
   }
 }
