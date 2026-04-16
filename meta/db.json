@@ -3387,11 +3387,22 @@
       "expiresAt": 1776358123567,
       "url": "https://cdn.miranight.me/api/u/lr5hbu0neb.png",
       "createdAt": 1776354523567
+    },
+    "85sealpzl5": {
+      "id": "85sealpzl5",
+      "originalName": "file.png",
+      "storedName": "85sealpzl5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 299443,
+      "expiresAt": 1776358490816,
+      "url": "https://cdn.miranight.me/api/u/85sealpzl5.png",
+      "createdAt": 1776354890816
     }
   },
   "stats": {
-    "uploads": 2908,
+    "uploads": 2909,
     "deleted": 2600,
-    "totalBytes": 683590449
+    "totalBytes": 683889892
   }
 }
