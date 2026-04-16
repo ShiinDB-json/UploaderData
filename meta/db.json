@@ -1594,11 +1594,22 @@
       "expiresAt": 1776340164909,
       "url": "https://cdn.miranight.me/api/u/hxrohouzdx.png",
       "createdAt": 1776336564909
+    },
+    "vw20hkge4n": {
+      "id": "vw20hkge4n",
+      "originalName": "file.png",
+      "storedName": "vw20hkge4n.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 158329,
+      "expiresAt": 1776340188791,
+      "url": "https://cdn.miranight.me/api/u/vw20hkge4n.png",
+      "createdAt": 1776336588791
     }
   },
   "stats": {
-    "uploads": 2745,
+    "uploads": 2746,
     "deleted": 2600,
-    "totalBytes": 645749542
+    "totalBytes": 645907871
   }
 }
