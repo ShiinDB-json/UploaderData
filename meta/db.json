@@ -3541,11 +3541,22 @@
       "expiresAt": 1776366165609,
       "url": "https://cdn.miranight.me/api/u/0dzpc7w57g.png",
       "createdAt": 1776362565609
+    },
+    "1pbui95cls": {
+      "id": "1pbui95cls",
+      "originalName": "file.png",
+      "storedName": "1pbui95cls.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 249843,
+      "expiresAt": 1776366391260,
+      "url": "https://cdn.miranight.me/api/u/1pbui95cls.png",
+      "createdAt": 1776362791260
     }
   },
   "stats": {
-    "uploads": 2922,
+    "uploads": 2923,
     "deleted": 2600,
-    "totalBytes": 687586964
+    "totalBytes": 687836807
   }
 }
