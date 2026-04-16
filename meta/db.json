@@ -505,11 +505,22 @@
       "expiresAt": 1776304992264,
       "url": "https://cdn.miranight.me/api/u/rx4vt8dize.png",
       "createdAt": 1776301392264
+    },
+    "tltwm4iumy": {
+      "id": "tltwm4iumy",
+      "originalName": "file.png",
+      "storedName": "tltwm4iumy.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 136039,
+      "expiresAt": 1776305544206,
+      "url": "https://cdn.miranight.me/api/u/tltwm4iumy.png",
+      "createdAt": 1776301944206
     }
   },
   "stats": {
-    "uploads": 2646,
+    "uploads": 2647,
     "deleted": 2600,
-    "totalBytes": 621530355
+    "totalBytes": 621666394
   }
 }
