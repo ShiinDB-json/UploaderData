@@ -2859,11 +2859,22 @@
       "expiresAt": 1776352868875,
       "url": "https://cdn.miranight.me/api/u/keck9122hp.png",
       "createdAt": 1776349268875
+    },
+    "o5aqlgp62d": {
+      "id": "o5aqlgp62d",
+      "originalName": "file.png",
+      "storedName": "o5aqlgp62d.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 296892,
+      "expiresAt": 1776353012451,
+      "url": "https://cdn.miranight.me/api/u/o5aqlgp62d.png",
+      "createdAt": 1776349412451
     }
   },
   "stats": {
-    "uploads": 2860,
+    "uploads": 2861,
     "deleted": 2600,
-    "totalBytes": 672987295
+    "totalBytes": 673284187
   }
 }
