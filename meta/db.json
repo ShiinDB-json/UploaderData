@@ -2375,11 +2375,22 @@
       "expiresAt": 1776343626216,
       "url": "https://cdn.miranight.me/api/u/k2uqbdjwfm.png",
       "createdAt": 1776340026216
+    },
+    "chatge6n7x": {
+      "id": "chatge6n7x",
+      "originalName": "file.png",
+      "storedName": "chatge6n7x.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 145411,
+      "expiresAt": 1776343638766,
+      "url": "https://cdn.miranight.me/api/u/chatge6n7x.png",
+      "createdAt": 1776340038766
     }
   },
   "stats": {
-    "uploads": 2816,
+    "uploads": 2817,
     "deleted": 2600,
-    "totalBytes": 663332128
+    "totalBytes": 663477539
   }
 }
