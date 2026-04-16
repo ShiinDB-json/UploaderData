@@ -1704,11 +1704,22 @@
       "expiresAt": 1776340538685,
       "url": "https://cdn.miranight.me/api/u/7f6da8xwyg.png",
       "createdAt": 1776336938685
+    },
+    "rvjpwiit03": {
+      "id": "rvjpwiit03",
+      "originalName": "file.png",
+      "storedName": "rvjpwiit03.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 333733,
+      "expiresAt": 1776340608608,
+      "url": "https://cdn.miranight.me/api/u/rvjpwiit03.png",
+      "createdAt": 1776337008608
     }
   },
   "stats": {
-    "uploads": 2755,
+    "uploads": 2756,
     "deleted": 2600,
-    "totalBytes": 648919270
+    "totalBytes": 649253003
   }
 }
