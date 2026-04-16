@@ -835,11 +835,22 @@
       "expiresAt": 1776331398367,
       "url": "https://cdn.miranight.me/api/u/c9pwoeebsm.png",
       "createdAt": 1776327798367
+    },
+    "naferodezx": {
+      "id": "naferodezx",
+      "originalName": "file.png",
+      "storedName": "naferodezx.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 232145,
+      "expiresAt": 1776331512865,
+      "url": "https://cdn.miranight.me/api/u/naferodezx.png",
+      "createdAt": 1776327912865
     }
   },
   "stats": {
-    "uploads": 2676,
+    "uploads": 2677,
     "deleted": 2600,
-    "totalBytes": 628070857
+    "totalBytes": 628303002
   }
 }
