@@ -494,11 +494,22 @@
       "expiresAt": 1776304556016,
       "url": "https://cdn.miranight.me/api/u/tp2xenj1u3.png",
       "createdAt": 1776300956016
+    },
+    "rx4vt8dize": {
+      "id": "rx4vt8dize",
+      "originalName": "file.png",
+      "storedName": "rx4vt8dize.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 251495,
+      "expiresAt": 1776304992264,
+      "url": "https://cdn.miranight.me/api/u/rx4vt8dize.png",
+      "createdAt": 1776301392264
     }
   },
   "stats": {
-    "uploads": 2645,
+    "uploads": 2646,
     "deleted": 2600,
-    "totalBytes": 621278860
+    "totalBytes": 621530355
   }
 }
