@@ -1506,11 +1506,22 @@
       "expiresAt": 1776339649891,
       "url": "https://cdn.miranight.me/api/u/7pwaoi8601.png",
       "createdAt": 1776336049891
+    },
+    "loomyk1kp4": {
+      "id": "loomyk1kp4",
+      "originalName": "file.png",
+      "storedName": "loomyk1kp4.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 310828,
+      "expiresAt": 1776339719504,
+      "url": "https://cdn.miranight.me/api/u/loomyk1kp4.png",
+      "createdAt": 1776336119504
     }
   },
   "stats": {
-    "uploads": 2737,
+    "uploads": 2738,
     "deleted": 2600,
-    "totalBytes": 643729309
+    "totalBytes": 644040137
   }
 }
