@@ -1055,11 +1055,22 @@
       "expiresAt": 1776333376048,
       "url": "https://cdn.miranight.me/api/u/7xtjv2zzk1.png",
       "createdAt": 1776329776048
+    },
+    "25flejughb": {
+      "id": "25flejughb",
+      "originalName": "file.png",
+      "storedName": "25flejughb.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 342526,
+      "expiresAt": 1776333572205,
+      "url": "https://cdn.miranight.me/api/u/25flejughb.png",
+      "createdAt": 1776329972205
     }
   },
   "stats": {
-    "uploads": 2696,
+    "uploads": 2697,
     "deleted": 2600,
-    "totalBytes": 632870522
+    "totalBytes": 633213048
   }
 }
