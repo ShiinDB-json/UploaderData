@@ -2254,11 +2254,22 @@
       "expiresAt": 1776343195479,
       "url": "https://cdn.miranight.me/api/u/kx72tpesfg.png",
       "createdAt": 1776339595479
+    },
+    "fn8f43s944": {
+      "id": "fn8f43s944",
+      "originalName": "file.png",
+      "storedName": "fn8f43s944.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 298001,
+      "expiresAt": 1776343335265,
+      "url": "https://cdn.miranight.me/api/u/fn8f43s944.png",
+      "createdAt": 1776339735265
     }
   },
   "stats": {
-    "uploads": 2805,
+    "uploads": 2806,
     "deleted": 2600,
-    "totalBytes": 661423575
+    "totalBytes": 661721576
   }
 }
