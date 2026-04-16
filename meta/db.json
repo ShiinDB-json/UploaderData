@@ -3079,11 +3079,22 @@
       "expiresAt": 1776353641960,
       "url": "https://cdn.miranight.me/api/u/r8vuqcawff.png",
       "createdAt": 1776350041960
+    },
+    "doggsligeq": {
+      "id": "doggsligeq",
+      "originalName": "file.png",
+      "storedName": "doggsligeq.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 49356,
+      "expiresAt": 1776353952926,
+      "url": "https://cdn.miranight.me/api/u/doggsligeq.png",
+      "createdAt": 1776350352926
     }
   },
   "stats": {
-    "uploads": 2880,
+    "uploads": 2881,
     "deleted": 2600,
-    "totalBytes": 677580319
+    "totalBytes": 677629675
   }
 }
