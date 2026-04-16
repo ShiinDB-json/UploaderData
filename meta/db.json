@@ -2320,11 +2320,22 @@
       "expiresAt": 1776343500468,
       "url": "https://cdn.miranight.me/api/u/pf0x4farca.webp",
       "createdAt": 1776339900468
+    },
+    "butyi8gsn5": {
+      "id": "butyi8gsn5",
+      "originalName": "file.png",
+      "storedName": "butyi8gsn5.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 113871,
+      "expiresAt": 1776343505981,
+      "url": "https://cdn.miranight.me/api/u/butyi8gsn5.png",
+      "createdAt": 1776339905981
     }
   },
   "stats": {
-    "uploads": 2811,
+    "uploads": 2812,
     "deleted": 2600,
-    "totalBytes": 662623383
+    "totalBytes": 662737254
   }
 }
