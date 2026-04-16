@@ -1517,11 +1517,22 @@
       "expiresAt": 1776339719504,
       "url": "https://cdn.miranight.me/api/u/loomyk1kp4.png",
       "createdAt": 1776336119504
+    },
+    "hylsoqgnsf": {
+      "id": "hylsoqgnsf",
+      "originalName": "file.png",
+      "storedName": "hylsoqgnsf.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 276344,
+      "expiresAt": 1776339724593,
+      "url": "https://cdn.miranight.me/api/u/hylsoqgnsf.png",
+      "createdAt": 1776336124593
     }
   },
   "stats": {
-    "uploads": 2738,
+    "uploads": 2739,
     "deleted": 2600,
-    "totalBytes": 644040137
+    "totalBytes": 644316481
   }
 }
