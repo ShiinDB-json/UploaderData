@@ -3508,11 +3508,22 @@
       "expiresAt": 1776359423070,
       "url": "https://cdn.miranight.me/api/u/ngtidn2vtg.png",
       "createdAt": 1776355823071
+    },
+    "ozzo85kcxg": {
+      "id": "ozzo85kcxg",
+      "originalName": "file.png",
+      "storedName": "ozzo85kcxg.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 289654,
+      "expiresAt": 1776360356624,
+      "url": "https://cdn.miranight.me/api/u/ozzo85kcxg.png",
+      "createdAt": 1776356756624
     }
   },
   "stats": {
-    "uploads": 2919,
+    "uploads": 2920,
     "deleted": 2600,
-    "totalBytes": 686860195
+    "totalBytes": 687149849
   }
 }
