@@ -2034,11 +2034,22 @@
       "expiresAt": 1776342309496,
       "url": "https://cdn.miranight.me/api/u/zoixq53n3k.png",
       "createdAt": 1776338709496
+    },
+    "i225zn921f": {
+      "id": "i225zn921f",
+      "originalName": "file.png",
+      "storedName": "i225zn921f.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 284073,
+      "expiresAt": 1776342325174,
+      "url": "https://cdn.miranight.me/api/u/i225zn921f.png",
+      "createdAt": 1776338725174
     }
   },
   "stats": {
-    "uploads": 2785,
+    "uploads": 2786,
     "deleted": 2600,
-    "totalBytes": 656660816
+    "totalBytes": 656944889
   }
 }
