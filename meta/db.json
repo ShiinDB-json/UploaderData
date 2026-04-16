@@ -648,11 +648,22 @@
       "expiresAt": 1776318536413,
       "url": "https://cdn.miranight.me/api/u/wgb66ka3i9.png",
       "createdAt": 1776314936413
+    },
+    "5tns72rtma": {
+      "id": "5tns72rtma",
+      "originalName": "file.png",
+      "storedName": "5tns72rtma.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 477403,
+      "expiresAt": 1776318678175,
+      "url": "https://cdn.miranight.me/api/u/5tns72rtma.png",
+      "createdAt": 1776315078175
     }
   },
   "stats": {
-    "uploads": 2659,
+    "uploads": 2660,
     "deleted": 2600,
-    "totalBytes": 624069316
+    "totalBytes": 624546719
   }
 }
