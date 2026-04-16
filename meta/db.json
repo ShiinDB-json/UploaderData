@@ -3167,11 +3167,22 @@
       "expiresAt": 1776354243546,
       "url": "https://cdn.miranight.me/api/u/zbut55di1s.png",
       "createdAt": 1776350643546
+    },
+    "hxqt44c59v": {
+      "id": "hxqt44c59v",
+      "originalName": "file.png",
+      "storedName": "hxqt44c59v.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 65156,
+      "expiresAt": 1776354263751,
+      "url": "https://cdn.miranight.me/api/u/hxqt44c59v.png",
+      "createdAt": 1776350663751
     }
   },
   "stats": {
-    "uploads": 2888,
+    "uploads": 2889,
     "deleted": 2600,
-    "totalBytes": 678464037
+    "totalBytes": 678529193
   }
 }
