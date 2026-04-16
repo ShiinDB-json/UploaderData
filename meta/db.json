@@ -3310,11 +3310,22 @@
       "expiresAt": 1776355528831,
       "url": "https://cdn.miranight.me/api/u/fv2uaxvydi.png",
       "createdAt": 1776351928831
+    },
+    "ibmc1s01ad": {
+      "id": "ibmc1s01ad",
+      "originalName": "file.png",
+      "storedName": "ibmc1s01ad.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 400780,
+      "expiresAt": 1776355549384,
+      "url": "https://cdn.miranight.me/api/u/ibmc1s01ad.png",
+      "createdAt": 1776351949384
     }
   },
   "stats": {
-    "uploads": 2901,
+    "uploads": 2902,
     "deleted": 2600,
-    "totalBytes": 681656179
+    "totalBytes": 682056959
   }
 }
