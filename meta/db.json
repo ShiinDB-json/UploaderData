@@ -1165,11 +1165,22 @@
       "expiresAt": 1776403832292,
       "url": "https://cdn.miranight.me/api/u/n5hqvg8yuv.png",
       "createdAt": 1776400232292
+    },
+    "cphu85m0u2": {
+      "id": "cphu85m0u2",
+      "originalName": "file.png",
+      "storedName": "cphu85m0u2.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 322648,
+      "expiresAt": 1776403844571,
+      "url": "https://cdn.miranight.me/api/u/cphu85m0u2.png",
+      "createdAt": 1776400244571
     }
   },
   "stats": {
-    "uploads": 2998,
+    "uploads": 2999,
     "deleted": 2892,
-    "totalBytes": 704994321
+    "totalBytes": 705316969
   }
 }
