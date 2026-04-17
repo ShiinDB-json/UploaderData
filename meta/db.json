@@ -1726,11 +1726,22 @@
       "expiresAt": 1776409634215,
       "url": "https://cdn.miranight.me/api/u/judn1sip3d.png",
       "createdAt": 1776406034215
+    },
+    "glwevoxnad": {
+      "id": "glwevoxnad",
+      "originalName": "file.png",
+      "storedName": "glwevoxnad.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 412050,
+      "expiresAt": 1776409645044,
+      "url": "https://cdn.miranight.me/api/u/glwevoxnad.png",
+      "createdAt": 1776406045044
     }
   },
   "stats": {
-    "uploads": 3049,
+    "uploads": 3050,
     "deleted": 2892,
-    "totalBytes": 715839291
+    "totalBytes": 716251341
   }
 }
