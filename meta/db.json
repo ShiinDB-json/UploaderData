@@ -692,11 +692,22 @@
       "expiresAt": 1776394093980,
       "url": "https://cdn.miranight.me/api/u/skwp107b4d.png",
       "createdAt": 1776390493980
+    },
+    "ivpnqpa3ze": {
+      "id": "ivpnqpa3ze",
+      "originalName": "file.png",
+      "storedName": "ivpnqpa3ze.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 323434,
+      "expiresAt": 1776394559145,
+      "url": "https://cdn.miranight.me/api/u/ivpnqpa3ze.png",
+      "createdAt": 1776390959145
     }
   },
   "stats": {
-    "uploads": 2955,
+    "uploads": 2956,
     "deleted": 2892,
-    "totalBytes": 694925349
+    "totalBytes": 695248783
   }
 }
