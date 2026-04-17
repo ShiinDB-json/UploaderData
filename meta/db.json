@@ -1825,11 +1825,22 @@
       "expiresAt": 1776410014161,
       "url": "https://cdn.miranight.me/api/u/vevujikukv.png",
       "createdAt": 1776406414161
+    },
+    "smxldmuk34": {
+      "id": "smxldmuk34",
+      "originalName": "file.png",
+      "storedName": "smxldmuk34.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 56983,
+      "expiresAt": 1776410033428,
+      "url": "https://cdn.miranight.me/api/u/smxldmuk34.png",
+      "createdAt": 1776406433428
     }
   },
   "stats": {
-    "uploads": 3058,
+    "uploads": 3059,
     "deleted": 2892,
-    "totalBytes": 717462006
+    "totalBytes": 717518989
   }
 }
