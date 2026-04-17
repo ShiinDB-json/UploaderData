@@ -1033,11 +1033,22 @@
       "expiresAt": 1776403024099,
       "url": "https://cdn.miranight.me/api/u/9cv2uu86gu.png",
       "createdAt": 1776399424099
+    },
+    "crn0cnmole": {
+      "id": "crn0cnmole",
+      "originalName": "file.png",
+      "storedName": "crn0cnmole.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 252170,
+      "expiresAt": 1776403032000,
+      "url": "https://cdn.miranight.me/api/u/crn0cnmole.png",
+      "createdAt": 1776399432000
     }
   },
   "stats": {
-    "uploads": 2986,
+    "uploads": 2987,
     "deleted": 2892,
-    "totalBytes": 702373530
+    "totalBytes": 702625700
   }
 }
