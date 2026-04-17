@@ -1209,11 +1209,22 @@
       "expiresAt": 1776404866755,
       "url": "https://cdn.miranight.me/api/u/ktw7j3helk.png",
       "createdAt": 1776401266755
+    },
+    "hkwme44zol": {
+      "id": "hkwme44zol",
+      "originalName": "file.png",
+      "storedName": "hkwme44zol.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 237924,
+      "expiresAt": 1776405737575,
+      "url": "https://cdn.miranight.me/api/u/hkwme44zol.png",
+      "createdAt": 1776402137575
     }
   },
   "stats": {
-    "uploads": 3002,
+    "uploads": 3003,
     "deleted": 2892,
-    "totalBytes": 705882222
+    "totalBytes": 706120146
   }
 }
