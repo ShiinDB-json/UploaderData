@@ -2452,11 +2452,22 @@
       "expiresAt": 1776422835254,
       "url": "https://cdn.miranight.me/api/u/3u1w2ssx9o.png",
       "createdAt": 1776419235254
+    },
+    "xrdisi20mr": {
+      "id": "xrdisi20mr",
+      "originalName": "file.png",
+      "storedName": "xrdisi20mr.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 68776,
+      "expiresAt": 1776422966485,
+      "url": "https://cdn.miranight.me/api/u/xrdisi20mr.png",
+      "createdAt": 1776419366485
     }
   },
   "stats": {
-    "uploads": 3115,
+    "uploads": 3116,
     "deleted": 2892,
-    "totalBytes": 729471548
+    "totalBytes": 729540324
   }
 }
