@@ -648,11 +648,22 @@
       "expiresAt": 1776390842510,
       "url": "https://cdn.miranight.me/api/u/61edbsw3il.png",
       "createdAt": 1776387242510
+    },
+    "8h220kxrpu": {
+      "id": "8h220kxrpu",
+      "originalName": "file.png",
+      "storedName": "8h220kxrpu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 370877,
+      "expiresAt": 1776391972555,
+      "url": "https://cdn.miranight.me/api/u/8h220kxrpu.png",
+      "createdAt": 1776388372555
     }
   },
   "stats": {
-    "uploads": 2951,
+    "uploads": 2952,
     "deleted": 2892,
-    "totalBytes": 693999440
+    "totalBytes": 694370317
   }
 }
