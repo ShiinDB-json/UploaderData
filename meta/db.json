@@ -758,11 +758,22 @@
       "expiresAt": 1776395176407,
       "url": "https://cdn.miranight.me/api/u/lc99955lzi.png",
       "createdAt": 1776391576407
+    },
+    "dmt8r209cu": {
+      "id": "dmt8r209cu",
+      "originalName": "file.png",
+      "storedName": "dmt8r209cu.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 377394,
+      "expiresAt": 1776395188270,
+      "url": "https://cdn.miranight.me/api/u/dmt8r209cu.png",
+      "createdAt": 1776391588270
     }
   },
   "stats": {
-    "uploads": 2961,
+    "uploads": 2962,
     "deleted": 2892,
-    "totalBytes": 696491722
+    "totalBytes": 696869116
   }
 }
