@@ -604,11 +604,22 @@
       "expiresAt": 1776390339480,
       "url": "https://cdn.miranight.me/api/u/1u7dowt7fn.png",
       "createdAt": 1776386739480
+    },
+    "ovspf96tig": {
+      "id": "ovspf96tig",
+      "originalName": "file.png",
+      "storedName": "ovspf96tig.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 298001,
+      "expiresAt": 1776390687997,
+      "url": "https://cdn.miranight.me/api/u/ovspf96tig.png",
+      "createdAt": 1776387087997
     }
   },
   "stats": {
-    "uploads": 2947,
+    "uploads": 2948,
     "deleted": 2892,
-    "totalBytes": 693039381
+    "totalBytes": 693337382
   }
 }
