@@ -2298,11 +2298,22 @@
       "expiresAt": 1776420156778,
       "url": "https://cdn.miranight.me/api/u/drhaadnoi2.png",
       "createdAt": 1776416556778
+    },
+    "d4csj44d15": {
+      "id": "d4csj44d15",
+      "originalName": "file.png",
+      "storedName": "d4csj44d15.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 347179,
+      "expiresAt": 1776420299345,
+      "url": "https://cdn.miranight.me/api/u/d4csj44d15.png",
+      "createdAt": 1776416699345
     }
   },
   "stats": {
-    "uploads": 3101,
+    "uploads": 3102,
     "deleted": 2892,
-    "totalBytes": 725904029
+    "totalBytes": 726251208
   }
 }
