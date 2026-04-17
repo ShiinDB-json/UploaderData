@@ -4427,11 +4427,22 @@
       "sourceUrl": "https://cdn.miranight.me/api/u/eqh6w2eotq.html",
       "url": "https://cdn.miranight.me/api/u/40isup4yam.html",
       "createdAt": 1776442808824
+    },
+    "1mew7pm60o": {
+      "id": "1mew7pm60o",
+      "originalName": "file.png",
+      "storedName": "1mew7pm60o.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 79731,
+      "expiresAt": 1776446423729,
+      "url": "https://cdn.miranight.me/api/u/1mew7pm60o.png",
+      "createdAt": 1776442823729
     }
   },
   "stats": {
-    "uploads": 3294,
+    "uploads": 3295,
     "deleted": 2892,
-    "totalBytes": 893079108
+    "totalBytes": 893158839
   }
 }
