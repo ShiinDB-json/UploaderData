@@ -1836,11 +1836,22 @@
       "expiresAt": 1776410033428,
       "url": "https://cdn.miranight.me/api/u/smxldmuk34.png",
       "createdAt": 1776406433428
+    },
+    "3cmdu02c87": {
+      "id": "3cmdu02c87",
+      "originalName": "file.png",
+      "storedName": "3cmdu02c87.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 259455,
+      "expiresAt": 1776410060094,
+      "url": "https://cdn.miranight.me/api/u/3cmdu02c87.png",
+      "createdAt": 1776406460094
     }
   },
   "stats": {
-    "uploads": 3059,
+    "uploads": 3060,
     "deleted": 2892,
-    "totalBytes": 717518989
+    "totalBytes": 717778444
   }
 }
