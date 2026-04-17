@@ -3849,11 +3849,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/brv3wlh4sl.dmp",
       "createdAt": 1776441283989
+    },
+    "rrgehz4669": {
+      "id": "rrgehz4669",
+      "originalName": "bomb_1mb.dmp",
+      "storedName": "rrgehz4669.dmp",
+      "folder": "other",
+      "mimeType": "application/vnd.tcpdump.pcap",
+      "size": 1048576,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/rrgehz4669.dmp",
+      "createdAt": 1776441287000
     }
   },
   "stats": {
-    "uploads": 3242,
+    "uploads": 3243,
     "deleted": 2892,
-    "totalBytes": 767842474
+    "totalBytes": 768891050
   }
 }
