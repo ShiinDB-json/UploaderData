@@ -1704,11 +1704,22 @@
       "expiresAt": 1776409581005,
       "url": "https://cdn.miranight.me/api/u/pgt40gprim.png",
       "createdAt": 1776405981005
+    },
+    "ydymbu0gg8": {
+      "id": "ydymbu0gg8",
+      "originalName": "file.png",
+      "storedName": "ydymbu0gg8.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 136039,
+      "expiresAt": 1776409601021,
+      "url": "https://cdn.miranight.me/api/u/ydymbu0gg8.png",
+      "createdAt": 1776406001021
     }
   },
   "stats": {
-    "uploads": 3047,
+    "uploads": 3048,
     "deleted": 2892,
-    "totalBytes": 715422386
+    "totalBytes": 715558425
   }
 }
