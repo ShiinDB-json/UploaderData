@@ -3332,11 +3332,22 @@
       "expiresAt": 1776434206662,
       "url": "https://cdn.miranight.me/api/u/ray2usd9c1.png",
       "createdAt": 1776430606662
+    },
+    "vlbi7yglc7": {
+      "id": "vlbi7yglc7",
+      "originalName": "file.png",
+      "storedName": "vlbi7yglc7.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 226676,
+      "expiresAt": 1776434563448,
+      "url": "https://cdn.miranight.me/api/u/vlbi7yglc7.png",
+      "createdAt": 1776430963448
     }
   },
   "stats": {
-    "uploads": 3195,
+    "uploads": 3196,
     "deleted": 2892,
-    "totalBytes": 746868880
+    "totalBytes": 747095556
   }
 }
