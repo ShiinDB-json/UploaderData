@@ -725,11 +725,22 @@
       "expiresAt": 1776395053488,
       "url": "https://cdn.miranight.me/api/u/jmbqzay4e0.png",
       "createdAt": 1776391453488
+    },
+    "hko334zpte": {
+      "id": "hko334zpte",
+      "originalName": "file.png",
+      "storedName": "hko334zpte.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 295591,
+      "expiresAt": 1776395085339,
+      "url": "https://cdn.miranight.me/api/u/hko334zpte.png",
+      "createdAt": 1776391485339
     }
   },
   "stats": {
-    "uploads": 2958,
+    "uploads": 2959,
     "deleted": 2892,
-    "totalBytes": 695632278
+    "totalBytes": 695927869
   }
 }
