@@ -2133,11 +2133,22 @@
       "expiresAt": 1776415432981,
       "url": "https://cdn.miranight.me/api/u/k8m5u4g8nz.png",
       "createdAt": 1776411832981
+    },
+    "6fg3rusp58": {
+      "id": "6fg3rusp58",
+      "originalName": "file.png",
+      "storedName": "6fg3rusp58.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 295591,
+      "expiresAt": 1776415507666,
+      "url": "https://cdn.miranight.me/api/u/6fg3rusp58.png",
+      "createdAt": 1776411907666
     }
   },
   "stats": {
-    "uploads": 3086,
+    "uploads": 3087,
     "deleted": 2892,
-    "totalBytes": 722919067
+    "totalBytes": 723214658
   }
 }
