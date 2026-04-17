@@ -2727,11 +2727,22 @@
       "expiresAt": 1776426261182,
       "url": "https://cdn.miranight.me/api/u/l1s3bisvdq.png",
       "createdAt": 1776422661182
+    },
+    "giax91psqa": {
+      "id": "giax91psqa",
+      "originalName": "file.png",
+      "storedName": "giax91psqa.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 274346,
+      "expiresAt": 1776426507085,
+      "url": "https://cdn.miranight.me/api/u/giax91psqa.png",
+      "createdAt": 1776422907085
     }
   },
   "stats": {
-    "uploads": 3140,
+    "uploads": 3141,
     "deleted": 2892,
-    "totalBytes": 734922530
+    "totalBytes": 735196876
   }
 }
