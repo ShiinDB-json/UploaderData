@@ -3068,11 +3068,22 @@
       "expiresAt": 1776431968073,
       "url": "https://cdn.miranight.me/api/u/4izpqrfuao.png",
       "createdAt": 1776428368073
+    },
+    "vpeo53ytok": {
+      "id": "vpeo53ytok",
+      "originalName": "file.png",
+      "storedName": "vpeo53ytok.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 202384,
+      "expiresAt": 1776432277899,
+      "url": "https://cdn.miranight.me/api/u/vpeo53ytok.png",
+      "createdAt": 1776428677899
     }
   },
   "stats": {
-    "uploads": 3171,
+    "uploads": 3172,
     "deleted": 2892,
-    "totalBytes": 741840131
+    "totalBytes": 742042515
   }
 }
