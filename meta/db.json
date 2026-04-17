@@ -3662,11 +3662,22 @@
       "expiresAt": 1776443636581,
       "url": "https://cdn.miranight.me/api/u/nry6qou9sf.png",
       "createdAt": 1776440036581
+    },
+    "peg1dhqb5v": {
+      "id": "peg1dhqb5v",
+      "originalName": "file.jpg",
+      "storedName": "peg1dhqb5v.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 131949,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/peg1dhqb5v.jpg",
+      "createdAt": 1776440241624
     }
   },
   "stats": {
-    "uploads": 3225,
+    "uploads": 3226,
     "deleted": 2892,
-    "totalBytes": 752896069
+    "totalBytes": 753028018
   }
 }
