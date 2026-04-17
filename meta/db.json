@@ -4785,11 +4785,23 @@
       "sourceUrl": "https://cdn.miranight.me/api/u/eqh6w2eotq.html",
       "url": "https://cdn.miranight.me/api/u/hw6ozbd4az.html",
       "createdAt": 1776444097693
+    },
+    "rotezorcdb": {
+      "id": "rotezorcdb",
+      "originalName": "eqh6w2eotq.html",
+      "storedName": "rotezorcdb.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "sourceUrl": "https://cdn.miranight.me/api/u/eqh6w2eotq.html",
+      "url": "https://cdn.miranight.me/api/u/rotezorcdb.html",
+      "createdAt": 1776444098850
     }
   },
   "stats": {
-    "uploads": 3324,
+    "uploads": 3325,
     "deleted": 2892,
-    "totalBytes": 967089849
+    "totalBytes": 969716901
   }
 }
