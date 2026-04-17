@@ -2353,11 +2353,22 @@
       "expiresAt": 1776420715470,
       "url": "https://cdn.miranight.me/api/u/h6x177cp7y.png",
       "createdAt": 1776417115470
+    },
+    "dwz2gu3ook": {
+      "id": "dwz2gu3ook",
+      "originalName": "file.png",
+      "storedName": "dwz2gu3ook.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 161081,
+      "expiresAt": 1776421253554,
+      "url": "https://cdn.miranight.me/api/u/dwz2gu3ook.png",
+      "createdAt": 1776417653554
     }
   },
   "stats": {
-    "uploads": 3106,
+    "uploads": 3107,
     "deleted": 2892,
-    "totalBytes": 727267383
+    "totalBytes": 727428464
   }
 }
