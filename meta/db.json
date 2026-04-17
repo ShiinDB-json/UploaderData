@@ -3937,11 +3937,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/iw4sr6ussi.html",
       "createdAt": 1776442038725
+    },
+    "da2amnknbc": {
+      "id": "da2amnknbc",
+      "originalName": "hacked_v2.html",
+      "storedName": "da2amnknbc.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/da2amnknbc.html",
+      "createdAt": 1776442042632
     }
   },
   "stats": {
-    "uploads": 3250,
+    "uploads": 3251,
     "deleted": 2892,
-    "totalBytes": 782544986
+    "totalBytes": 785172038
   }
 }
