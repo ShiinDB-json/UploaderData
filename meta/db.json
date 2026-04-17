@@ -989,11 +989,22 @@
       "expiresAt": 1776401774584,
       "url": "https://cdn.miranight.me/api/u/kouvyttwla.png",
       "createdAt": 1776398174584
+    },
+    "gh4xt9xmkv": {
+      "id": "gh4xt9xmkv",
+      "originalName": "file.png",
+      "storedName": "gh4xt9xmkv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 300089,
+      "expiresAt": 1776402023664,
+      "url": "https://cdn.miranight.me/api/u/gh4xt9xmkv.png",
+      "createdAt": 1776398423664
     }
   },
   "stats": {
-    "uploads": 2982,
+    "uploads": 2983,
     "deleted": 2892,
-    "totalBytes": 701459622
+    "totalBytes": 701759711
   }
 }
