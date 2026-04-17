@@ -978,11 +978,22 @@
       "expiresAt": 1776401259803,
       "url": "https://cdn.miranight.me/api/u/7xkmm7s66m.png",
       "createdAt": 1776397659803
+    },
+    "kouvyttwla": {
+      "id": "kouvyttwla",
+      "originalName": "file.png",
+      "storedName": "kouvyttwla.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 234743,
+      "expiresAt": 1776401774584,
+      "url": "https://cdn.miranight.me/api/u/kouvyttwla.png",
+      "createdAt": 1776398174584
     }
   },
   "stats": {
-    "uploads": 2981,
+    "uploads": 2982,
     "deleted": 2892,
-    "totalBytes": 701224879
+    "totalBytes": 701459622
   }
 }
