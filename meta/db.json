@@ -4267,11 +4267,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/yj0b5jt4kb.html",
       "createdAt": 1776442371170
+    },
+    "f8m31er2vb": {
+      "id": "f8m31er2vb",
+      "originalName": "hacked_v2.html",
+      "storedName": "f8m31er2vb.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/f8m31er2vb.html",
+      "createdAt": 1776442372914
     }
   },
   "stats": {
-    "uploads": 3280,
+    "uploads": 3281,
     "deleted": 2892,
-    "totalBytes": 861356546
+    "totalBytes": 863983598
   }
 }
