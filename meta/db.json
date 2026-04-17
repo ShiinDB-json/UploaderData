@@ -901,11 +901,22 @@
       "expiresAt": 1776399818011,
       "url": "https://cdn.miranight.me/api/u/jsuxz4v2ds.png",
       "createdAt": 1776396218011
+    },
+    "bkys665rs9": {
+      "id": "bkys665rs9",
+      "originalName": "file.png",
+      "storedName": "bkys665rs9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 323344,
+      "expiresAt": 1776399890962,
+      "url": "https://cdn.miranight.me/api/u/bkys665rs9.png",
+      "createdAt": 1776396290962
     }
   },
   "stats": {
-    "uploads": 2974,
+    "uploads": 2975,
     "deleted": 2892,
-    "totalBytes": 699743515
+    "totalBytes": 700066859
   }
 }
