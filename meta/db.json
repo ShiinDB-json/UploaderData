@@ -3343,11 +3343,22 @@
       "expiresAt": 1776434563448,
       "url": "https://cdn.miranight.me/api/u/vlbi7yglc7.png",
       "createdAt": 1776430963448
+    },
+    "o51wgmaccw": {
+      "id": "o51wgmaccw",
+      "originalName": "file.png",
+      "storedName": "o51wgmaccw.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 279978,
+      "expiresAt": 1776434712566,
+      "url": "https://cdn.miranight.me/api/u/o51wgmaccw.png",
+      "createdAt": 1776431112566
     }
   },
   "stats": {
-    "uploads": 3196,
+    "uploads": 3197,
     "deleted": 2892,
-    "totalBytes": 747095556
+    "totalBytes": 747375534
   }
 }
