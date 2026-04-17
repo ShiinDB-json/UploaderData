@@ -4289,11 +4289,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/chjkyz5day.html",
       "createdAt": 1776442375410
+    },
+    "ggtqknj2xg": {
+      "id": "ggtqknj2xg",
+      "originalName": "hacked_v2.html",
+      "storedName": "ggtqknj2xg.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/ggtqknj2xg.html",
+      "createdAt": 1776442376978
     }
   },
   "stats": {
-    "uploads": 3282,
+    "uploads": 3283,
     "deleted": 2892,
-    "totalBytes": 866610650
+    "totalBytes": 869237702
   }
 }
