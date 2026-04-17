@@ -1088,11 +1088,22 @@
       "expiresAt": 1776403194930,
       "url": "https://cdn.miranight.me/api/u/lvjqhy4r3m.png",
       "createdAt": 1776399594930
+    },
+    "kyveliebwm": {
+      "id": "kyveliebwm",
+      "originalName": "file.png",
+      "storedName": "kyveliebwm.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 170569,
+      "expiresAt": 1776403293381,
+      "url": "https://cdn.miranight.me/api/u/kyveliebwm.png",
+      "createdAt": 1776399693382
     }
   },
   "stats": {
-    "uploads": 2991,
+    "uploads": 2992,
     "deleted": 2892,
-    "totalBytes": 703480196
+    "totalBytes": 703650765
   }
 }
