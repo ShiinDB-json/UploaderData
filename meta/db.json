@@ -3123,11 +3123,22 @@
       "expiresAt": 1776432693979,
       "url": "https://cdn.miranight.me/api/u/0cdm4cmp45.png",
       "createdAt": 1776429093979
+    },
+    "dewbsswv7j": {
+      "id": "dewbsswv7j",
+      "originalName": "file.png",
+      "storedName": "dewbsswv7j.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 48756,
+      "expiresAt": 1776432695907,
+      "url": "https://cdn.miranight.me/api/u/dewbsswv7j.png",
+      "createdAt": 1776429095907
     }
   },
   "stats": {
-    "uploads": 3176,
+    "uploads": 3177,
     "deleted": 2892,
-    "totalBytes": 742746120
+    "totalBytes": 742794876
   }
 }
