@@ -912,11 +912,22 @@
       "expiresAt": 1776399890962,
       "url": "https://cdn.miranight.me/api/u/bkys665rs9.png",
       "createdAt": 1776396290962
+    },
+    "fmvundgce3": {
+      "id": "fmvundgce3",
+      "originalName": "file.png",
+      "storedName": "fmvundgce3.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 208724,
+      "expiresAt": 1776399940117,
+      "url": "https://cdn.miranight.me/api/u/fmvundgce3.png",
+      "createdAt": 1776396340117
     }
   },
   "stats": {
-    "uploads": 2975,
+    "uploads": 2976,
     "deleted": 2892,
-    "totalBytes": 700066859
+    "totalBytes": 700275583
   }
 }
