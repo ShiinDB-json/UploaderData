@@ -2386,11 +2386,22 @@
       "expiresAt": 1776421997446,
       "url": "https://cdn.miranight.me/api/u/2rnpy5u06r.png",
       "createdAt": 1776418397446
+    },
+    "eaiawf30bk": {
+      "id": "eaiawf30bk",
+      "originalName": "file.png",
+      "storedName": "eaiawf30bk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 142365,
+      "expiresAt": 1776421998588,
+      "url": "https://cdn.miranight.me/api/u/eaiawf30bk.png",
+      "createdAt": 1776418398588
     }
   },
   "stats": {
-    "uploads": 3109,
+    "uploads": 3110,
     "deleted": 2892,
-    "totalBytes": 727888955
+    "totalBytes": 728031320
   }
 }
