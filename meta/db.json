@@ -4179,11 +4179,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/dqw5jgd6z7.html",
       "createdAt": 1776442214574
+    },
+    "kzm1lvygt9": {
+      "id": "kzm1lvygt9",
+      "originalName": "hacked_v2.html",
+      "storedName": "kzm1lvygt9.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/kzm1lvygt9.html",
+      "createdAt": 1776442216858
     }
   },
   "stats": {
-    "uploads": 3272,
+    "uploads": 3273,
     "deleted": 2892,
-    "totalBytes": 840340130
+    "totalBytes": 842967182
   }
 }
