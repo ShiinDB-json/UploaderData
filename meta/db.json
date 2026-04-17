@@ -2397,11 +2397,22 @@
       "expiresAt": 1776421998588,
       "url": "https://cdn.miranight.me/api/u/eaiawf30bk.png",
       "createdAt": 1776418398588
+    },
+    "sio37smuiq": {
+      "id": "sio37smuiq",
+      "originalName": "file.png",
+      "storedName": "sio37smuiq.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 265272,
+      "expiresAt": 1776422000483,
+      "url": "https://cdn.miranight.me/api/u/sio37smuiq.png",
+      "createdAt": 1776418400483
     }
   },
   "stats": {
-    "uploads": 3110,
+    "uploads": 3111,
     "deleted": 2892,
-    "totalBytes": 728031320
+    "totalBytes": 728296592
   }
 }
