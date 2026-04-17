@@ -3321,11 +3321,22 @@
       "expiresAt": 1776434159773,
       "url": "https://cdn.miranight.me/api/u/25d3p4jy8n.png",
       "createdAt": 1776430559773
+    },
+    "ray2usd9c1": {
+      "id": "ray2usd9c1",
+      "originalName": "file.png",
+      "storedName": "ray2usd9c1.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 357267,
+      "expiresAt": 1776434206662,
+      "url": "https://cdn.miranight.me/api/u/ray2usd9c1.png",
+      "createdAt": 1776430606662
     }
   },
   "stats": {
-    "uploads": 3194,
+    "uploads": 3195,
     "deleted": 2892,
-    "totalBytes": 746511613
+    "totalBytes": 746868880
   }
 }
