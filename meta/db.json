@@ -3794,11 +3794,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/hbywa04lt3.dmp",
       "createdAt": 1776441269638
+    },
+    "qhjw9ddhxq": {
+      "id": "qhjw9ddhxq",
+      "originalName": "bomb_1mb.dmp",
+      "storedName": "qhjw9ddhxq.dmp",
+      "folder": "other",
+      "mimeType": "application/vnd.tcpdump.pcap",
+      "size": 1048576,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/qhjw9ddhxq.dmp",
+      "createdAt": 1776441272321
     }
   },
   "stats": {
-    "uploads": 3237,
+    "uploads": 3238,
     "deleted": 2892,
-    "totalBytes": 762599594
+    "totalBytes": 763648170
   }
 }
