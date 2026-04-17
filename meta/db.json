@@ -4344,11 +4344,22 @@
       "expiresAt": 1776446148763,
       "url": "https://cdn.miranight.me/api/u/6mecx30zv5.png",
       "createdAt": 1776442548763
+    },
+    "guk6uxpl9m": {
+      "id": "guk6uxpl9m",
+      "originalName": "file.jpg",
+      "storedName": "guk6uxpl9m.jpg",
+      "folder": "image",
+      "mimeType": "image/jpeg",
+      "size": 131949,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/guk6uxpl9m.jpg",
+      "createdAt": 1776442577608
     }
   },
   "stats": {
-    "uploads": 3287,
+    "uploads": 3288,
     "deleted": 2892,
-    "totalBytes": 877184847
+    "totalBytes": 877316796
   }
 }
