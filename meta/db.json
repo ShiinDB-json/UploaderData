@@ -3904,11 +3904,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/f286rbs3fl.html",
       "createdAt": 1776442032220
+    },
+    "ixmbonfo04": {
+      "id": "ixmbonfo04",
+      "originalName": "hacked_v2.html",
+      "storedName": "ixmbonfo04.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/ixmbonfo04.html",
+      "createdAt": 1776442034545
     }
   },
   "stats": {
-    "uploads": 3247,
+    "uploads": 3248,
     "deleted": 2892,
-    "totalBytes": 774663830
+    "totalBytes": 777290882
   }
 }
