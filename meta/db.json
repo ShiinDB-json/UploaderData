@@ -2001,11 +2001,22 @@
       "expiresAt": 1776413277505,
       "url": "https://cdn.miranight.me/api/u/a5vxsdjiw2.png",
       "createdAt": 1776409677505
+    },
+    "on0413rccv": {
+      "id": "on0413rccv",
+      "originalName": "file.png",
+      "storedName": "on0413rccv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 402840,
+      "expiresAt": 1776413870847,
+      "url": "https://cdn.miranight.me/api/u/on0413rccv.png",
+      "createdAt": 1776410270847
     }
   },
   "stats": {
-    "uploads": 3074,
+    "uploads": 3075,
     "deleted": 2892,
-    "totalBytes": 720629738
+    "totalBytes": 721032578
   }
 }
