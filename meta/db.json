@@ -3486,11 +3486,22 @@
       "expiresAt": 1776436450930,
       "url": "https://cdn.miranight.me/api/u/sdtlskp99r.png",
       "createdAt": 1776432850930
+    },
+    "c3jugi084v": {
+      "id": "c3jugi084v",
+      "originalName": "file.png",
+      "storedName": "c3jugi084v.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 117145,
+      "expiresAt": 1776436884045,
+      "url": "https://cdn.miranight.me/api/u/c3jugi084v.png",
+      "createdAt": 1776433284045
     }
   },
   "stats": {
-    "uploads": 3209,
+    "uploads": 3210,
     "deleted": 2892,
-    "totalBytes": 749425993
+    "totalBytes": 749543138
   }
 }
