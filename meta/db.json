@@ -1198,11 +1198,22 @@
       "expiresAt": 1776404860854,
       "url": "https://cdn.miranight.me/api/u/dgrocu8zgt.png",
       "createdAt": 1776401260854
+    },
+    "ktw7j3helk": {
+      "id": "ktw7j3helk",
+      "originalName": "file.png",
+      "storedName": "ktw7j3helk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 147999,
+      "expiresAt": 1776404866755,
+      "url": "https://cdn.miranight.me/api/u/ktw7j3helk.png",
+      "createdAt": 1776401266755
     }
   },
   "stats": {
-    "uploads": 3001,
+    "uploads": 3002,
     "deleted": 2892,
-    "totalBytes": 705734223
+    "totalBytes": 705882222
   }
 }
