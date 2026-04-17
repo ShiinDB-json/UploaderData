@@ -4355,11 +4355,23 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/guk6uxpl9m.jpg",
       "createdAt": 1776442577608
+    },
+    "dp9697r1yb": {
+      "id": "dp9697r1yb",
+      "originalName": "eqh6w2eotq.html",
+      "storedName": "dp9697r1yb.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "sourceUrl": "https://cdn.miranight.me/api/u/eqh6w2eotq.html",
+      "url": "https://cdn.miranight.me/api/u/dp9697r1yb.html",
+      "createdAt": 1776442684324
     }
   },
   "stats": {
-    "uploads": 3288,
+    "uploads": 3289,
     "deleted": 2892,
-    "totalBytes": 877316796
+    "totalBytes": 879943848
   }
 }
