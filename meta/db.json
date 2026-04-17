@@ -3882,11 +3882,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/ytsa3nvfpr.dmp",
       "createdAt": 1776441292650
+    },
+    "chezzeokxf": {
+      "id": "chezzeokxf",
+      "originalName": "bomb_1mb.dmp",
+      "storedName": "chezzeokxf.dmp",
+      "folder": "other",
+      "mimeType": "application/vnd.tcpdump.pcap",
+      "size": 1048576,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/chezzeokxf.dmp",
+      "createdAt": 1776441295607
     }
   },
   "stats": {
-    "uploads": 3245,
+    "uploads": 3246,
     "deleted": 2892,
-    "totalBytes": 770988202
+    "totalBytes": 772036778
   }
 }
