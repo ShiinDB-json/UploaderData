@@ -3893,11 +3893,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/chezzeokxf.dmp",
       "createdAt": 1776441295607
+    },
+    "f286rbs3fl": {
+      "id": "f286rbs3fl",
+      "originalName": "hacked_v2.html",
+      "storedName": "f286rbs3fl.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/f286rbs3fl.html",
+      "createdAt": 1776442032220
     }
   },
   "stats": {
-    "uploads": 3246,
+    "uploads": 3247,
     "deleted": 2892,
-    "totalBytes": 772036778
+    "totalBytes": 774663830
   }
 }
