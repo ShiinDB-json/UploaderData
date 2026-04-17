@@ -4212,11 +4212,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/b1pob8ksnk.html",
       "createdAt": 1776442359474
+    },
+    "n0xz4xffa0": {
+      "id": "n0xz4xffa0",
+      "originalName": "hacked_v2.html",
+      "storedName": "n0xz4xffa0.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/n0xz4xffa0.html",
+      "createdAt": 1776442362850
     }
   },
   "stats": {
-    "uploads": 3275,
+    "uploads": 3276,
     "deleted": 2892,
-    "totalBytes": 848221286
+    "totalBytes": 850848338
   }
 }
