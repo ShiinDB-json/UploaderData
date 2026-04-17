@@ -2628,11 +2628,22 @@
       "expiresAt": 1776425743449,
       "url": "https://cdn.miranight.me/api/u/przdh1olbl.png",
       "createdAt": 1776422143449
+    },
+    "jythrf20u2": {
+      "id": "jythrf20u2",
+      "originalName": "file.png",
+      "storedName": "jythrf20u2.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 152156,
+      "expiresAt": 1776425765840,
+      "url": "https://cdn.miranight.me/api/u/jythrf20u2.png",
+      "createdAt": 1776422165840
     }
   },
   "stats": {
-    "uploads": 3131,
+    "uploads": 3132,
     "deleted": 2892,
-    "totalBytes": 732821186
+    "totalBytes": 732973342
   }
 }
