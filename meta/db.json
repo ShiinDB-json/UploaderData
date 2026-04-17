@@ -1319,11 +1319,22 @@
       "expiresAt": 1776408112039,
       "url": "https://cdn.miranight.me/api/u/yny94f8gc1.png",
       "createdAt": 1776404512039
+    },
+    "rvm128yogk": {
+      "id": "rvm128yogk",
+      "originalName": "file.png",
+      "storedName": "rvm128yogk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 347484,
+      "expiresAt": 1776408218882,
+      "url": "https://cdn.miranight.me/api/u/rvm128yogk.png",
+      "createdAt": 1776404618882
     }
   },
   "stats": {
-    "uploads": 3012,
+    "uploads": 3013,
     "deleted": 2892,
-    "totalBytes": 708529778
+    "totalBytes": 708877262
   }
 }
