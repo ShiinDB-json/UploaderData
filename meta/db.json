@@ -3090,11 +3090,22 @@
       "expiresAt": 1776432529182,
       "url": "https://cdn.miranight.me/api/u/3obnk5i7zz.png",
       "createdAt": 1776428929182
+    },
+    "xlcnp2gami": {
+      "id": "xlcnp2gami",
+      "originalName": "file.png",
+      "storedName": "xlcnp2gami.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 207709,
+      "expiresAt": 1776432669655,
+      "url": "https://cdn.miranight.me/api/u/xlcnp2gami.png",
+      "createdAt": 1776429069655
     }
   },
   "stats": {
-    "uploads": 3173,
+    "uploads": 3174,
     "deleted": 2892,
-    "totalBytes": 742290609
+    "totalBytes": 742498318
   }
 }
