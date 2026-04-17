@@ -4245,11 +4245,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/9eo92jlf23.html",
       "createdAt": 1776442367409
+    },
+    "bhc3bin83a": {
+      "id": "bhc3bin83a",
+      "originalName": "hacked_v2.html",
+      "storedName": "bhc3bin83a.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/bhc3bin83a.html",
+      "createdAt": 1776442369378
     }
   },
   "stats": {
-    "uploads": 3278,
+    "uploads": 3279,
     "deleted": 2892,
-    "totalBytes": 856102442
+    "totalBytes": 858729494
   }
 }
