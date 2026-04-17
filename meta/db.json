@@ -4080,11 +4080,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/nzu09d3ecw.html",
       "createdAt": 1776442197012
+    },
+    "z2pydg2nfo": {
+      "id": "z2pydg2nfo",
+      "originalName": "hacked_v2.html",
+      "storedName": "z2pydg2nfo.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/z2pydg2nfo.html",
+      "createdAt": 1776442199580
     }
   },
   "stats": {
-    "uploads": 3263,
+    "uploads": 3264,
     "deleted": 2892,
-    "totalBytes": 816696662
+    "totalBytes": 819323714
   }
 }
