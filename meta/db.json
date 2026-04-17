@@ -3475,11 +3475,22 @@
       "expiresAt": 1776436415040,
       "url": "https://cdn.miranight.me/api/u/dv2j0nwlb1.png",
       "createdAt": 1776432815040
+    },
+    "sdtlskp99r": {
+      "id": "sdtlskp99r",
+      "originalName": "file.png",
+      "storedName": "sdtlskp99r.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 101779,
+      "expiresAt": 1776436450930,
+      "url": "https://cdn.miranight.me/api/u/sdtlskp99r.png",
+      "createdAt": 1776432850930
     }
   },
   "stats": {
-    "uploads": 3208,
+    "uploads": 3209,
     "deleted": 2892,
-    "totalBytes": 749324214
+    "totalBytes": 749425993
   }
 }
