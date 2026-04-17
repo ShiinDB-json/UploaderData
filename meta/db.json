@@ -8025,11 +8025,23 @@
       "sourceUrl": "https://cdn.miranight.me/api/u/eqh6w2eotq.html",
       "url": "https://cdn.miranight.me/api/u/43pv4bzy67.html",
       "createdAt": 1776446018696
+    },
+    "r2ebaa7js1": {
+      "id": "r2ebaa7js1",
+      "originalName": "eqh6w2eotq.html",
+      "storedName": "r2ebaa7js1.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "sourceUrl": "https://cdn.miranight.me/api/u/eqh6w2eotq.html",
+      "url": "https://cdn.miranight.me/api/u/r2ebaa7js1.html",
+      "createdAt": 1776446021247
     }
   },
   "stats": {
-    "uploads": 3594,
+    "uploads": 3595,
     "deleted": 2892,
-    "totalBytes": 1676393889
+    "totalBytes": 1679020941
   }
 }
