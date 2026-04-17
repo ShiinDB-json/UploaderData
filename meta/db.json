@@ -3233,11 +3233,22 @@
       "expiresAt": 1776433911351,
       "url": "https://cdn.miranight.me/api/u/oufptsah6h.png",
       "createdAt": 1776430311351
+    },
+    "tivz0tp16p": {
+      "id": "tivz0tp16p",
+      "originalName": "file.png",
+      "storedName": "tivz0tp16p.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 237924,
+      "expiresAt": 1776433936633,
+      "url": "https://cdn.miranight.me/api/u/tivz0tp16p.png",
+      "createdAt": 1776430336633
     }
   },
   "stats": {
-    "uploads": 3186,
+    "uploads": 3187,
     "deleted": 2892,
-    "totalBytes": 744828685
+    "totalBytes": 745066609
   }
 }
