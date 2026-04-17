@@ -769,11 +769,22 @@
       "expiresAt": 1776395188270,
       "url": "https://cdn.miranight.me/api/u/dmt8r209cu.png",
       "createdAt": 1776391588270
+    },
+    "665hfrm4il": {
+      "id": "665hfrm4il",
+      "originalName": "file.png",
+      "storedName": "665hfrm4il.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 226898,
+      "expiresAt": 1776395202220,
+      "url": "https://cdn.miranight.me/api/u/665hfrm4il.png",
+      "createdAt": 1776391602220
     }
   },
   "stats": {
-    "uploads": 2962,
+    "uploads": 2963,
     "deleted": 2892,
-    "totalBytes": 696869116
+    "totalBytes": 697096014
   }
 }
