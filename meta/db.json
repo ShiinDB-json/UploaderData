@@ -8241,11 +8241,23 @@
       "sourceUrl": "https://cdn.miranight.me/api/u/eqh6w2eotq.html",
       "url": "https://cdn.miranight.me/api/u/o2tntrkh0f.html",
       "createdAt": 1776446057728
+    },
+    "0gqlz8kvhy": {
+      "id": "0gqlz8kvhy",
+      "originalName": "eqh6w2eotq.html",
+      "storedName": "0gqlz8kvhy.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "sourceUrl": "https://cdn.miranight.me/api/u/eqh6w2eotq.html",
+      "url": "https://cdn.miranight.me/api/u/0gqlz8kvhy.html",
+      "createdAt": 1776446059852
     }
   },
   "stats": {
-    "uploads": 3612,
+    "uploads": 3613,
     "deleted": 2892,
-    "totalBytes": 1723680825
+    "totalBytes": 1726307877
   }
 }
