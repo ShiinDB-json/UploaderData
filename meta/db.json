@@ -659,11 +659,22 @@
       "expiresAt": 1776391972555,
       "url": "https://cdn.miranight.me/api/u/8h220kxrpu.png",
       "createdAt": 1776388372555
+    },
+    "wjkzxhdo60": {
+      "id": "wjkzxhdo60",
+      "originalName": "file.png",
+      "storedName": "wjkzxhdo60.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 72886,
+      "expiresAt": 1776392663826,
+      "url": "https://cdn.miranight.me/api/u/wjkzxhdo60.png",
+      "createdAt": 1776389063826
     }
   },
   "stats": {
-    "uploads": 2952,
+    "uploads": 2953,
     "deleted": 2892,
-    "totalBytes": 694370317
+    "totalBytes": 694443203
   }
 }
