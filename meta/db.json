@@ -1110,11 +1110,22 @@
       "expiresAt": 1776403342812,
       "url": "https://cdn.miranight.me/api/u/rd4v6tsv60.png",
       "createdAt": 1776399742812
+    },
+    "c2s20ut0xw": {
+      "id": "c2s20ut0xw",
+      "originalName": "file.png",
+      "storedName": "c2s20ut0xw.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 302703,
+      "expiresAt": 1776403346109,
+      "url": "https://cdn.miranight.me/api/u/c2s20ut0xw.png",
+      "createdAt": 1776399746109
     }
   },
   "stats": {
-    "uploads": 2993,
+    "uploads": 2994,
     "deleted": 2892,
-    "totalBytes": 703965355
+    "totalBytes": 704268058
   }
 }
