@@ -2111,11 +2111,22 @@
       "expiresAt": 1776415100424,
       "url": "https://cdn.miranight.me/api/u/uneuquiqwx.png",
       "createdAt": 1776411500424
+    },
+    "yojdw3mooq": {
+      "id": "yojdw3mooq",
+      "originalName": "file.png",
+      "storedName": "yojdw3mooq.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 310257,
+      "expiresAt": 1776415105904,
+      "url": "https://cdn.miranight.me/api/u/yojdw3mooq.png",
+      "createdAt": 1776411505904
     }
   },
   "stats": {
-    "uploads": 3084,
+    "uploads": 3085,
     "deleted": 2892,
-    "totalBytes": 722541421
+    "totalBytes": 722851678
   }
 }
