@@ -2705,11 +2705,22 @@
       "expiresAt": 1776426034986,
       "url": "https://cdn.miranight.me/api/u/12nkfitvfu.png",
       "createdAt": 1776422434986
+    },
+    "bx1lbszgcc": {
+      "id": "bx1lbszgcc",
+      "originalName": "file.png",
+      "storedName": "bx1lbszgcc.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 285448,
+      "expiresAt": 1776426195691,
+      "url": "https://cdn.miranight.me/api/u/bx1lbszgcc.png",
+      "createdAt": 1776422595691
     }
   },
   "stats": {
-    "uploads": 3138,
+    "uploads": 3139,
     "deleted": 2892,
-    "totalBytes": 734377627
+    "totalBytes": 734663075
   }
 }
