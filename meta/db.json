@@ -3970,11 +3970,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/l0o22nrzlb.html",
       "createdAt": 1776442046093
+    },
+    "edjoicix7a": {
+      "id": "edjoicix7a",
+      "originalName": "hacked_v2.html",
+      "storedName": "edjoicix7a.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/edjoicix7a.html",
+      "createdAt": 1776442047937
     }
   },
   "stats": {
-    "uploads": 3253,
+    "uploads": 3254,
     "deleted": 2892,
-    "totalBytes": 790426142
+    "totalBytes": 793053194
   }
 }
