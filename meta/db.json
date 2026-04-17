@@ -2287,11 +2287,22 @@
       "expiresAt": 1776420132415,
       "url": "https://cdn.miranight.me/api/u/ldes4iqge8.png",
       "createdAt": 1776416532415
+    },
+    "drhaadnoi2": {
+      "id": "drhaadnoi2",
+      "originalName": "file.png",
+      "storedName": "drhaadnoi2.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 265852,
+      "expiresAt": 1776420156778,
+      "url": "https://cdn.miranight.me/api/u/drhaadnoi2.png",
+      "createdAt": 1776416556778
     }
   },
   "stats": {
-    "uploads": 3100,
+    "uploads": 3101,
     "deleted": 2892,
-    "totalBytes": 725638177
+    "totalBytes": 725904029
   }
 }
