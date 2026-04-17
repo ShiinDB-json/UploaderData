@@ -1099,11 +1099,22 @@
       "expiresAt": 1776403293381,
       "url": "https://cdn.miranight.me/api/u/kyveliebwm.png",
       "createdAt": 1776399693382
+    },
+    "rd4v6tsv60": {
+      "id": "rd4v6tsv60",
+      "originalName": "file.png",
+      "storedName": "rd4v6tsv60.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 314590,
+      "expiresAt": 1776403342812,
+      "url": "https://cdn.miranight.me/api/u/rd4v6tsv60.png",
+      "createdAt": 1776399742812
     }
   },
   "stats": {
-    "uploads": 2992,
+    "uploads": 2993,
     "deleted": 2892,
-    "totalBytes": 703650765
+    "totalBytes": 703965355
   }
 }
