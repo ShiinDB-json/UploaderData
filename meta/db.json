@@ -3013,11 +3013,22 @@
       "expiresAt": 1776430458904,
       "url": "https://cdn.miranight.me/api/u/2xtzvq2yvd.png",
       "createdAt": 1776426858904
+    },
+    "orp78ggwhv": {
+      "id": "orp78ggwhv",
+      "originalName": "file.png",
+      "storedName": "orp78ggwhv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 273413,
+      "expiresAt": 1776430461505,
+      "url": "https://cdn.miranight.me/api/u/orp78ggwhv.png",
+      "createdAt": 1776426861505
     }
   },
   "stats": {
-    "uploads": 3166,
+    "uploads": 3167,
     "deleted": 2892,
-    "totalBytes": 740783980
+    "totalBytes": 741057393
   }
 }
