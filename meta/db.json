@@ -2980,11 +2980,22 @@
       "expiresAt": 1776430449347,
       "url": "https://cdn.miranight.me/api/u/j6og1ayh76.png",
       "createdAt": 1776426849347
+    },
+    "zg23wnzdyk": {
+      "id": "zg23wnzdyk",
+      "originalName": "file.png",
+      "storedName": "zg23wnzdyk.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 232177,
+      "expiresAt": 1776430455504,
+      "url": "https://cdn.miranight.me/api/u/zg23wnzdyk.png",
+      "createdAt": 1776426855504
     }
   },
   "stats": {
-    "uploads": 3163,
+    "uploads": 3164,
     "deleted": 2892,
-    "totalBytes": 740079148
+    "totalBytes": 740311325
   }
 }
