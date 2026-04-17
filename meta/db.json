@@ -3442,11 +3442,22 @@
       "expiresAt": 1776436370610,
       "url": "https://cdn.miranight.me/api/u/gg5uf8v5n5.png",
       "createdAt": 1776432770610
+    },
+    "wi4tuxxdyz": {
+      "id": "wi4tuxxdyz",
+      "originalName": "file.png",
+      "storedName": "wi4tuxxdyz.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 89813,
+      "expiresAt": 1776436384386,
+      "url": "https://cdn.miranight.me/api/u/wi4tuxxdyz.png",
+      "createdAt": 1776432784386
     }
   },
   "stats": {
-    "uploads": 3205,
+    "uploads": 3206,
     "deleted": 2892,
-    "totalBytes": 748951889
+    "totalBytes": 749041702
   }
 }
