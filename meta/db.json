@@ -736,11 +736,22 @@
       "expiresAt": 1776395085339,
       "url": "https://cdn.miranight.me/api/u/hko334zpte.png",
       "createdAt": 1776391485339
+    },
+    "fnsc9rbkr9": {
+      "id": "fnsc9rbkr9",
+      "originalName": "file.png",
+      "storedName": "fnsc9rbkr9.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 226898,
+      "expiresAt": 1776395099928,
+      "url": "https://cdn.miranight.me/api/u/fnsc9rbkr9.png",
+      "createdAt": 1776391499928
     }
   },
   "stats": {
-    "uploads": 2959,
+    "uploads": 2960,
     "deleted": 2892,
-    "totalBytes": 695927869
+    "totalBytes": 696154767
   }
 }
