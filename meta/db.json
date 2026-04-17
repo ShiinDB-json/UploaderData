@@ -1330,11 +1330,22 @@
       "expiresAt": 1776408218882,
       "url": "https://cdn.miranight.me/api/u/rvm128yogk.png",
       "createdAt": 1776404618882
+    },
+    "roxkm8hive": {
+      "id": "roxkm8hive",
+      "originalName": "file.png",
+      "storedName": "roxkm8hive.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 158329,
+      "expiresAt": 1776408226534,
+      "url": "https://cdn.miranight.me/api/u/roxkm8hive.png",
+      "createdAt": 1776404626534
     }
   },
   "stats": {
-    "uploads": 3013,
+    "uploads": 3014,
     "deleted": 2892,
-    "totalBytes": 708877262
+    "totalBytes": 709035591
   }
 }
