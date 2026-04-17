@@ -3101,11 +3101,22 @@
       "expiresAt": 1776432669655,
       "url": "https://cdn.miranight.me/api/u/xlcnp2gami.png",
       "createdAt": 1776429069655
+    },
+    "c8li91mhln": {
+      "id": "c8li91mhln",
+      "originalName": "file.png",
+      "storedName": "c8li91mhln.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 74985,
+      "expiresAt": 1776432690231,
+      "url": "https://cdn.miranight.me/api/u/c8li91mhln.png",
+      "createdAt": 1776429090231
     }
   },
   "stats": {
-    "uploads": 3174,
+    "uploads": 3175,
     "deleted": 2892,
-    "totalBytes": 742498318
+    "totalBytes": 742573303
   }
 }
