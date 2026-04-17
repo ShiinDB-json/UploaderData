@@ -3915,11 +3915,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/ixmbonfo04.html",
       "createdAt": 1776442034545
+    },
+    "wqpo44ddmb": {
+      "id": "wqpo44ddmb",
+      "originalName": "hacked_v2.html",
+      "storedName": "wqpo44ddmb.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/wqpo44ddmb.html",
+      "createdAt": 1776442035897
     }
   },
   "stats": {
-    "uploads": 3248,
+    "uploads": 3249,
     "deleted": 2892,
-    "totalBytes": 777290882
+    "totalBytes": 779917934
   }
 }
