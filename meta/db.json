@@ -3629,11 +3629,22 @@
       "expiresAt": 1776443462212,
       "url": "https://cdn.miranight.me/api/u/8h7dhgcs0x.png",
       "createdAt": 1776439862212
+    },
+    "f3ifm322ck": {
+      "id": "f3ifm322ck",
+      "originalName": "file.png",
+      "storedName": "f3ifm322ck.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 125680,
+      "expiresAt": 1776443625662,
+      "url": "https://cdn.miranight.me/api/u/f3ifm322ck.png",
+      "createdAt": 1776440025662
     }
   },
   "stats": {
-    "uploads": 3222,
+    "uploads": 3223,
     "deleted": 2892,
-    "totalBytes": 752220799
+    "totalBytes": 752346479
   }
 }
