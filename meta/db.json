@@ -4190,11 +4190,22 @@
       "expiresAt": null,
       "url": "https://cdn.miranight.me/api/u/kzm1lvygt9.html",
       "createdAt": 1776442216858
+    },
+    "ncogimf5bs": {
+      "id": "ncogimf5bs",
+      "originalName": "hacked_v2.html",
+      "storedName": "ncogimf5bs.html",
+      "folder": "text",
+      "mimeType": "text/html",
+      "size": 2627052,
+      "expiresAt": null,
+      "url": "https://cdn.miranight.me/api/u/ncogimf5bs.html",
+      "createdAt": 1776442356195
     }
   },
   "stats": {
-    "uploads": 3273,
+    "uploads": 3274,
     "deleted": 2892,
-    "totalBytes": 842967182
+    "totalBytes": 845594234
   }
 }
