@@ -747,11 +747,22 @@
       "expiresAt": 1776395099928,
       "url": "https://cdn.miranight.me/api/u/fnsc9rbkr9.png",
       "createdAt": 1776391499928
+    },
+    "lc99955lzi": {
+      "id": "lc99955lzi",
+      "originalName": "file.png",
+      "storedName": "lc99955lzi.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 336955,
+      "expiresAt": 1776395176407,
+      "url": "https://cdn.miranight.me/api/u/lc99955lzi.png",
+      "createdAt": 1776391576407
     }
   },
   "stats": {
-    "uploads": 2960,
+    "uploads": 2961,
     "deleted": 2892,
-    "totalBytes": 696154767
+    "totalBytes": 696491722
   }
 }
