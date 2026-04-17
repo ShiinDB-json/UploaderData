@@ -3134,11 +3134,22 @@
       "expiresAt": 1776432695907,
       "url": "https://cdn.miranight.me/api/u/dewbsswv7j.png",
       "createdAt": 1776429095907
+    },
+    "duopityuta": {
+      "id": "duopityuta",
+      "originalName": "file.png",
+      "storedName": "duopityuta.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 270703,
+      "expiresAt": 1776432697708,
+      "url": "https://cdn.miranight.me/api/u/duopityuta.png",
+      "createdAt": 1776429097708
     }
   },
   "stats": {
-    "uploads": 3177,
+    "uploads": 3178,
     "deleted": 2892,
-    "totalBytes": 742794876
+    "totalBytes": 743065579
   }
 }
