@@ -2012,11 +2012,22 @@
       "expiresAt": 1776413870847,
       "url": "https://cdn.miranight.me/api/u/on0413rccv.png",
       "createdAt": 1776410270847
+    },
+    "ffajtgkc9t": {
+      "id": "ffajtgkc9t",
+      "originalName": "file.png",
+      "storedName": "ffajtgkc9t.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 240539,
+      "expiresAt": 1776414140116,
+      "url": "https://cdn.miranight.me/api/u/ffajtgkc9t.png",
+      "createdAt": 1776410540116
     }
   },
   "stats": {
-    "uploads": 3075,
+    "uploads": 3076,
     "deleted": 2892,
-    "totalBytes": 721032578
+    "totalBytes": 721273117
   }
 }
