@@ -1121,11 +1121,22 @@
       "expiresAt": 1776403346109,
       "url": "https://cdn.miranight.me/api/u/c2s20ut0xw.png",
       "createdAt": 1776399746109
+    },
+    "j6qx4ummms": {
+      "id": "j6qx4ummms",
+      "originalName": "file.png",
+      "storedName": "j6qx4ummms.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 221319,
+      "expiresAt": 1776403353273,
+      "url": "https://cdn.miranight.me/api/u/j6qx4ummms.png",
+      "createdAt": 1776399753273
     }
   },
   "stats": {
-    "uploads": 2994,
+    "uploads": 2995,
     "deleted": 2892,
-    "totalBytes": 704268058
+    "totalBytes": 704489377
   }
 }
