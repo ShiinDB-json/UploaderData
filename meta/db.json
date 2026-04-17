@@ -1814,11 +1814,22 @@
       "expiresAt": 1776409893694,
       "url": "https://cdn.miranight.me/api/u/ph2wy0x6wv.png",
       "createdAt": 1776406293694
+    },
+    "vevujikukv": {
+      "id": "vevujikukv",
+      "originalName": "file.png",
+      "storedName": "vevujikukv.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 56983,
+      "expiresAt": 1776410014161,
+      "url": "https://cdn.miranight.me/api/u/vevujikukv.png",
+      "createdAt": 1776406414161
     }
   },
   "stats": {
-    "uploads": 3057,
+    "uploads": 3058,
     "deleted": 2892,
-    "totalBytes": 717405023
+    "totalBytes": 717462006
   }
 }
