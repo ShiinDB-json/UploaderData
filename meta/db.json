@@ -1715,11 +1715,22 @@
       "expiresAt": 1776409601021,
       "url": "https://cdn.miranight.me/api/u/ydymbu0gg8.png",
       "createdAt": 1776406001021
+    },
+    "judn1sip3d": {
+      "id": "judn1sip3d",
+      "originalName": "file.png",
+      "storedName": "judn1sip3d.png",
+      "folder": "other",
+      "mimeType": "application/octet-stream",
+      "size": 280866,
+      "expiresAt": 1776409634215,
+      "url": "https://cdn.miranight.me/api/u/judn1sip3d.png",
+      "createdAt": 1776406034215
     }
   },
   "stats": {
-    "uploads": 3048,
+    "uploads": 3049,
     "deleted": 2892,
-    "totalBytes": 715558425
+    "totalBytes": 715839291
   }
 }
